@@ -1,4 +1,4 @@
-1	Power	0	0	perc	100000	0	0.1	더미_이상상태			유명한 무법자가 되었습니다. 휴식의 신관, 휴식의 신장, 사냥터 이동 관리인, 페가수스 이동 메뉴를 사용 할 수 없습니다. 사망 시 크리스탈 파괴 판정 횟수가 증가합니다. 컨디션 감소량이 증가합니다. 힘이 90% 감소되며 맷집이 unk2 감소됩니다 또한 이동속도가 unk3 감소됩니다. 악명이 0일때 비 전투 상태를 60초 동안 유지하면 유명한 무법자 상태가 해제됩니다.	icon_skills.voidtrap_tex
+1	Power	0	0	perc	100000	0	0.1	더미_이상상태			유명한 무법자가 되었습니다. 휴식의 신관, 휴식의 신장, 사냥터 이동 관리인, 페가수스 이동 메뉴를 사용 할 수 없습니다. 사망 시 크리스탈 파괴 판정 횟수가 증가합니다. 컨디션 감소량이 증가합니다. 힘이 90% 감소되며 맷집이 90% (unk2) 감소됩니다 또한 이동속도가 90% (unk3) 감소됩니다. 악명이 0일때 비 전투 상태를 60초 동안 유지하면 유명한 무법자 상태가 해제됩니다.	icon_skills.voidtrap_tex
 2	Power	0	0	perc	180000000	0	100	테스트용_후덜덜	149004	[이벤트] 강력한 권능의 포션	공격력 100배 / 방어력 100배 효과! 5시간 지속! 일반 게임 플레이 시 이 툴팁이 보이면 BTS 처리 필요!	icon_skills.voidtrap_tex
 2	Endurance	0	0	perc	180000000	0	100	테스트용_후덜덜	149004	[이벤트] 강력한 권능의 포션	공격력 100배 / 방어력 100배 효과! 5시간 지속! 일반 게임 플레이 시 이 툴팁이 보이면 BTS 처리 필요!	icon_skills.voidtrap_tex
 22	Attack	0	0	perc	1200000	0	1.4	테스트_스킬데미지증가			테스트 전용! 모든 스킬 데미지 40% 증가!	icon_skills.voidtrap_tex
@@ -22,6 +22,8 @@
 39	Power	0	0	perc	0	0	1.02	전투의 기상(PC방)			공격력, 공격속도, 회복력이 2% 상승합니다. 해당 이상상태는 PC방에서만 이용할 수 있습니다.	icon_status.plusecritical_tex
 39	ASpd	0	0	perc	0	0	1.02	전투의 기상(PC방)			공격력, 공격속도, 회복력이 2% 상승합니다. 해당 이상상태는 PC방에서만 이용할 수 있습니다.	icon_status.plusecritical_tex
 47	Attack	0	0	perc	9900000	0	1.5	테스트_스킬데미지증가/적대치 감소			테스트 전용! 모든 스킬 데미지 50% 증가/적대치 50% 감소	icon_skills.voidtrap_tex
+201	Power	0	0	abs	2400000	0	17	힘의 축복 I			강인한 힘의 축복을 받아 힘이 17 향상됩니다.	icon_skills.attackup_tex
+202	Power	0	0	abs	2400000	0	25	아룬의 축복 V			강인한 힘의 축복을 받아 힘이 25 향상됩니다.	icon_skills.attackup_tex
 601	Power	0	0	abs	0	0	20	광기의 힘 I			광기어린 정령의 기운을 받아 힘이 20 증가하고, 공격 속도가 6 향상됩니다. 시전자 주변 30m 범위 내에 있을 때만 결계 효과를 받을 수 있습니다.	icon_skills.rage_tex
 601	ASpd	0	0	abs	0	0	6	광기의 힘 I			광기어린 정령의 기운을 받아 힘이 20 증가하고, 공격 속도가 6 향상됩니다. 시전자 주변 30m 범위 내에 있을 때만 결계 효과를 받을 수 있습니다.	icon_skills.rage_tex
 602	Power	0	0	abs	0	0	25	광기의 힘 II			광기어린 정령의 기운을 받아 힘이 25 증가하고, 공격 속도가 6 향상됩니다. 시전자 주변 30m 범위 내에 있을 때만 결계 효과를 받을 수 있습니다.	icon_skills.rage_tex
@@ -415,6 +417,8 @@
 4955	AtkPotion	0	0	perc	1800000	0	1.15	강화의 물약	150534	유럽용 강화의 물약	공격력이 15% 증가됩니다. 서버간 파티 매칭 버프와 중첩되지 않습니다.	icon_status.plusattack_tex
 4956	HPChange	0.15	0	perc	1000	1	0.15	부활절 달걀 바구니	151377	부활절 달걀 바구니	전체 HP 대비 15%에 달하는 HP가 즉시 회복됩니다.	icon_items.ricecake_tex
 4957	HPChange	0.15	0	perc	1000	1	0.15	할로윈 큐브 바구니			전체 HP 대비 15%에 달하는 HP가 즉시 회복됩니다.	icon_items.sweetypumpkinpie_tex
+6001	CritPower1	0	0	abs	6000	0	1	용의 혈맥			몬스터 공격 시 치명타 위력이 +1.5배 증가됩니다.	icon_status.passive_dragonblood
+6002	CritPower1	0	0	abs	6000	0	2	진룡의 혈맥			몬스터 공격 시 치명타 위력이 +2배 증가됩니다.	icon_status.passive_dragonblood2
 10100	HPChange	-11	0	abs	5000	1	-11	맹독 I [크리스탈]			1s마다 -11씩 HP가 지속적으로 감소됩니다.	icon_items.customize9ar_tex
 10101	HPChange	-23	0	abs	5000	1	-23	맹독 II [크리스탈]			1s마다 -23씩 HP가 지속적으로 감소됩니다.	icon_items.customize9br_tex
 10102	HPChange	-58	0	abs	5000	1	-58	맹독 III [크리스탈]			1s마다 -58씩 HP가 지속적으로 감소됩니다.	icon_items.customize9cr_tex
@@ -696,12 +700,12 @@
 26170	CastSpeed	0	0	perc	6000	0	1.3	다중 사격(연계 신속의 문장 [관통 사격])			연계 스킬로 관통 사격 사용 시 차지 속도가 30% 증가됩니다.	icon_skills.arrowshower_tex
 26171	CastSpeed	0	0	perc	6000	0	1.4	다중 사격(연계 신속의 문장 [관통 사격])			연계 스킬로 관통 사격 사용 시 차지 속도가 40% 증가됩니다.	icon_skills.arrowshower_tex
 26180	CastSpeed	0	0	perc	6000	0	1.3	맹독의 화살(연계 신속의 문장 [집중 사격])			연계 스킬로 집중 사격 사용 시 차지 속도가 30% 증가됩니다.	icon_skills.venomarrow_tex
-26190	CastSpeed	0	0	perc	6000	0	1.3	속사의 연쇄(연계 신속의 문장 [관통 사격])			연계 스킬로 관통 사격 사용 시 차지 속도가 30% 증가됩니다.	icon_skills.chainrapidshot_tex
+26190	CastSpeed	0	0	perc	6000	0	1.3	속사의 연쇄(연계 신속의 문장 [관통 사격])			연계 스킬로 관통 사격 사용 시 차지 속도가 30% 증가됩니다.	
 26200	MovSpdInCombat	0	0	abs	3000	0	50	돌려차기(활력의 문장)			전투 상태에서의 이동 속도가 50 증가됩니다.	icon_skills.turningkick_tex
-26220	Endurance	0	0	perc	25000	0	0.9545	거미덫화살(약화의 문장)			맷집이 4.55% 감소됩니다.	
+26220	Endurance	0	0	perc	25000	0	0.9545	맷집 감소 [약화의 문장]			맷집이 4.55% 감소됩니다.	icon_crest.crestactivedefencedown_tex
 26230	MPChange	0	0.06	perc	5000	1	0.06	집념(정신의 문장)			1s마다 전체 MP 대비 6%씩 MP가 지속적으로 회복됩니다.	icon_skills.tenacity_tex
 26250	Crit	0	0	perc	0	0	3	치명타 유발 증가[필살의 문장]			치명타 유발이 3배 증가됩니다.	icon_crest.crestpassivecriticalup_tex
-26251	Endurance	0	0	perc	25000	0	0.9545	거미덫화살(약화의 문장)			맷집이 4.55% 감소됩니다.	
+26251	Endurance	0	0	perc	25000	0	0.9545	맷집 감소 [약화의 문장]			맷집이 4.55% 감소됩니다.	icon_crest.crestactivedefencedown_tex
 27060	ASpd	0	0	perc	6000	0	0.7	구속탄(감속의 문장)			공격 속도가 30% 감소됩니다.	icon_skills.slowball_tex
 27110	MovSpdInCombat	0	0	abs	3000	0	50	섬광탄(활력의 문장)			전투 상태에서의 이동 속도가 50 증가됩니다.	icon_skills.flashball_tex
 27120	Endurance	0	0	perc	600000	0	1.1	정령 소환 : 수호의 정령(협동의 문장)			맷집이 10% 향상됩니다.	icon_skills.summonspiritofaggro_tex
@@ -957,8 +961,10 @@
 400105	Power	0	0	perc	27000	0	1.2	광폭화 VI			폭발한 분노로 인해 힘이 20% 치명타 유발이 10% 향상되지만, 맷집은 10% 감소됩니다.	icon_skills.berserk_tex
 400105	Endurance	0	0	perc	27000	0	0.9	광폭화 VI			폭발한 분노로 인해 힘이 20% 치명타 유발이 10% 향상되지만, 맷집은 10% 감소됩니다.	icon_skills.berserk_tex
 400105	Crit	0	0	perc	27000	0	1.1	광폭화 VI			폭발한 분노로 인해 힘이 20% 치명타 유발이 10% 향상되지만, 맷집은 10% 감소됩니다.	icon_skills.berserk_tex
-400500	ASpd	0	0	perc	15000	0	1.2	광기 증폭 I			공격 속도와 차징 속도가 20% 만큼 증가됩니다.	icon_skills.gatheringrage_tex
-400501	ASpd	0	0	perc	15000	0	1.4	광기 증폭			공격 속도와 차징 속도가 40% 만큼 증가됩니다.	icon_skills.gatheringrage_tex
+400500	ASpd	0	0	perc	10000	0	1.2	광폭화			공격 속도와 차징 속도가 20% 만큼 증가됩니다.	icon_skills.berserk_tex
+400501	ASpd	0	0	perc	10000	0	1.4	광폭화			공격 속도와 차징 속도가 40% 만큼 증가됩니다.	icon_skills.berserk_tex
+400508	ASpd	0	0	perc	10000	0	1.4	광폭화 VI			공격 속도와 차징 속도가 40% 만큼 증가됩니다.	icon_skills.berserk_tex
+400509	ASpd	0	0	perc	20000	0	1	내 안에 잠든 광기			광폭화 스킬을 사용하여도 광기 증폭 효과를 받을 수 없습니다.	icon_skills.relax_tex
 400700	Power	0	0	abs	30000	0	26	격노 I			힘이 26 만큼 향상되고, 충격과 균형도 각각 50%씩 향상됩니다. 추가로 몬스터 공격 시에는 스킬 데미지가 10% 향상됩니다.	icon_skills.fury_tex
 400700	AtkPotion	0	0	perc	30000	0	1.1	격노 I			힘이 26 만큼 향상되고, 충격과 균형도 각각 50%씩 향상됩니다. 추가로 몬스터 공격 시에는 스킬 데미지가 10% 향상됩니다.	icon_skills.fury_tex
 400701	Power	0	0	abs	30000	0	29	격노 II			힘이 29 만큼 향상되고, 충격과 균형도 각각 60%씩 향상됩니다. 추가로 몬스터 공격 시에는 스킬 데미지가 10% 향상됩니다.	icon_skills.fury_tex
@@ -1076,10 +1082,10 @@
 476214	Power	0	0	perc	5000	0	0.5	오칸의 저주_무기력 V			이동속도가 50% 감소되며 힘이 50% 감소됩니다.	icon_status.minusattack_tex
 476215	Power	0	0	perc	5000	0	0.4	오칸의 저주_무기력 VI			이동속도가 60% 감소되며 힘이 60% 감소됩니다.	icon_status.minusattack_tex
 476216	Power	0	0	perc	60000	0	0.3	오칸의 저주_무기력 VII			이동속도가 70% 감소되며 힘이 70% 감소됩니다. 오칸의 축복_무기력 VII은 해제 할 수 없습니다.	icon_status.minusattack_tex
-476217	Power	0	0	perc	5000	0	0.8	양날의 검_방어 II			맷집이 20% 향상되며 힘이 unk2 감소됩니다.	icon_status.plusedefence_tex
-476218	Power	0	0	perc	5000	0	0.7	양날의 검_방어 III			맷집이 30% 향상되며 힘이 unk2 감소됩니다.	icon_status.plusedefence_tex
-476219	Power	0	0	perc	5000	0	0.6	양날의 검_방어 IV			맷집이 40% 향상되며 힘이 unk2 감소됩니다.	icon_status.plusedefence_tex
-476219	Endurance	0	0	perc	5000	0	1.4	양날의 검_방어 IV			맷집이 40% 향상되며 힘이 unk2 감소됩니다.	icon_status.plusedefence_tex
+476217	Power	0	0	perc	5000	0	0.8	양날의 검_방어 II			맷집이 20% 향상되며 힘이 20% (unk2) 감소됩니다.	icon_status.plusedefence_tex
+476218	Power	0	0	perc	5000	0	0.7	양날의 검_방어 III			맷집이 30% 향상되며 힘이 30% (unk2) 감소됩니다.	icon_status.plusedefence_tex
+476219	Power	0	0	perc	5000	0	0.6	양날의 검_방어 IV			맷집이 40% 향상되며 힘이 40% (unk2) 감소됩니다.	icon_status.plusedefence_tex
+476219	Endurance	0	0	perc	5000	0	1.4	양날의 검_방어 IV			맷집이 40% 향상되며 힘이 40% (unk2) 감소됩니다.	icon_status.plusedefence_tex
 476220	Power	0	0	perc	300000	0	0.5	양날의 검_방어 V			맷집이 50% 향상되며 힘이 50% 감소됩니다. 양날의 검_방어 V는 해제 할 수 없습니다.	icon_status.plusedefence_tex
 476220	Endurance	0	0	perc	300000	0	1.5	양날의 검_방어 V			맷집이 50% 향상되며 힘이 50% 감소됩니다. 양날의 검_방어 V는 해제 할 수 없습니다.	icon_status.plusedefence_tex
 476221	Power	0	0	perc	5000	0	1.2	양날의 검_공격 II			맷집이 20% 감소되며 힘이 20% 향상됩니다.	icon_status.plusattack_tex
@@ -1175,9 +1181,9 @@
 501322	Block	0	0	perc	7000	0	0	속박의 저주			지속 시간 동안 제 자리에서 움직일 수 없으며, 회피 및 이동 계열 스킬도 사용할 수 없습니다. 일정 이상 피해를 받거나 다운되면 효과는 즉시 해제됩니다.	icon_skills.curseofshackle_tex
 501323	MovSpdInCombat	0	0	setp	8000	0	0	속박의 저주 IV			지속 시간 동안 제 자리에서 움직일 수 없으며, 회피 및 이동 계열 스킬도 사용할 수 없습니다. 일정 이상 피해를 받거나 다운되면 효과는 즉시 해제됩니다.	icon_skills.curseofshackle_tex
 501323	Block	0	0	perc	8000	0	0	속박의 저주 IV			지속 시간 동안 제 자리에서 움직일 수 없으며, 회피 및 이동 계열 스킬도 사용할 수 없습니다. 일정 이상 피해를 받거나 다운되면 효과는 즉시 해제됩니다.	icon_skills.curseofshackle_tex
-600500	DefPotion	0	0	perc	30000	0	1.2	궁수의 징표 I			집중 공격 대상으로 지목됐습니다! 당신을 지목한 대상에게 효과 지속 시간 중 공격을 받으면 20% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
-600501	DefPotion	0	0	perc	35000	0	1.2	궁수의 징표 II			집중 공격 대상으로 지목됐습니다! 당신을 지목한 대상에게 효과 지속 시간 중 공격을 받으면 20% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
-600502	DefPotion	0	0	perc	40000	0	1.2	궁수의 징표			집중 공격 대상으로 지목됐습니다! 당신을 지목한 대상에게 효과 지속 시간 중 공격을 받으면 20% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
+600500	DefPotion	0	0	perc	30000	0	1.1	궁수의 징표 I			집중 공격 대상으로 지목됐습니다! 궁수 클래스에게 효과 지속 시간 중 공격을 받으면 10% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
+600501	DefPotion	0	0	perc	35000	0	1.1	궁수의 징표 II			집중 공격 대상으로 지목됐습니다! 궁수 클래스에게 효과 지속 시간 중 공격을 받으면 10% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
+600502	DefPotion	0	0	perc	40000	0	1.1	궁수의 징표			집중 공격 대상으로 지목됐습니다! 궁수 클래스에게 효과 지속 시간 중 공격을 받으면 10% 더 많은 피해를 입게 됩니다.	icon_skills.markingofarcher_tex
 600600	HPChange	-58	0	abs	10000	2	-58	중독의 덫 I			치명적인 맹독에 감염되어 2s마다 HP가 -58씩 지속적으로 감소됩니다.	icon_skills.venomtrap_tex
 600601	HPChange	-124	0	abs	10000	2	-124	중독의 덫 II			치명적인 맹독에 감염되어 2s마다 HP가 -124씩 지속적으로 감소됩니다.	icon_skills.venomtrap_tex
 600602	HPChange	-271	0	abs	10000	2	-271	중독의 덫 III			치명적인 맹독에 감염되어 2s마다 HP가 -271씩 지속적으로 감소됩니다.	icon_skills.venomtrap_tex
@@ -1210,17 +1216,17 @@
 600928	HPChange	-1427	0	abs	12000	2	-1427	맹독의 화살 IX			2s마다 HP가 -1427씩 지속적으로 감소됩니다. 이 효과는 최대 3번까지 중첩됩니다.	icon_skills.venomarrow_tex
 601000	ASpd	0	0	perc	4000	0	0.85	견제 사격 I			이동 속도가 50%, 공격 속도가 15% 감소됩니다.	icon_skills.contaningshot_tex
 601001	ASpd	0	0	perc	5000	0	0.85	견제 사격 II			이동 속도가 50%, 공격 속도가 15% 감소됩니다.	icon_skills.contaningshot_tex
-601100	Power	0	0	abs	0	0	30	집중 자세 : 용맹 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 이동 속도가 8 증가됩니다. 중형 몬스터 공격 시 5% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601100	ASpd	0	0	abs	0	0	4	집중 자세 : 용맹 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 이동 속도가 8 증가됩니다. 중형 몬스터 공격 시 5% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601101	Power	0	0	abs	0	0	30	집중 자세 : 용맹 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 이동 속도가 16 증가됩니다. 중형 몬스터 공격 시 5% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601101	ASpd	0	0	abs	0	0	8	집중 자세 : 용맹 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 이동 속도가 16 증가됩니다. 중형 몬스터 공격 시 5% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601110	Power	0	0	abs	0	0	30	집중 자세 : 신중 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 맷집이 4 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601110	Endurance	0	0	abs	0	0	4	집중 자세 : 신중 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 맷집이 4 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601110	ASpd	0	0	abs	0	0	4	집중 자세 : 신중 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 맷집이 4 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601111	Power	0	0	abs	0	0	30	집중 자세 : 신중 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 맷집이 8 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601111	Endurance	0	0	abs	0	0	8	집중 자세 : 신중 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 맷집이 8 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601111	ASpd	0	0	abs	0	0	8	집중 자세 : 신중 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 맷집이 8 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
-601450	CastSpeed	0	0	perc	10000	0	1.5	일반 사격 			다음 공격시 관통 사격의 차징 속도가 상승합니다.	icon_skills.arrowshot_tex
+601100	Power	0	0	abs	0	0	30	집중 자세 : 용맹 I			힘과 공격 속도가 각각 30와 4 만큼 향상되며, 이동 속도가 8 증가됩니다. 몬스터 공격 시 7% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
+601100	ASpd	0	0	abs	0	0	4	집중 자세 : 용맹 I			힘과 공격 속도가 각각 30와 4 만큼 향상되며, 이동 속도가 8 증가됩니다. 몬스터 공격 시 7% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
+601101	Power	0	0	abs	0	0	30	집중 자세 : 용맹 II			힘과 공격 속도가 각각 30와 8 만큼 향상되며, 이동 속도가 16 증가됩니다. 몬스터 공격 시 7% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
+601101	ASpd	0	0	abs	0	0	8	집중 자세 : 용맹 II			힘과 공격 속도가 각각 30와 8 만큼 향상되며, 이동 속도가 16 증가됩니다. 몬스터 공격 시 7% 향상된 피해를 입힙니다.	icon_skills.focusstance_tex
+601110	Power	0	0	abs	0	0	30	집중 자세 : 신중 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 맷집이 4 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_moveslow_tex
+601110	Endurance	0	0	abs	0	0	4	집중 자세 : 신중 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 맷집이 4 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_moveslow_tex
+601110	ASpd	0	0	abs	0	0	4	집중 자세 : 신중 I			공격 속도와 힘이 각각 4와 30 만큼 향상되며, 맷집이 4 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_moveslow_tex
+601111	Power	0	0	abs	0	0	30	집중 자세 : 신중 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 맷집이 8 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_moveslow_tex
+601111	Endurance	0	0	abs	0	0	8	집중 자세 : 신중 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 맷집이 8 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_moveslow_tex
+601111	ASpd	0	0	abs	0	0	8	집중 자세 : 신중 II			공격 속도와 힘이 각각 8와 30 만큼 향상되며, 맷집이 8 증가됩니다. 일반 몬스터 공격 시 10% 향상된 피해를 입힙니다.	icon_skills.focusstance_moveslow_tex
+601450	CastSpeed	0	0	perc	10000	0	1.5	집중			10초 동안 관통 사격, 집중사격의 차징 속도가 상승합니다.	icon_skills.focusstance_moveslow_tex
 700200	MPChange	0	-30	abs	0	2	-30	안개의 결계 I			자신을 포함한 주변 30m 범위 내 파티원들에게 안개의 결계 효과를 부여합니다. 스킬을 활성화하고 있는 동안 2 마다 -30씩 지속적으로 MP가 감소 합니다.	icon_skills.areahpgain_tex
 700201	MPChange	0	-30	abs	0	2	-30	안개의 결계 II			자신을 포함한 주변 30m 범위 내 파티원들에게 안개의 결계 효과를 부여합니다. 스킬을 활성화하고 있는 동안 2 마다 -30씩 지속적으로 MP가 감소 합니다.	icon_skills.areahpgain_tex
 700202	MPChange	0	-30	abs	0	2	-30	안개의 결계			자신을 포함한 주변 30m 범위 내 파티원들에게 안개의 결계 효과를 부여합니다. 스킬을 활성화하고 있는 동안 2 마다 -30씩 지속적으로 MP가 감소 합니다.	icon_skills.areahpgain_tex
@@ -1562,7 +1568,7 @@
 950051	Endurance	0	0	perc	6000	0	1	굴라드림의 사념			굴라드림과 가장 가까운 5명에게 암흑 사념체가 소환됩니다. 암흑 사념체는 굴라드림의 암흑 불길로만 처치할 수 있습니다.	icon_status.darkmind_tex
 950084	MovSpdInCombat	0	0	perc	1100	0	0.2	질퍽이는 용암			용암이 질퍽거립니다. 이동 속도가 대폭 감소합니다.	icon_status.lavar_tex
 950090	Attack	0	0	perc	0	0	1.05	신계의 마력			베르고스가 신계의 틈새로부터 흘러나온 마력을 흡수했습니다. 중첩 당 공격력이 5%씩 상승합니다.	icon_status.godspell_tex
-950091	Attack	0	0	perc	3000	0	2	신계의 마력			신계의 틈새로부터 흘러나온 마력이 폭발하여 기운이 뿜어져 나오고 있습니다. 스킬 위력이 100% 증가합니다.	icon_status.godspell_tex
+950091	Attack	0	0	perc	3000	0	1.3	신계의 마력			신계의 틈새로부터 흘러나온 마력이 폭발하여 기운이 뿜어져 나오고 있습니다. 스킬 위력이 30% 증가합니다.	icon_status.godspell_tex
 950097	MovSpdInCombat	0	0	perc	11000	0	0.2	석화			몸이 점점 굳어갑니다. 이동 속도가 느려지고, 곧 움직일 수 없게 됩니다.	icon_status.petrifaction_tex
 950107	Block	0	0	swch	30000	0	0	불타는 바위			불타는 바위에 갇혔습니다. 바위는 시간이 지나면 폭발하여 전 지역에 큰 피해를 입힙니다.	icon_status.rock_tex
 950140	HPChange	-0.15	0	perc	8000	2	-0.15	불덩이 파편			온 몸에 불덩이 파편이 묻었습니다. HP가 지속적으로 감소합니다.	icon_status.scald_tex
@@ -1570,8 +1576,9 @@
 950163	CDR	0	0	perc	10000	0	0.5	사기 증진			사기가 올라 공격 속도가 20% 증가하고, 스킬 재사용 시간이 50% 감소합니다.	icon_status.bloodmadness_tex
 950164	DefPotion	0	0	perc	9000	0	0.1	분진			분진에 뒤덮였습니다. 지속시간 종료 시 분진에 의해 질식하여 사망합니다. 베르고스의 분진 공격에 맞으면 그 즉시 질식하여 사망합니다. 베르고스의 화염 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosdust_tex
 950165	DefPotion	0	0	perc	9000	0	0.1	화염			화염에 뒤덮였습니다. 지속시간 종료 시 화염에 의해 몸이 타올라 사망합니다. 베르고스의 화염 공격에 맞으면 그 즉시 몸이 타올라 사망합니다. 베르고스의 분진 공격에 맞으면 폭발하여 해당 상태가 해제됩니다.	icon_status.vergosflame_tex
-950168	Attack	0	0	perc	0	0	10	광폭화			베르고스가 광폭화하여 힘과 공격 속도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
-950168	ASpd	0	0	perc	0	0	2	광폭화			베르고스가 광폭화하여 힘과 공격 속도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
+950168	Endurance	0	0	perc	0	0	100	광폭화			베르고스가 광폭화하여 힘과 공격 속도, 방어도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
+950168	Attack	0	0	perc	0	0	10	광폭화			베르고스가 광폭화하여 힘과 공격 속도, 방어도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
+950168	ASpd	0	0	perc	0	0	2	광폭화			베르고스가 광폭화하여 힘과 공격 속도, 방어도가 비약적으로 증가합니다. 더 이상 그를 막을 수 없습니다.	icon_status.summonvergos_tex
 950171	ASpd	0	0	perc	0	0	1.15	분노			베르고스가 분노하여 공격 속도가 빨라집니다.	icon_status.vergosblood_tex
 950187	Endurance	0	0	perc	0	0	0.4	탈진			베르고스가 모든 힘을 소모하여 탈진 했습니다. 베르고스의 방어도가 급격하게 떨어집니다.	icon_status.struggle_tex
 950300	ASpd	0	0	perc	90000	0	1.25	대지의 힘			살레오스가 대지의 힘을 받아 강력해집니다. 중첩 당 공격 속도가 25%씩 증가합니다.	icon_status.earthblessing_tex
@@ -1652,11 +1659,28 @@
 5000000	Endurance	0	0	abs	0	0	3	오늘부터 우리는 강해진다!!			힘/맷집/충격/균형/치명타 유발/이동속도가 3만큼 증가합니다.	icon_items.wings_of_fairy_tex
 5000000	Crit	0	0	abs	0	0	3	오늘부터 우리는 강해진다!!			힘/맷집/충격/균형/치명타 유발/이동속도가 3만큼 증가합니다.	icon_items.wings_of_fairy_tex
 5010000	HPChange	0.03	0	perc	30000	1	0.03	환영의 회복 포션	101305	환영의 회복 포션	30초 동안 1초 마다 전체 HP 대비 3%씩 총 90%의 HP가 지속적으로 회복됩니다.	icon_items.potion17_tex
-5690001	StaminaDecay	0	0	seta	0	0	0	기억의 추적자			기억의 파편 수집을 하는동안에는 사망 시 강화 크리스탈이 파괴되지 않습니다. 	icon_skills.refineresin_tex
+5690001	StaminaDecay	0	0	seta	0	0	0	기억의 추적자			기억의 파편 수집 중에는 사망 시 강화 크리스탈이 파괴되지 않습니다. 	icon_skills.refineresin_tex
 5692001	Endurance	0	0	seta	0	0	9999999	놀이방의 지배자			놀이방에서는 대적할 자가 없습니다.	icon_skills.emergencyshield_tex
 5692006	Endurance	0	0	seta	0	0	9999999	생명력 구걸			마즈키에게 생명력을 구걸합니다.	icon_skills.emergencyshield_tex
 5692007	Endurance	0	0	seta	6000	0	3064	과도한 놀이			마즈키가 힘을 많이 사용하여 잠시 동안 약해집니다.	icon_skills.lossofbalance_tex
 5693002	HPChange	-0.03	0	perc	3000	1	-0.03	거미독			거미 시체의 독성에 중독되어 전체 HP 대비 3%에 달하는 HP가 감소합니다. 이 효과는 최대 2번까지 중첩됩니다.	icon_status.poisonstatus_tex
+7101000	Power	0	0	perc	600000	0	1.3	마력 응축			강력한 마력을 응축하여 힘과 공격 속도가 증가합니다. 이 이상상태는 해제할 수 없습니다.	
+7101000	ASpd	0	0	perc	600000	0	1.1	마력 응축			강력한 마력을 응축하여 힘과 공격 속도가 증가합니다. 이 이상상태는 해제할 수 없습니다.	
+7101008	Power	0	0	perc	600000	0	1.05	불과 번개의 기운			고르고스가 속성의 기운을 통해 자신의 공격력을 증가시켰습니다.	icon_status.darkriftgravity_tex
+7102000	Endurance	0	0	perc	40000	0	1	이 곳은 위험해 !!			불길한 마력의 기운이 몸을 감쌉니다. 어서 이 구역을 빠져나가야 합니다. 치유량이 30%감소하며, 5중첩 시 안좋은 일이 생길 것 같습니다.	
+7102001	HPChange	-0.5	0	perc	6000	1	-0.5	마력 분출			강력한 마력에 오랫동안 노출되어 몸이 감당할 수 없습니다. 1초당 50%의 HP가 감소합니다.	
+7102002	HPChange	-0.1	0	perc	15000	3	-0.1	불길한 기운			불길한 기운에 의해 이동 속도가 80% 감소되고, 3 마다 전체 HP 대비 10%에 달하는 HP가 지속적으로 감소됩니다.	icon_skills.painfulshackle_tex
+7102003	HPChange	-0.1	0	perc	10000	2	-0.1	오염 지대			오염 지대에 피격되어 2초당 10%의 HP가 감소합니다.	
+7102005	HPChange	-0.05	0	perc	5000	1	-0.05	철철			강력한 일격에 의해 출혈이 발생해 1초당 1%의 HP가 감소합니다. 이 이상상태는 해제할 수 없습니다.	
+7102051	Power	0	0	perc	0	0	1.3	기분이 좋은 몰레크			기분이 좋아 엔돌핀이 나옵니다. 몰레크의 공격력, 공격속도가 증가합니다.	icon_status.plusepoisonresist_tex
+7102051	ASpd	0	0	perc	0	0	1.05	기분이 좋은 몰레크			기분이 좋아 엔돌핀이 나옵니다. 몰레크의 공격력, 공격속도가 증가합니다.	icon_status.plusepoisonresist_tex
+7102052	Power	0	0	perc	0	0	1.6	기분이 매우 좋은 몰레크			기분이 매우 좋아 엔돌핀이 솟구칩니다. 몰레크의 공격력, 공격속도가 크게 증가합니다.	icon_status.plusecritical_tex
+7102052	ASpd	0	0	perc	0	0	1.1	기분이 매우 좋은 몰레크			기분이 매우 좋아 엔돌핀이 솟구칩니다. 몰레크의 공격력, 공격속도가 크게 증가합니다.	icon_status.plusecritical_tex
+7102053	Power	0	0	perc	0	0	1.3	화난 몰레크			화가 났습니다. 몰레크의 공격력, 공격속도가 증가합니다.	icon_status.plusepoisonresist_tex
+7102053	ASpd	0	0	perc	0	0	1.05	화난 몰레크			화가 났습니다. 몰레크의 공격력, 공격속도가 증가합니다.	icon_status.plusepoisonresist_tex
+7102054	Power	0	0	perc	0	0	1.6	매우 화난 몰레크			매우 화가 났습니다. 몰레크의 공격력, 공격속도가 크게 증가합니다.	icon_status.plusecritical_tex
+7102054	ASpd	0	0	perc	0	0	1.1	매우 화난 몰레크			매우 화가 났습니다. 몰레크의 공격력, 공격속도가 크게 증가합니다.	icon_status.plusecritical_tex
+7102059	Block	0	0	swch	3000	0	0	침묵			몰레크에 압도당해 그 어떠한 스킬도 사용할 수 없습니다.	icon_status.sealskill_tex
 7691000	HPChange	-10000	0	abs	12000	2	-10000	정기 흡수			릴리스의 매혹에 빠졌습니다. 아무런 행동을 할 수 없으며,  2초당  10000의 고정 피해를 입습니다.	icon_status.minusfocus_tex
 7691007	Power	0	0	perc	600000	0	1.1	광폭화			릴리스가 정기를 흡수하여 공격력이  10% 증가합니다.	icon_status.plusattack_tex
 7691021	HPChange	-20000	0	abs	20000	2	-20000	수면			깊은 잠에 빠져들어 헤어나올 수 없습니다. 지속적으로 HP가 감소합니다.	icon_skills.sleepwind_tex
@@ -1712,9 +1736,7 @@
 10154030	AtkPotion	0	0	swch	0	0	1.05	검기술			검기가 발현되어 공격력이 증가합니다.	icon_skills.c12_atkupbuff
 10154032	AtkPotion	0	0	swch	60000	0	1.01	강력한 검기			강력한 검기가 발현되어 공격력이 더 증가합니다.	icon_skills.c12_atkupbuff
 10154090	Endurance	0	0	perc	60000	0	1	변신술 I			상대의 모습으로 변신한 상태입니다.	icon_skills.c12_transform
-14400001	Stamina	0	0	abs	900000	0	15	Emblem of Success	152903	Emblem of Success	다음 효과들을 획득합니다.   매 초마다 전체 HP의 1% 회복 몬스터 사냥시 드랍율 100% 증가	icon_items.parts_magicweaponc15_tex
 14400001	HPChange	0.01	0	perc	900000	1	0.01	Emblem of Success	152903	Emblem of Success	다음 효과들을 획득합니다.   매 초마다 전체 HP의 1% 회복 몬스터 사냥시 드랍율 100% 증가	icon_items.parts_magicweaponc15_tex
-14400001	StaminaDecay	0	0	swch	900000	0	0	Emblem of Success	152903	Emblem of Success	다음 효과들을 획득합니다.   매 초마다 전체 HP의 1% 회복 몬스터 사냥시 드랍율 100% 증가	icon_items.parts_magicweaponc15_tex
 14400002	Endurance	0	0	perc	900000	0	1.2	Memento of Fame	152904	Memento of Fame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 공격 속도 15% 증가 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 이동 속도 7% 증가	icon_items.parts_lightweaponc9_tex
 14400002	ASpd	0	0	perc	900000	0	1.15	Memento of Fame	152904	Memento of Fame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 공격 속도 15% 증가 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 이동 속도 7% 증가	icon_items.parts_lightweaponc9_tex
 14400002	MovSpdInCombat	0	0	abs	900000	0	10	Memento of Fame	152904	Memento of Fame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 공격 속도 15% 증가 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 이동 속도 7% 증가	icon_items.parts_lightweaponc9_tex
@@ -1722,18 +1744,16 @@
 14400003	Endurance	0	0	perc	900000	0	1.2	Sigil of Indestructible Flame	152905	Sigil of Indestructible Flame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 이동 속도 10 증가 공격 속도 15% 증가 매 초마다 전체 HP의 1% 회복 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 몬스터 사냥시 드랍율 100% 증가 이동 속도 7% 증가	icon_items.parts_magicweaponc6_tex
 14400003	ASpd	0	0	perc	900000	0	1.15	Sigil of Indestructible Flame	152905	Sigil of Indestructible Flame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 이동 속도 10 증가 공격 속도 15% 증가 매 초마다 전체 HP의 1% 회복 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 몬스터 사냥시 드랍율 100% 증가 이동 속도 7% 증가	icon_items.parts_magicweaponc6_tex
 14400003	MovSpdInCombat	0	0	abs	900000	0	10	Sigil of Indestructible Flame	152905	Sigil of Indestructible Flame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 이동 속도 10 증가 공격 속도 15% 증가 매 초마다 전체 HP의 1% 회복 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 몬스터 사냥시 드랍율 100% 증가 이동 속도 7% 증가	icon_items.parts_magicweaponc6_tex
-14400003	Stamina	0	0	abs	900000	0	15	Sigil of Indestructible Flame	152905	Sigil of Indestructible Flame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 이동 속도 10 증가 공격 속도 15% 증가 매 초마다 전체 HP의 1% 회복 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 몬스터 사냥시 드랍율 100% 증가 이동 속도 7% 증가	icon_items.parts_magicweaponc6_tex
 14400003	HPChange	0.01	0	perc	900000	1	0.01	Sigil of Indestructible Flame	152905	Sigil of Indestructible Flame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 이동 속도 10 증가 공격 속도 15% 증가 매 초마다 전체 HP의 1% 회복 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 몬스터 사냥시 드랍율 100% 증가 이동 속도 7% 증가	icon_items.parts_magicweaponc6_tex
 14400003	AtkPotion	0	0	perc	900000	0	1.2	Sigil of Indestructible Flame	152905	Sigil of Indestructible Flame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 이동 속도 10 증가 공격 속도 15% 증가 매 초마다 전체 HP의 1% 회복 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 몬스터 사냥시 드랍율 100% 증가 이동 속도 7% 증가	icon_items.parts_magicweaponc6_tex
-14400003	StaminaDecay	0	0	swch	900000	0	0	Sigil of Indestructible Flame	152905	Sigil of Indestructible Flame	다음 효과들을 획득합니다.   최대 HP 7% 증가 맷집 20% 증가 이동 속도 10 증가 공격 속도 15% 증가 매 초마다 전체 HP의 1% 회복 스킬 공격력 20% 증가 크리스탈 1회 깨짐 방지 몬스터 사냥시 드랍율 100% 증가 이동 속도 7% 증가	icon_items.parts_magicweaponc6_tex
 14400004	MPChange	0	0.05	perc	900000	1	0.05	Power potion - CD, MP regen	152903	Emblem of Success	다음 효과들을 획득합니다.   연맹 스킬을 제외한 모든 스킬의 재사용 시간 20% 감소 매 초마다 전체 MP의 5% 회복	icon_status.darkriftareatimeshift_tex
 14400004	CDR	0	0	perc	900000	0	0.8	Power potion - CD, MP regen	152903	Emblem of Success	다음 효과들을 획득합니다.   연맹 스킬을 제외한 모든 스킬의 재사용 시간 20% 감소 매 초마다 전체 MP의 5% 회복	icon_status.darkriftareatimeshift_tex
 14400005	MovSpdInCombat	0	0	abs	900000	0	10	Fleetfoot	152910	Permanent Fleetfoot Potion	이동 속도가  10 증가됩니다.	icon_skills.speedupaura_tex
 15200001	Endurance	0	0	perc	1800000	0	1.2	라바투스의 갑각			라바투스의 갑각효과로 인해 1800s동안 방어력과 체력이 20% 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_skills.emergencyshield_tex
 15200002	Power	0	0	perc	1800000	0	1.2	드라칸의 불			드라칸의 불 효과로 인해 1800s동안 공격력이 20% 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_items.campfire_tex
-15200003	ASpd	0	0	perc	1800000	0	1.1	카이탄의 공포			카이탄의 공포 효과로 1800s동안 공격속도, 치명타 확률이 10%, 이동속도가 unk2, 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_status.darkriftrage_tex
-15200003	MovSpdInCombat	0	0	abs	1800000	0	20	카이탄의 공포			카이탄의 공포 효과로 1800s동안 공격속도, 치명타 확률이 10%, 이동속도가 unk2, 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_status.darkriftrage_tex
-15200003	CritChance	0	0	perc	1800000	0	1.1	카이탄의 공포			카이탄의 공포 효과로 1800s동안 공격속도, 치명타 확률이 10%, 이동속도가 unk2, 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_status.darkriftrage_tex
+15200003	ASpd	0	0	perc	1800000	0	1.1	카이탄의 공포			카이탄의 공포 효과로 1800s동안 공격속도, 치명타 확률이 10%, 이동속도가 10% (unk2), 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_status.darkriftrage_tex
+15200003	MovSpdInCombat	0	0	abs	1800000	0	20	카이탄의 공포			카이탄의 공포 효과로 1800s동안 공격속도, 치명타 확률이 10%, 이동속도가 10% (unk2), 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_status.darkriftrage_tex
+15200003	CritChance	0	0	perc	1800000	0	1.1	카이탄의 공포			카이탄의 공포 효과로 1800s동안 공격속도, 치명타 확률이 10%, 이동속도가 10% (unk2), 증가합니다. 해당 효과는 축복해제 등의 스킬에 피격당하거나 사망 시 해제되지 않으며, 길드대전 지역을 이탈한 경우에만 자동으로 해제됩니다.	icon_status.darkriftrage_tex
 15200006	ASpd	0	0	perc	300000	0	1.1	결전			길드원 모두가 결전의 의지를 불태워 PVP 공격력이 10, 공격속도가 10% 강화 됩니다.	icon_skills.guildskills_ccres2_tex
 15200008	Power	0	0	perc	5000	0	1.1	전초기지의 수호			전초기지의 수호 효과로 공격력과 방어력이 10% 강화 됩니다.	icon_status.aura_of_damage_tex
 15200008	Endurance	0	0	perc	5000	0	1.1	전초기지의 수호			전초기지의 수호 효과로 공격력과 방어력이 10% 강화 됩니다.	icon_status.aura_of_damage_tex
@@ -1749,9 +1769,9 @@
 16300013	ASpd	0	0	perc	180000	0	1.08	강화 용맹의 물약	214191	강화 용맹의 물약	스킬 데미지가 15% 향상되고, 받는 피해가 15% 감소됩니다. 추가로 공격 속도도 8% 향상됩니다.	icon_items.potion10_tex
 16300013	DefPotion	0	0	perc	180000	0	0.85	강화 용맹의 물약	214191	강화 용맹의 물약	스킬 데미지가 15% 향상되고, 받는 피해가 15% 감소됩니다. 추가로 공격 속도도 8% 향상됩니다.	icon_items.potion10_tex
 16300013	AtkPotion	0	0	perc	180000	0	1.15	강화 용맹의 물약	214191	강화 용맹의 물약	스킬 데미지가 15% 향상되고, 받는 피해가 15% 감소됩니다. 추가로 공격 속도도 8% 향상됩니다.	icon_items.potion10_tex
-16300015	AtkPotion	0	0	perc	60000	0	1.25	파괴의 물약	214418	파괴의 물약	스킬 데미지가 unk2 향상됩니다.	icon_items.potion10_tex
+16300015	AtkPotion	0	0	perc	60000	0	1.25	파괴의 물약	214418	파괴의 물약	스킬 데미지가 25% (unk2) 향상됩니다.	icon_items.potion10_tex
 43100002	HPChange	1	0	perc	1000	1	1	HP즉시회복			이상상태 툴팁 표시 안됨 (isShow=False) 이 툴팁이 보이면 BTS 처리 필요!	icon_status.plushp_tex
-43100007	HPChange	-0.05	0	perc	15000	3	-0.05	출혈			강력한 일격에 의해 출혈이 발생해 unk2 마다 전체 HP 대비 5%에 달하는 HP가 지속적으로 감소됩니다.	icon_status.minuscriticalresist_tex
+43100007	HPChange	-0.05	0	perc	15000	3	-0.05	출혈			강력한 일격에 의해 출혈이 발생해 3 마다 전체 HP 대비 5%에 달하는 HP가 지속적으로 감소됩니다.	icon_status.minuscriticalresist_tex
 43200002	HPChange	1	0	perc	1000	1	1	HP즉시회복			이상상태 툴팁 표시 안됨 (isShow=False) 이 툴팁이 보이면 BTS 처리 필요!	icon_status.diseaseup_tex
 43200013	ASpd	0	0	perc	0	0	1.05	공속증가 5%			몬스터의 공격속도가 증가합니다 	icon_status.diseaseup_tex
 43200014	ASpd	0	0	perc	0	0	1.1	공속증가 10%			몬스터의 공격속도가 증가합니다 	icon_status.diseaseup_tex
@@ -1881,10 +1901,10 @@
 47620900	Endurance	0	0	perc	120000	0	1.1	오칸의 축복_방어			맷집이 10% 향상됩니다.  이 효과는 최대 10번까지 중첩됩니다.	icon_status.plusedefence_tex
 47621000	Power	0	0	perc	120000	0	1.1	오칸의 축복_공격			힘이 10% 향상됩니다.  이 효과는 최대 10번까지 중첩됩니다.	icon_status.plusattack_tex
 47621100	Power	0	0	perc	5000	0	0.9	오칸의 저주_무기력 I			이동속도가 10% 감소되며 힘이 10% 감소됩니다.	icon_status.minusattack_tex
-47621400	Power	0	0	perc	5000	0	0.9	양날의 검_방어 I			맷집이 10% 향상되며 힘이 unk2 감소됩니다.	icon_status.plusedefence_tex
-47621400	Endurance	0	0	perc	5000	0	1.1	양날의 검_방어 I			맷집이 10% 향상되며 힘이 unk2 감소됩니다.	icon_status.plusedefence_tex
-47621500	Power	0	0	perc	5000	0	1.1	양날의 검_공격 I			맷집이 10% 감소되며 힘이 unk2 향상됩니다.	icon_status.plusattack_tex
-47621500	Endurance	0	0	perc	5000	0	0.9	양날의 검_공격 I			맷집이 10% 감소되며 힘이 unk2 향상됩니다.	icon_status.plusattack_tex
+47621400	Power	0	0	perc	5000	0	0.9	양날의 검_방어 I			맷집이 10% 향상되며 힘이 10% (unk2) 감소됩니다.	icon_status.plusedefence_tex
+47621400	Endurance	0	0	perc	5000	0	1.1	양날의 검_방어 I			맷집이 10% 향상되며 힘이 10% (unk2) 감소됩니다.	icon_status.plusedefence_tex
+47621500	Power	0	0	perc	5000	0	1.1	양날의 검_공격 I			맷집이 10% 감소되며 힘이 10% (unk2) 향상됩니다.	icon_status.plusattack_tex
+47621500	Endurance	0	0	perc	5000	0	0.9	양날의 검_공격 I			맷집이 10% 감소되며 힘이 10% (unk2) 향상됩니다.	icon_status.plusattack_tex
 47621700	Power	0	0	perc	600000	0	1.2	거대화			최대 HP가 50% 향상되며 12마다 HP가 1%씩 점차 회복됩니다. 또한 맷집이 20% 향상되며 힘이 20% 향상됩니다.	icon_status.plushp_tex
 47621700	Endurance	0	0	perc	600000	0	1.2	거대화			최대 HP가 50% 향상되며 12마다 HP가 1%씩 점차 회복됩니다. 또한 맷집이 20% 향상되며 힘이 20% 향상됩니다.	icon_status.plushp_tex
 47621700	HPChange	0.01	0	perc	600000	12	0.01	거대화			최대 HP가 50% 향상되며 12마다 HP가 1%씩 점차 회복됩니다. 또한 맷집이 20% 향상되며 힘이 20% 향상됩니다.	icon_status.plushp_tex
