@@ -64,7 +64,7 @@
 21072	Kämpferischer Schlag	180100	icon_skills.aggravatingstrike_tex	Kraftgebundener kämpferischer Schlag	icon_crest.e_crestnextskillattackup_tex	Erhöht den Schaden von Sprungangriff für einige Sekunden um 45%.
 21073	Angriffshieb	160100	icon_skills.rushingslash_tex	Kraftgebundener Angriffshieb	icon_crest.e_crestnextskillattackup_tex	Erhöht den Schaden von Kämpferischer Schlag für einige Sekunden um 50%.
 21074	Tod von Oben	100100	icon_skills.evasionattack_tex	Geerdeter Tod von Oben	icon_crest.e_crestactivedefenceup_tex	Erhöht die Konstitution 8 Sek. lang um 25.
-21075	Meucheln	220100	icon_skills.backattack_tex	Vorteilhaftes Meucheln	icon_crest.e_crestactiveattackspeedup_tex	Erhöht den erzeugten Furor um 0%.
+21075	Meucheln	220100	icon_skills.backattack_tex	Vorteilhaftes Meucheln	icon_crest.e_crestactiveattackspeedup_tex	Erhöht den erzeugten Furor um 1.
 21076	Betäubungskaskade	210100	icon_skills.hardslash_tex	Kraftvolle Betäubungskaskade	icon_crest.e_crestpassiveattackup_tex	Erhöht den Fertigkeitsschaden um 25%.
 21077	Betäubungskaskade	210100	icon_skills.hardslash_tex	Nachwirkende Betäubungskaskade	icon_crest.e_crestpassivedurationup_tex	Erhöht die Effektdauer um 25%.
 21078	Taumelgegenschlag	230100	icon_skills.reversalturningattack_tex	Kraftgebundener Taumelgegenschlag	icon_crest.e_crestnextskillattackup_tex	Erhöht den Schaden von Betäubungskaskade für einige Sekunden um 10%.
@@ -73,7 +73,7 @@
 21081	Meucheln	220100	icon_skills.backattack_tex	Nachwirkendes Meucheln	icon_crest.e_crestpassivedurationup_tex	Erhöht die Effektdauer um 50%.
 21082	Satz	270100	icon_skills.heavybite_tex	Flinker Satz	icon_crest.e_crestactiveattackspeedup_tex	Erhöht die Angriffsgeschwindigkeit mit Satz um 30%.
 21083	Giftklinge	110100	icon_skills.poisonblowattack_tex	Kumulative Giftklinge	icon_crest.e_crestactiveattackspeedup_tex	Akkumuliert den Effekt von Giftklinge bis zu 2-mal.
-21084	Klingenreißer	290100	icon_skills.dualslash_tex	Vorteilhafter Klingenreißer	icon_crest.e_crestactiveattackspeedup_tex	Erhöht den erzeugten Furor pro Treffer um 0%.
+21084	Klingenreißer	290100	icon_skills.dualslash_tex	Vorteilhafter Klingenreißer	icon_crest.e_crestactiveattackspeedup_tex	Erhöht den erzeugten Furor pro Treffer um 1.
 21085	Sensenhieb	310100	icon_skills.rupture_tex	Kraftvoller Sensenhieb	icon_crest.e_crestpassiveattackup_tex	Erhöht den Fertigkeitsschaden um 25%.
 21086	Kreuzparieren	320100	icon_skills.twinswordsdefence_tex	Stimuliertes Kreuzparieren	icon_crest.e_crestactiveattackup_tex	Erhöht die Kraft nach einer erfolgreichen Abwehr mit einer Wahrscheinlichkeit von 30% 10 Sek. lang um 15%.
 21087	Rauchflanke	330100	icon_skills.shadowchange_tex	Bedrohliche Rauchflanke	icon_crest.e_crestpassiveaggroup_tex	Erhöht die Aggro um 20%.
@@ -166,7 +166,7 @@
 22068	Herausforderungsruf	40100	icon_skills.roar_tex	Beherzter Herausforderungsruf	icon_crest.e_creststrecover_tex	Erhöht die Regeneration von Entschlossenheit um 30%.
 22069	Schildkonter	80100	icon_skills.riposte_tex	Beherzter Schildkonter	icon_crest.e_creststrecover_tex	Erhöht die Regeneration von Entschlossenheit um 50%.
 22070	Neuer Auftrieb	160100	icon_skills.rejuvenation_tex	Beherzter neuer Auftrieb	icon_crest.e_creststrecover_tex	Stellt 20% mehr Entschlossenheit wieder her.
-22071	Felsenfest	20100	icon_skills.defence_tex	Bekräftigtes Felsenfest	icon_crest.e_creststrecover_tex	Erhöht die maximale Entschlossenheit um 49900%.
+22071	Felsenfest	20100	icon_skills.defence_tex	Bekräftigtes Felsenfest	icon_crest.e_creststrecover_tex	Erhöht die maximale Entschlossenheit um 500.
 22072	Frontverteidigung	270100	icon_skills.holdtheline_tex	Energetischer Kriegsruf	icon_crest.e_crestpassivecooltimedown_tex	Verringert die Abklingzeit um 20%.
 22073	Frontverteidigung	270100	icon_skills.holdtheline_tex	Nachwirkender Kriegsruf	icon_crest.e_crestpassivedurationup_tex	Erhöht die Effektdauer um 30%.
 22074	Frontverteidigung	270100	icon_skills.holdtheline_tex	Brillanter Kriegsruf	icon_crest.e_crestpassivempdown_tex	Verringert den MP-Verbrauch um 150.
