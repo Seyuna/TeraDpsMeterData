@@ -195,6 +195,14 @@
 50520	Common	Common	Archer	화살의 비 V	False		icon_skills.arrowfall_tex
 50600	Common	Common	Archer	화살의 비 VI	False		icon_skills.arrowfall_tex
 50620	Common	Common	Archer	화살의 비 VI	False		icon_skills.arrowfall_tex
+50700	Common	Common	Archer	화살의 비 VII	False		icon_skills.arrowfall_tex
+50720	Common	Common	Archer	화살의 비 VI	False		icon_skills.arrowfall_tex
+50800	Common	Common	Archer	화살의 비 VIII	False		icon_skills.arrowfall_tex
+50820	Common	Common	Archer	화살의 비 VI	False		icon_skills.arrowfall_tex
+50900	Common	Common	Archer	화살의 비 IX	False		icon_skills.arrowfall_tex
+50920	Common	Common	Archer	화살의 비 VI	False		icon_skills.arrowfall_tex
+51000	Common	Common	Archer	화살의 비 X	False		icon_skills.arrowfall_tex
+51020	Common	Common	Archer	화살의 비 VI	False		icon_skills.arrowfall_tex
 60100	Common	Common	Archer	물러서기 I	False		icon_skills.backstep_tex
 60200	Common	Common	Archer	물러서기 II	False		icon_skills.backstep_tex
 60300	Common	Common	Archer	물러서기 III	False		icon_skills.backstep_tex
@@ -536,12 +544,40 @@
 250420	Common	Common	Archer	폭발 덫 화살 IV	False		icon_skills.explosiontraparrow_tex
 250500	Common	Common	Archer	폭발 덫 화살 V	False		icon_skills.explosiontraparrow_tex
 250520	Common	Common	Archer	폭발 덫 화살 V	False		icon_skills.explosiontraparrow_tex
+250600	Common	Common	Archer	폭발 덫 화살 VI	False		icon_skills.explosiontraparrow_tex
+250620	Common	Common	Archer	폭발 덫 화살 V	False		icon_skills.explosiontraparrow_tex
+250700	Common	Common	Archer	폭발 덫 화살 VII	False		icon_skills.explosiontraparrow_tex
+250720	Common	Common	Archer	폭발 덫 화살 V	False		icon_skills.explosiontraparrow_tex
+250800	Common	Common	Archer	폭발 덫 화살 VIII	False		icon_skills.explosiontraparrow_tex
+250820	Common	Common	Archer	폭발 덫 화살 V	False		icon_skills.explosiontraparrow_tex
+250900	Common	Common	Archer	폭발 덫 화살 IX	False		icon_skills.explosiontraparrow_tex
+250920	Common	Common	Archer	폭발 덫 화살 V	False		icon_skills.explosiontraparrow_tex
+251000	Common	Common	Archer	폭발 덫 화살 X	False		icon_skills.explosiontraparrow_tex
+251020	Common	Common	Archer	폭발 덫 화살 V	False		icon_skills.explosiontraparrow_tex
 260100	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
 260200	Common	Common	Archer	뇌룡의 일격 II	False		icon_skills.thunderdrake_tex
 280100	Common	Common	Archer	집중 자세 : 신중 I			icon_skills.focusstance_moveslow_tex
 280200	Common	Common	Archer	집중 자세 : 신중 II			icon_skills.focusstance_moveslow_tex
 290100	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
 290120	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290200	Common	Common	Archer	뇌룡의 일격 II	False		icon_skills.thunderdrake_tex
+290220	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290300	Common	Common	Archer	뇌룡의 일격 III	False		icon_skills.thunderdrake_tex
+290320	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290400	Common	Common	Archer	뇌룡의 일격 IV	False		icon_skills.thunderdrake_tex
+290420	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290500	Common	Common	Archer	뇌룡의 일격 V	False		icon_skills.thunderdrake_tex
+290520	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290600	Common	Common	Archer	뇌룡의 일격 VI	False		icon_skills.thunderdrake_tex
+290620	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290700	Common	Common	Archer	뇌룡의 일격 VII	False		icon_skills.thunderdrake_tex
+290720	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290800	Common	Common	Archer	뇌룡의 일격 VIII	False		icon_skills.thunderdrake_tex
+290820	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+290900	Common	Common	Archer	뇌룡의 일격 IX	False		icon_skills.thunderdrake_tex
+290920	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
+291000	Common	Common	Archer	뇌룡의 일격 X	False		icon_skills.thunderdrake_tex
+291020	Common	Common	Archer	뇌룡의 일격 I	False		icon_skills.thunderdrake_tex
 310100	Common	Common	Archer	집념 I	False		icon_skills.tenacity_tex
 320100	Common	Common	Archer	약점 관찰 I 	False		icon_skills.weak_point_observed
 330100	Common	Common	Archer	추격 I	False		icon_skills.advancingleap_tex
@@ -748,23 +784,38 @@
 60500	Common	Common	Berserker	뒤돌리기 V	False		icon_skills.turnback_tex
 60530	Common	Common	Berserker	뒤돌리기 V	False	Fury	icon_skills.turnback_tex
 60600	Common	Common	Berserker	뒤돌리기 VI	False		icon_skills.turnback_tex
+60630	Common	Common	Berserker	뒤돌리기 VI	False	Fury	icon_skills.turnback_tex
 60700	Common	Common	Berserker	뒤돌리기 VII	False		icon_skills.turnback_tex
+60730	Common	Common	Berserker	뒤돌리기 VII	False	Fury	icon_skills.turnback_tex
 60800	Common	Common	Berserker	뒤돌리기 VIII	False		icon_skills.turnback_tex
+60830	Common	Common	Berserker	뒤돌리기 VIII	False	Fury	icon_skills.turnback_tex
+60900	Common	Common	Berserker	뒤돌리기 IX	False		icon_skills.turnback_tex
+60930	Common	Common	Berserker	뒤돌리기 IX	False	Fury	icon_skills.turnback_tex
+61000	Common	Common	Berserker	뒤돌리기 X	False		icon_skills.turnback_tex
+61030	Common	Common	Berserker	뒤돌리기 X	False	Fury	icon_skills.turnback_tex
+61100	Common	Common	Berserker	뒤돌리기 XI	False		icon_skills.turnback_tex
+61130	Common	Common	Berserker	뒤돌리기 XI	False	Fury	icon_skills.turnback_tex
 70100	Common	Common	Berserker	고함 I	False		icon_skills.shockingshout_tex
 70200	Common	Common	Berserker	고함 II	False		icon_skills.shockingshout_tex
 70300	Common	Common	Berserker	고함 III	False		icon_skills.shockingshout_tex
 70400	Common	Common	Berserker	고함 IV	False		icon_skills.shockingshout_tex
 80100	Common	Common	Berserker	광폭화 I	False		icon_skills.berserk_tex
+80101	Common	Common	Berserker	광폭화 I	False		icon_skills.berserk_tex
 80130	Common	Common	Berserker	광폭화 I	False	Fury	icon_skills.berserk_tex
 80200	Common	Common	Berserker	광폭화 II	False		icon_skills.berserk_tex
+80201	Common	Common	Berserker	광폭화 II	False		icon_skills.berserk_tex
 80230	Common	Common	Berserker	광폭화 II	False	Fury	icon_skills.berserk_tex
 80300	Common	Common	Berserker	광폭화 III	False		icon_skills.berserk_tex
+80301	Common	Common	Berserker	광폭화 III	False		icon_skills.berserk_tex
 80330	Common	Common	Berserker	광폭화 III	False	Fury	icon_skills.berserk_tex
 80400	Common	Common	Berserker	광폭화 IV	False		icon_skills.berserk_tex
+80401	Common	Common	Berserker	광폭화 IV	False		icon_skills.berserk_tex
 80430	Common	Common	Berserker	광폭화 IV	False	Fury	icon_skills.berserk_tex
 80500	Common	Common	Berserker	광폭화 V	False		icon_skills.berserk_tex
+80501	Common	Common	Berserker	광폭화 V	False		icon_skills.berserk_tex
 80530	Common	Common	Berserker	광폭화 V	False	Fury	icon_skills.berserk_tex
 80600	Common	Common	Berserker	광폭화 VI	False		icon_skills.berserk_tex
+80601	Common	Common	Berserker	광폭화 VI	False		icon_skills.berserk_tex
 80630	Common	Common	Berserker	광폭화 VI	False	Fury	icon_skills.berserk_tex
 80700	Common	Common	Berserker	광폭화 VII	False		icon_skills.berserk_tex
 100100	Common	Common	Berserker	소용돌이 I	False		icon_skills.whirlwind_tex
@@ -1060,6 +1111,38 @@
 250101	Common	Common	Berserker	전진 횡베기 I	False	Fury	icon_skills.sideslash_tex
 250130	Common	Common	Berserker	전진 횡베기 I	True		icon_skills.sideslash_tex
 250131	Common	Common	Berserker	전진 횡베기 I	True	Fury	icon_skills.sideslash_tex
+250200	Common	Common	Berserker	전진 횡베기 II	False		icon_skills.sideslash_tex
+250201	Common	Common	Berserker	전진 횡베기 II	False	Fury	icon_skills.sideslash_tex
+250230	Common	Common	Berserker	전진 횡베기 II	True		icon_skills.sideslash_tex
+250231	Common	Common	Berserker	전진 횡베기 II	True	Fury	icon_skills.sideslash_tex
+250300	Common	Common	Berserker	전진 횡베기 III	False		icon_skills.sideslash_tex
+250301	Common	Common	Berserker	전진 횡베기 III	False	Fury	icon_skills.sideslash_tex
+250330	Common	Common	Berserker	전진 횡베기 III	True		icon_skills.sideslash_tex
+250331	Common	Common	Berserker	전진 횡베기 III	True	Fury	icon_skills.sideslash_tex
+250400	Common	Common	Berserker	전진 횡베기 IV	False		icon_skills.sideslash_tex
+250401	Common	Common	Berserker	전진 횡베기 IV	False	Fury	icon_skills.sideslash_tex
+250430	Common	Common	Berserker	전진 횡베기 IV	True		icon_skills.sideslash_tex
+250431	Common	Common	Berserker	전진 횡베기 IV	True	Fury	icon_skills.sideslash_tex
+250500	Common	Common	Berserker	전진 횡베기 V	False		icon_skills.sideslash_tex
+250501	Common	Common	Berserker	전진 횡베기 V	False	Fury	icon_skills.sideslash_tex
+250530	Common	Common	Berserker	전진 횡베기 V	True		icon_skills.sideslash_tex
+250531	Common	Common	Berserker	전진 횡베기 V	True	Fury	icon_skills.sideslash_tex
+250600	Common	Common	Berserker	전진 횡베기 VI	False		icon_skills.sideslash_tex
+250601	Common	Common	Berserker	전진 횡베기 VI	False	Fury	icon_skills.sideslash_tex
+250630	Common	Common	Berserker	전진 횡베기 VI	True		icon_skills.sideslash_tex
+250631	Common	Common	Berserker	전진 횡베기 VI	True	Fury	icon_skills.sideslash_tex
+250700	Common	Common	Berserker	전진 횡베기 VII	False		icon_skills.sideslash_tex
+250701	Common	Common	Berserker	전진 횡베기 VII	False	Fury	icon_skills.sideslash_tex
+250730	Common	Common	Berserker	전진 횡베기 VII	True		icon_skills.sideslash_tex
+250731	Common	Common	Berserker	전진 횡베기 VII	True	Fury	icon_skills.sideslash_tex
+250800	Common	Common	Berserker	전진 횡베기 VIII	False		icon_skills.sideslash_tex
+250801	Common	Common	Berserker	전진 횡베기 VIII	False	Fury	icon_skills.sideslash_tex
+250830	Common	Common	Berserker	전진 횡베기 VIII	True		icon_skills.sideslash_tex
+250831	Common	Common	Berserker	전진 횡베기 VIII	True	Fury	icon_skills.sideslash_tex
+250900	Common	Common	Berserker	전진 횡베기 IX	False		icon_skills.sideslash_tex
+250901	Common	Common	Berserker	전진 횡베기 IX	False	Fury	icon_skills.sideslash_tex
+250930	Common	Common	Berserker	전진 횡베기 IX	True		icon_skills.sideslash_tex
+250931	Common	Common	Berserker	전진 횡베기 IX	True	Fury	icon_skills.sideslash_tex
 260100	Common	Common	Berserker	강기 날리기 I	False		icon_skills.throwaxe_tex
 260120	Common	Common	Berserker	강기 날리기 I	False		icon_skills.throwaxe_tex
 270100	Common	Common	Berserker	불멸의 광전사 I	False		icon_skills.selfbuff_tex
@@ -1070,6 +1153,24 @@
 300130	Common	Common	Berserker	되받아 치기 I	False		icon_skills.determinationofadvance_tex
 310100	Common	Common	Berserker	강습 공격 I	False		icon_skills.assaultattack_tex
 310101	Common	Common	Berserker	강습 공격 I	False		icon_skills.assaultattack_tex
+310200	Common	Common	Berserker	강습 공격 II	False		icon_skills.assaultattack_tex
+310201	Common	Common	Berserker	강습 공격 II	False		icon_skills.assaultattack_tex
+310300	Common	Common	Berserker	강습 공격 III	False		icon_skills.assaultattack_tex
+310301	Common	Common	Berserker	강습 공격 III	False		icon_skills.assaultattack_tex
+310400	Common	Common	Berserker	강습 공격 IV	False		icon_skills.assaultattack_tex
+310401	Common	Common	Berserker	강습 공격 IV	False		icon_skills.assaultattack_tex
+310500	Common	Common	Berserker	강습 공격 V	False		icon_skills.assaultattack_tex
+310501	Common	Common	Berserker	강습 공격 V	False		icon_skills.assaultattack_tex
+310600	Common	Common	Berserker	강습 공격 VI	False		icon_skills.assaultattack_tex
+310601	Common	Common	Berserker	강습 공격 VI	False		icon_skills.assaultattack_tex
+310700	Common	Common	Berserker	강습 공격 VII	False		icon_skills.assaultattack_tex
+310701	Common	Common	Berserker	강습 공격 VII	False		icon_skills.assaultattack_tex
+310800	Common	Common	Berserker	강습 공격 VIII	False		icon_skills.assaultattack_tex
+310801	Common	Common	Berserker	강습 공격 VIII	False		icon_skills.assaultattack_tex
+310900	Common	Common	Berserker	강습 공격 IX	False		icon_skills.assaultattack_tex
+310901	Common	Common	Berserker	강습 공격 IX	False		icon_skills.assaultattack_tex
+311000	Common	Common	Berserker	강습 공격 X	False		icon_skills.assaultattack_tex
+311001	Common	Common	Berserker	강습 공격 X	False		icon_skills.assaultattack_tex
 320100	Common	Common	Berserker	올려 베기 I	False	hit 1	icon_skills.upperslashcombo_tex
 320101	Common	Common	Berserker	올려 베기 I	False	hit 2	icon_skills.upperslashcombo_tex
 10100	Common	Common	Brawler	연타 I	False	hit 1	icon_skills.comboattack01_tex
@@ -1276,6 +1377,8 @@
 40930	Common	Common	Brawler	지면 강타 IX (방어)	True		icon_skills.poundonground_tex
 41000	Common	Common	Brawler	지면 강타 X (방어)	False		icon_skills.poundonground_tex
 41030	Common	Common	Brawler	지면 강타 X (방어)	True		icon_skills.poundonground_tex
+41100	Common	Common	Brawler	지면 강타 XI (방어)	False		icon_skills.poundonground_tex
+41130	Common	Common	Brawler	지면 강타 XI (방어)	True		icon_skills.poundonground_tex
 50100	Common	Common	Brawler	난폭한 돌진 I	False		icon_skills.bulldozer_tex
 50200	Common	Common	Brawler	난폭한 돌진 II	False		icon_skills.bulldozer_tex
 50300	Common	Common	Brawler	난폭한 돌진 III	False		icon_skills.bulldozer_tex
@@ -1578,6 +1681,30 @@
 160501	Common	Common	Brawler	공중 차기 V	False		icon_skills.airkick_tex
 160502	Common	Common	Brawler	공중 차기 V	False		icon_skills.airkick_tex
 160530	Common	Common	Brawler	공중 차기 V	True		icon_skills.airkick_tex
+160600	Common	Common	Brawler	공중 차기 VI	False		icon_skills.airkick_tex
+160601	Common	Common	Brawler	공중 차기 VI	False		icon_skills.airkick_tex
+160602	Common	Common	Brawler	공중 차기 VI	False		icon_skills.airkick_tex
+160630	Common	Common	Brawler	공중 차기 VI	True		icon_skills.airkick_tex
+160700	Common	Common	Brawler	공중 차기 VII	False		icon_skills.airkick_tex
+160701	Common	Common	Brawler	공중 차기 VII	False		icon_skills.airkick_tex
+160702	Common	Common	Brawler	공중 차기 VII	False		icon_skills.airkick_tex
+160730	Common	Common	Brawler	공중 차기 VII	True		icon_skills.airkick_tex
+160800	Common	Common	Brawler	공중 차기 VIII	False		icon_skills.airkick_tex
+160801	Common	Common	Brawler	공중 차기 VIII	False		icon_skills.airkick_tex
+160802	Common	Common	Brawler	공중 차기 VIII	False		icon_skills.airkick_tex
+160830	Common	Common	Brawler	공중 차기 VIII	True		icon_skills.airkick_tex
+160900	Common	Common	Brawler	공중 차기 IX	False		icon_skills.airkick_tex
+160901	Common	Common	Brawler	공중 차기 IX	False		icon_skills.airkick_tex
+160902	Common	Common	Brawler	공중 차기 IX	False		icon_skills.airkick_tex
+160930	Common	Common	Brawler	공중 차기 IX	True		icon_skills.airkick_tex
+161000	Common	Common	Brawler	공중 차기 X	False		icon_skills.airkick_tex
+161001	Common	Common	Brawler	공중 차기 X	False		icon_skills.airkick_tex
+161002	Common	Common	Brawler	공중 차기 X	False		icon_skills.airkick_tex
+161030	Common	Common	Brawler	공중 차기 X	True		icon_skills.airkick_tex
+161100	Common	Common	Brawler	공중 차기 XI	False		icon_skills.airkick_tex
+161101	Common	Common	Brawler	공중 차기 XI	False		icon_skills.airkick_tex
+161102	Common	Common	Brawler	공중 차기 XI	False		icon_skills.airkick_tex
+161130	Common	Common	Brawler	공중 차기 XI	True		icon_skills.airkick_tex
 170100	Common	Common	Brawler	분노의 난타 I (방어)	False		icon_skills.dashattack_tex
 170110	Common	Common	Brawler	분노의 난타 I (방어)	False		icon_skills.dashattack_tex
 170200	Common	Common	Brawler	분노의 난타 II (방어)	False		icon_skills.dashattack_tex
@@ -1618,7 +1745,8 @@
 210100	Common	Common	Brawler	차오르는 분노	False		icon_skills.arouseangercancel_tex
 210101	Common	Common	Brawler	차오르는 분노	False		icon_skills.arouseangercancel_tex
 210102	Common	Common	Brawler	차오르는 분노	False		icon_skills.arouseangercancel_tex
-400100	Common	Common	Brawler	순간 돌진 (회피)	False		icon_skills.instancerush_tex
+400100	Common	Common	Brawler	순간 돌진 (회피)	False	hit 1	icon_skills.instancerush_tex
+400130	Common	Common	Brawler	순간 돌진 (회피)	False	hit 2	icon_skills.instancerush_tex
 10100	Common	Common	Gunner	일반 포탄 발사 I	False		icon_skills.cannonshot_tex
 10101	Common	Common	Gunner	일반 포탄 발사 I	False		icon_skills.cannonshot_tex
 10102	Common	Common	Gunner	일반 포탄 발사 I	False		icon_skills.cannonshot_tex
@@ -1932,6 +2060,27 @@
 70820	Common	Common	Gunner	비전 충격탄 발사 VIII	False	forward	icon_skills.arcaneshockshot01_tex
 70821	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
 70822	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
+70900	Common	Common	Gunner	비전 충격탄 발사 IX	False		icon_skills.arcaneshockshot01_tex
+70901	Common	Common	Gunner	비전 충격탄 발사 VIII	False		icon_skills.arcaneshockshot01_tex
+70902	Common	Common	Gunner	비전 충격탄 발사 VIII	False		icon_skills.arcaneshockshot01_tex
+70903	Common	Common	Gunner	비전 충격탄 발사 VIII	False	hit 2	icon_skills.arcaneshockshot01_tex
+70920	Common	Common	Gunner	비전 충격탄 발사 VIII	False	forward	icon_skills.arcaneshockshot01_tex
+70921	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
+70922	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
+71000	Common	Common	Gunner	비전 충격탄 발사 X	False		icon_skills.arcaneshockshot01_tex
+71001	Common	Common	Gunner	비전 충격탄 발사 VIII	False		icon_skills.arcaneshockshot01_tex
+71002	Common	Common	Gunner	비전 충격탄 발사 VIII	False		icon_skills.arcaneshockshot01_tex
+71003	Common	Common	Gunner	비전 충격탄 발사 VIII	False	hit 2	icon_skills.arcaneshockshot01_tex
+71020	Common	Common	Gunner	비전 충격탄 발사 VIII	False	forward	icon_skills.arcaneshockshot01_tex
+71021	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
+71022	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
+71100	Common	Common	Gunner	비전 충격탄 발사 XI	False		icon_skills.arcaneshockshot01_tex
+71101	Common	Common	Gunner	비전 충격탄 발사 VIII	False		icon_skills.arcaneshockshot01_tex
+71102	Common	Common	Gunner	비전 충격탄 발사 VIII	False		icon_skills.arcaneshockshot01_tex
+71103	Common	Common	Gunner	비전 충격탄 발사 VIII	False	hit 2	icon_skills.arcaneshockshot01_tex
+71120	Common	Common	Gunner	비전 충격탄 발사 VIII	False	forward	icon_skills.arcaneshockshot01_tex
+71121	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
+71122	Common	Common	Gunner	비전 충격탄 발사 VIII	False	Boom	icon_skills.arcaneshockshot01_tex
 90100	Common	Common	Gunner	비전 미사일 발사 I	False		icon_skills.aimedshot_tex
 90110	Common	Common	Gunner	비전 미사일 발사 I	False		icon_skills.aimedshot_tex
 90111	Common	Common	Gunner	비전 미사일 발사 I	False		icon_skills.aimedshot_tex
@@ -2218,36 +2367,49 @@
 150901	Common	Common	Gunner	마력 장전 IX	False		icon_skills.reload_tex
 150902	Common	Common	Gunner	마력 장전 IX	False		icon_skills.reload_tex
 150930	Common	Common	Gunner	마력 장전 IX	True		icon_skills.reload_tex
+151000	Common	Common	Gunner	마력 장전 X	False		icon_skills.reload_tex
+151001	Common	Common	Gunner	마력 장전 IX	False		icon_skills.reload_tex
+151002	Common	Common	Gunner	마력 장전 IX	False		icon_skills.reload_tex
+151030	Common	Common	Gunner	마력 장전 IX	True		icon_skills.reload_tex
+151100	Common	Common	Gunner	마력 장전 XI	False		icon_skills.reload_tex
+151101	Common	Common	Gunner	마력 장전 IX	False		icon_skills.reload_tex
+151102	Common	Common	Gunner	마력 장전 IX	False		icon_skills.reload_tex
+151130	Common	Common	Gunner	마력 장전 IX	True		icon_skills.reload_tex
 180100	Common	Common	Gunner	디스펜서 출격 I	False		icon_skills.summondispenser_tex
 180101	Common	Common	Gunner	디스펜서 출격 I	False		icon_skills.summondispenser_tex
 180102	Common	Common	Gunner	디스펜서 출격 I	False		icon_skills.summondispenser_tex
 180120	Common	Common	Gunner	디스펜서 출격 I	False		icon_skills.summondispenser_tex
 180121	Common	Common	Gunner	디스펜서 출격 I	False		icon_skills.summondispenser_tex
 180122	Common	Common	Gunner	디스펜서 출격 I	False		icon_skills.summondispenser_tex
+180131	Common	Common	Gunner	디스펜서 출격 I	False		icon_skills.summondispenser_tex
 180200	Common	Common	Gunner	디스펜서 출격 II	False		icon_skills.summondispenser_tex
 180201	Common	Common	Gunner	디스펜서 출격 II	False		icon_skills.summondispenser_tex
 180202	Common	Common	Gunner	디스펜서 출격 II	False		icon_skills.summondispenser_tex
 180220	Common	Common	Gunner	디스펜서 출격 II	False		icon_skills.summondispenser_tex
 180221	Common	Common	Gunner	디스펜서 출격 II	False		icon_skills.summondispenser_tex
 180222	Common	Common	Gunner	디스펜서 출격 II	False		icon_skills.summondispenser_tex
+180231	Common	Common	Gunner	디스펜서 출격 II	False		icon_skills.summondispenser_tex
 180300	Common	Common	Gunner	디스펜서 출격 III	False		icon_skills.summondispenser_tex
 180301	Common	Common	Gunner	디스펜서 출격 III	False		icon_skills.summondispenser_tex
 180302	Common	Common	Gunner	디스펜서 출격 III	False		icon_skills.summondispenser_tex
 180320	Common	Common	Gunner	디스펜서 출격 III	False		icon_skills.summondispenser_tex
 180321	Common	Common	Gunner	디스펜서 출격 III	False		icon_skills.summondispenser_tex
 180322	Common	Common	Gunner	디스펜서 출격 III	False		icon_skills.summondispenser_tex
+180331	Common	Common	Gunner	디스펜서 출격 III	False		icon_skills.summondispenser_tex
 180400	Common	Common	Gunner	디스펜서 출격 IV	False		icon_skills.summondispenser_tex
 180401	Common	Common	Gunner	디스펜서 출격 IV	False		icon_skills.summondispenser_tex
 180402	Common	Common	Gunner	디스펜서 출격 IV	False		icon_skills.summondispenser_tex
 180420	Common	Common	Gunner	디스펜서 출격 IV	False		icon_skills.summondispenser_tex
 180421	Common	Common	Gunner	디스펜서 출격 IV	False		icon_skills.summondispenser_tex
 180422	Common	Common	Gunner	디스펜서 출격 IV	False		icon_skills.summondispenser_tex
+180431	Common	Common	Gunner	디스펜서 출격 IV	False		icon_skills.summondispenser_tex
 180500	Common	Common	Gunner	디스펜서 출격 V	False		icon_skills.summondispenser_tex
 180501	Common	Common	Gunner	디스펜서 출격 V	False		icon_skills.summondispenser_tex
 180502	Common	Common	Gunner	디스펜서 출격 V	False		icon_skills.summondispenser_tex
 180520	Common	Common	Gunner	디스펜서 출격 V	False		icon_skills.summondispenser_tex
 180521	Common	Common	Gunner	디스펜서 출격 V	False		icon_skills.summondispenser_tex
 180522	Common	Common	Gunner	디스펜서 출격 V	False		icon_skills.summondispenser_tex
+180531	Common	Common	Gunner	디스펜서 출격 V	False		icon_skills.summondispenser_tex
 180600	Common	Common	Gunner	디스펜서 출격 VI	False		icon_skills.summondispenser_tex
 180601	Common	Common	Gunner	디스펜서 출격 VI	False		icon_skills.summondispenser_tex
 180602	Common	Common	Gunner	디스펜서 출격 VI	False		icon_skills.summondispenser_tex
@@ -2261,6 +2423,7 @@
 180720	Common	Common	Gunner	디스펜서 출격 VII	False		icon_skills.summondispenser_tex
 180721	Common	Common	Gunner	디스펜서 출격 VII	False		icon_skills.summondispenser_tex
 180722	Common	Common	Gunner	디스펜서 출격 VII	False		icon_skills.summondispenser_tex
+180731	Common	Common	Gunner	디스펜서 출격 VII	False		icon_skills.summondispenser_tex
 190100	Common	Common	Gunner	센트리 타워 설치 I	False		icon_skills.summonsentrytower_tex
 190101	Common	Common	Gunner	센트리 타워 설치 I	False		icon_skills.summonsentrytower_tex
 190102	Common	Common	Gunner	센트리 타워 설치 I	False		icon_skills.summonsentrytower_tex
@@ -3107,8 +3270,42 @@
 400200	Common	Common	Mystic	영기 소환 : 의지 II	False		icon_skills.energiesofwillpower_tex
 410100	Common	Common	Mystic	역병 창궐 I	False		icon_skills.plague_tex
 410110	Common	Common	Mystic	역병 창궐 I	False		icon_skills.plague_tex
+410200	Common	Common	Mystic	역병 창궐 II	False		icon_skills.plague_tex
+410210	Common	Common	Mystic	역병 창궐 II	False		icon_skills.plague_tex
+410300	Common	Common	Mystic	역병 창궐 III	False		icon_skills.plague_tex
+410310	Common	Common	Mystic	역병 창궐 III	False		icon_skills.plague_tex
+410400	Common	Common	Mystic	역병 창궐 IV	False		icon_skills.plague_tex
+410410	Common	Common	Mystic	역병 창궐 IV	False		icon_skills.plague_tex
+410500	Common	Common	Mystic	역병 창궐 V	False		icon_skills.plague_tex
+410510	Common	Common	Mystic	역병 창궐 V	False		icon_skills.plague_tex
+410600	Common	Common	Mystic	역병 창궐 VI	False		icon_skills.plague_tex
+410610	Common	Common	Mystic	역병 창궐 VI	False		icon_skills.plague_tex
+410700	Common	Common	Mystic	역병 창궐 VII	False		icon_skills.plague_tex
+410710	Common	Common	Mystic	역병 창궐 VII	False		icon_skills.plague_tex
+410800	Common	Common	Mystic	역병 창궐 VIII	False		icon_skills.plague_tex
+410810	Common	Common	Mystic	역병 창궐 VIII	False		icon_skills.plague_tex
+410900	Common	Common	Mystic	역병 창궐 IX	False		icon_skills.plague_tex
+410910	Common	Common	Mystic	역병 창궐 IX	False		icon_skills.plague_tex
 420100	Common	Common	Mystic	신비한 구슬 I	False		icon_skills.mysticorb_tex
 420120	Common	Common	Mystic	신비한 구슬 I	False		icon_skills.mysticorb_tex
+420200	Common	Common	Mystic	신비한 구슬 II	False		icon_skills.mysticorb_tex
+420220	Common	Common	Mystic	신비한 구슬 II	False		icon_skills.mysticorb_tex
+420300	Common	Common	Mystic	신비한 구슬 III	False		icon_skills.mysticorb_tex
+420320	Common	Common	Mystic	신비한 구슬 III	False		icon_skills.mysticorb_tex
+420400	Common	Common	Mystic	신비한 구슬 IV	False		icon_skills.mysticorb_tex
+420420	Common	Common	Mystic	신비한 구슬 IV	False		icon_skills.mysticorb_tex
+420500	Common	Common	Mystic	신비한 구슬 V	False		icon_skills.mysticorb_tex
+420520	Common	Common	Mystic	신비한 구슬 V	False		icon_skills.mysticorb_tex
+420600	Common	Common	Mystic	신비한 구슬 VI	False		icon_skills.mysticorb_tex
+420620	Common	Common	Mystic	신비한 구슬 VI	False		icon_skills.mysticorb_tex
+420700	Common	Common	Mystic	신비한 구슬 VII	False		icon_skills.mysticorb_tex
+420720	Common	Common	Mystic	신비한 구슬 VII	False		icon_skills.mysticorb_tex
+420800	Common	Common	Mystic	신비한 구슬 VIII	False		icon_skills.mysticorb_tex
+420820	Common	Common	Mystic	신비한 구슬 VIII	False		icon_skills.mysticorb_tex
+420900	Common	Common	Mystic	신비한 구슬 IX	False		icon_skills.mysticorb_tex
+420920	Common	Common	Mystic	신비한 구슬 IX	False		icon_skills.mysticorb_tex
+421000	Common	Common	Mystic	신비한 구슬 X	False		icon_skills.mysticorb_tex
+421020	Common	Common	Mystic	신비한 구슬 X	False		icon_skills.mysticorb_tex
 10100	Common	Common	Ninja	연속 공격 I	False	hit 1	icon_skills.c12_meleecombo
 10101	Common	Common	Ninja	연속 공격 I	False	hit 2	icon_skills.c12_meleecombo
 10102	Common	Common	Ninja	연속 공격 I	False	hit 3	icon_skills.c12_meleecombo
@@ -3448,6 +3645,9 @@
 61000	Common	Common	Ninja	쾌속 베기 X	False		icon_skills.c12_rapidslash
 61010	Common	Common	Ninja	쾌속 베기 X	False		icon_skills.c12_rapidslash
 61030	Common	Common	Ninja	쾌속 베기 X	True		icon_skills.c12_rapidslash
+61100	Common	Common	Ninja	쾌속 베기 XI	False		icon_skills.c12_rapidslash
+61110	Common	Common	Ninja	쾌속 베기 X	False		icon_skills.c12_rapidslash
+61130	Common	Common	Ninja	쾌속 베기 X	True		icon_skills.c12_rapidslash
 70100	Common	Common	Ninja	후방 이동술 I	False		icon_skills.c12_catchback
 70200	Common	Common	Ninja	후방 이동술 II	False		icon_skills.c12_catchback
 70300	Common	Common	Ninja	후방 이동술 III	False		icon_skills.c12_catchback
@@ -3751,6 +3951,16 @@
 180921	Common	Common	Ninja	회오리 수리검 투척 IX	False	stopping	icon_skills.c12_tornadoshot
 180922	Common	Common	Ninja	회오리 수리검 투척 IX	False	backward	icon_skills.c12_tornadoshot
 180930	Common	Common	Ninja	회오리 수리검 투척 IX	True		icon_skills.c12_tornadoshot
+181000	Common	Common	Ninja	회오리 수리검 투척 X	False		icon_skills.c12_tornadoshot
+181020	Common	Common	Ninja	회오리 수리검 투척 IX	False		icon_skills.c12_tornadoshot
+181021	Common	Common	Ninja	회오리 수리검 투척 IX	False	stopping	icon_skills.c12_tornadoshot
+181022	Common	Common	Ninja	회오리 수리검 투척 IX	False	backward	icon_skills.c12_tornadoshot
+181030	Common	Common	Ninja	회오리 수리검 투척 IX	True		icon_skills.c12_tornadoshot
+181100	Common	Common	Ninja	회오리 수리검 투척 XI	False		icon_skills.c12_tornadoshot
+181120	Common	Common	Ninja	회오리 수리검 투척 IX	False		icon_skills.c12_tornadoshot
+181121	Common	Common	Ninja	회오리 수리검 투척 IX	False	stopping	icon_skills.c12_tornadoshot
+181122	Common	Common	Ninja	회오리 수리검 투척 IX	False	backward	icon_skills.c12_tornadoshot
+181130	Common	Common	Ninja	회오리 수리검 투척 IX	True		icon_skills.c12_tornadoshot
 190100	Common	Common	Ninja	명치 찌르기 I	False		icon_skills.c12_evadestingshot
 190130	Common	Common	Ninja	명치 찌르기 I	True		icon_skills.c12_evadestingshot
 190200	Common	Common	Ninja	명치 찌르기 II	False		icon_skills.c12_evadestingshot
@@ -4248,6 +4458,24 @@
 390500	Common	Common	Priest	부활의 가호 V	False		icon_skills.selfpreresurrection_tex
 400100	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
 400120	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400200	Common	Common	Priest	신의 숨결 II	False		icon_skills.godbreath_tex
+400220	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400300	Common	Common	Priest	신의 숨결 III	False		icon_skills.godbreath_tex
+400320	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400400	Common	Common	Priest	신의 숨결 IV	False		icon_skills.godbreath_tex
+400420	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400500	Common	Common	Priest	신의 숨결 V	False		icon_skills.godbreath_tex
+400520	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400600	Common	Common	Priest	신의 숨결 VI	False		icon_skills.godbreath_tex
+400620	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400700	Common	Common	Priest	신의 숨결 VII	False		icon_skills.godbreath_tex
+400720	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400800	Common	Common	Priest	신의 숨결 VIII	False		icon_skills.godbreath_tex
+400820	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+400900	Common	Common	Priest	신의 숨결 IX	False		icon_skills.godbreath_tex
+400920	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
+401000	Common	Common	Priest	신의 숨결 X	False		icon_skills.godbreath_tex
+401020	Common	Common	Priest	신의 숨결 I	False		icon_skills.godbreath_tex
 410100	Common	Common	Priest	구원의 손길 I	False		icon_skills.helpinghand_tex
 410110	Common	Common	Priest	구원의 손길 I	False		icon_skills.helpinghand_tex
 10100	Common	Common	Reaper	비검 연타 I	False		icon_skills.comboattack2_tex
@@ -4410,32 +4638,60 @@
 11502	Common	Common	Slayer	연속 공격 XV	False	hit 3	icon_skills.comboattack_tex
 11503	Common	Common	Slayer	연속 공격 XV	False	hit 4	icon_skills.comboattack_tex
 20100	Common	Common	Slayer	후려치기 I	False		icon_skills.handyslash_tex
+20101	Common	Common	Slayer	후려치기 I	False		icon_skills.handyslash_tex
+20102	Common	Common	Slayer	후려치기 I	False		icon_skills.handyslash_tex
 20130	Common	Common	Slayer	후려치기 I	True		icon_skills.handyslash_tex
 20200	Common	Common	Slayer	후려치기 II	False		icon_skills.handyslash_tex
+20201	Common	Common	Slayer	후려치기 II	False		icon_skills.handyslash_tex
+20202	Common	Common	Slayer	후려치기 II	False		icon_skills.handyslash_tex
 20230	Common	Common	Slayer	후려치기 II	True		icon_skills.handyslash_tex
 20300	Common	Common	Slayer	후려치기 III	False		icon_skills.handyslash_tex
+20301	Common	Common	Slayer	후려치기 III	False		icon_skills.handyslash_tex
+20302	Common	Common	Slayer	후려치기 III	False		icon_skills.handyslash_tex
 20330	Common	Common	Slayer	후려치기 III	True		icon_skills.handyslash_tex
 20400	Common	Common	Slayer	후려치기 IV	False		icon_skills.handyslash_tex
+20401	Common	Common	Slayer	후려치기 IV	False		icon_skills.handyslash_tex
+20402	Common	Common	Slayer	후려치기 IV	False		icon_skills.handyslash_tex
 20430	Common	Common	Slayer	후려치기 IV	True		icon_skills.handyslash_tex
 20500	Common	Common	Slayer	후려치기 V	False		icon_skills.handyslash_tex
+20501	Common	Common	Slayer	후려치기 V	False		icon_skills.handyslash_tex
+20502	Common	Common	Slayer	후려치기 V	False		icon_skills.handyslash_tex
 20530	Common	Common	Slayer	후려치기 V	True		icon_skills.handyslash_tex
 20600	Common	Common	Slayer	후려치기 VI	False		icon_skills.handyslash_tex
+20601	Common	Common	Slayer	후려치기 VI	False		icon_skills.handyslash_tex
+20602	Common	Common	Slayer	후려치기 VI	False		icon_skills.handyslash_tex
 20630	Common	Common	Slayer	후려치기 VI	True		icon_skills.handyslash_tex
 20700	Common	Common	Slayer	후려치기 VII	False		icon_skills.handyslash_tex
+20701	Common	Common	Slayer	후려치기 VII	False		icon_skills.handyslash_tex
+20702	Common	Common	Slayer	후려치기 VII	False		icon_skills.handyslash_tex
 20730	Common	Common	Slayer	후려치기 VII	True		icon_skills.handyslash_tex
 20800	Common	Common	Slayer	후려치기 VIII	False		icon_skills.handyslash_tex
+20801	Common	Common	Slayer	후려치기 VIII	False		icon_skills.handyslash_tex
+20802	Common	Common	Slayer	후려치기 VIII	False		icon_skills.handyslash_tex
 20830	Common	Common	Slayer	후려치기 VIII	True		icon_skills.handyslash_tex
 20900	Common	Common	Slayer	후려치기 IX	False		icon_skills.handyslash_tex
+20901	Common	Common	Slayer	후려치기 IX	False		icon_skills.handyslash_tex
+20902	Common	Common	Slayer	후려치기 IX	False		icon_skills.handyslash_tex
 20930	Common	Common	Slayer	후려치기 IX	True		icon_skills.handyslash_tex
 21000	Common	Common	Slayer	후려치기 X	False		icon_skills.handyslash_tex
+21001	Common	Common	Slayer	후려치기 X	False		icon_skills.handyslash_tex
+21002	Common	Common	Slayer	후려치기 X	False		icon_skills.handyslash_tex
 21030	Common	Common	Slayer	후려치기 X	True		icon_skills.handyslash_tex
 21100	Common	Common	Slayer	후려치기 XI	False		icon_skills.handyslash_tex
+21101	Common	Common	Slayer	후려치기 XI	False		icon_skills.handyslash_tex
+21102	Common	Common	Slayer	후려치기 XI	False		icon_skills.handyslash_tex
 21130	Common	Common	Slayer	후려치기 XI	True		icon_skills.handyslash_tex
 21200	Common	Common	Slayer	후려치기 XII	False		icon_skills.handyslash_tex
+21201	Common	Common	Slayer	후려치기 XII	False		icon_skills.handyslash_tex
+21202	Common	Common	Slayer	후려치기 XII	False		icon_skills.handyslash_tex
 21230	Common	Common	Slayer	후려치기 XII	True		icon_skills.handyslash_tex
 21300	Common	Common	Slayer	후려치기 XIII	False		icon_skills.handyslash_tex
+21301	Common	Common	Slayer	후려치기 XIII	False		icon_skills.handyslash_tex
+21302	Common	Common	Slayer	후려치기 XIII	False		icon_skills.handyslash_tex
 21330	Common	Common	Slayer	후려치기 XIII	True		icon_skills.handyslash_tex
 21400	Common	Common	Slayer	후려치기 XIV	False		icon_skills.handyslash_tex
+21401	Common	Common	Slayer	후려치기 XIV	False		icon_skills.handyslash_tex
+21402	Common	Common	Slayer	후려치기 XIV	False		icon_skills.handyslash_tex
 21430	Common	Common	Slayer	후려치기 XIV	True		icon_skills.handyslash_tex
 30100	Common	Common	Slayer	회전 베기 I	False		icon_skills.sworddance_tex
 30200	Common	Common	Slayer	회전 베기 II	False		icon_skills.sworddance_tex
@@ -4522,6 +4778,9 @@
 120600	Common	Common	Slayer	급소 치기 VI	False		icon_skills.stingerblade_tex
 120700	Common	Common	Slayer	급소 치기 VII	False		icon_skills.stingerblade_tex
 120800	Common	Common	Slayer	급소 치기 VIII	False		icon_skills.stingerblade_tex
+120900	Common	Common	Slayer	급소 치기 IX	False		icon_skills.stingerblade_tex
+121000	Common	Common	Slayer	급소 치기 X	False		icon_skills.stingerblade_tex
+121100	Common	Common	Slayer	급소 치기 XI	False		icon_skills.stingerblade_tex
 130100	Common	Common	Slayer	칼등 치기 I	False		icon_skills.flatblade_tex
 130200	Common	Common	Slayer	칼등 치기 II	False		icon_skills.flatblade_tex
 130300	Common	Common	Slayer	칼등 치기 III	False		icon_skills.flatblade_tex
@@ -4619,8 +4878,32 @@
 230430	Common	Common	Slayer	일섬 IV	True		icon_skills.cuthead_tex
 230500	Common	Common	Slayer	일섬 V	False		icon_skills.cuthead_tex
 230530	Common	Common	Slayer	일섬 V	True		icon_skills.cuthead_tex
+230600	Common	Common	Slayer	일섬 VI	False		icon_skills.cuthead_tex
+230630	Common	Common	Slayer	일섬 VI	True		icon_skills.cuthead_tex
+230700	Common	Common	Slayer	일섬 VII	False		icon_skills.cuthead_tex
+230730	Common	Common	Slayer	일섬 VII	True		icon_skills.cuthead_tex
+230800	Common	Common	Slayer	일섬 VIII	False		icon_skills.cuthead_tex
+230830	Common	Common	Slayer	일섬 VIII	True		icon_skills.cuthead_tex
+230900	Common	Common	Slayer	일섬 IX	False		icon_skills.cuthead_tex
+230930	Common	Common	Slayer	일섬 IX	True		icon_skills.cuthead_tex
 240100	Common	Common	Slayer	턱 부수기 I	False		icon_skills.jawbreaker_tex
 240130	Common	Common	Slayer	턱 부수기 I	True		icon_skills.jawbreaker_tex
+240200	Common	Common	Slayer	턱 부수기 II	False		icon_skills.jawbreaker_tex
+240230	Common	Common	Slayer	턱 부수기 II	True		icon_skills.jawbreaker_tex
+240300	Common	Common	Slayer	턱 부수기 III	False		icon_skills.jawbreaker_tex
+240330	Common	Common	Slayer	턱 부수기 III	True		icon_skills.jawbreaker_tex
+240400	Common	Common	Slayer	턱 부수기 IV	False		icon_skills.jawbreaker_tex
+240430	Common	Common	Slayer	턱 부수기 IV	True		icon_skills.jawbreaker_tex
+240500	Common	Common	Slayer	턱 부수기 V	False		icon_skills.jawbreaker_tex
+240530	Common	Common	Slayer	턱 부수기 V	True		icon_skills.jawbreaker_tex
+240600	Common	Common	Slayer	턱 부수기 VI	False		icon_skills.jawbreaker_tex
+240630	Common	Common	Slayer	턱 부수기 VI	True		icon_skills.jawbreaker_tex
+240700	Common	Common	Slayer	턱 부수기 VII	False		icon_skills.jawbreaker_tex
+240730	Common	Common	Slayer	턱 부수기 VII	True		icon_skills.jawbreaker_tex
+240800	Common	Common	Slayer	턱 부수기 VIII	False		icon_skills.jawbreaker_tex
+240830	Common	Common	Slayer	턱 부수기 VIII	True		icon_skills.jawbreaker_tex
+240900	Common	Common	Slayer	턱 부수기 IX	False		icon_skills.jawbreaker_tex
+240930	Common	Common	Slayer	턱 부수기 IX	True		icon_skills.jawbreaker_tex
 250100	Common	Common	Slayer	진 일도양단 I	False		icon_skills.cuttingslash_tex
 250130	Common	Common	Slayer	진 일도양단 I	True		icon_skills.cuttingslash_tex
 10100	Common	Common	Sorcerer	화염구 I	False		icon_skills.fireball_tex
@@ -5093,6 +5376,12 @@
 270620	Common	Common	Sorcerer	얼음 폭풍 VI	False		icon_skills.icestorm_tex
 270700	Common	Common	Sorcerer	얼음 폭풍 VII	False		icon_skills.icestorm_tex
 270720	Common	Common	Sorcerer	얼음 폭풍 VII	False		icon_skills.icestorm_tex
+270800	Common	Common	Sorcerer	얼음 폭풍 VIII	False		icon_skills.icestorm_tex
+270820	Common	Common	Sorcerer	얼음 폭풍 VII	False		icon_skills.icestorm_tex
+270900	Common	Common	Sorcerer	얼음 폭풍 IX	False		icon_skills.icestorm_tex
+270920	Common	Common	Sorcerer	얼음 폭풍 VII	False		icon_skills.icestorm_tex
+271000	Common	Common	Sorcerer	얼음 폭풍 VII	False		icon_skills.icestorm_tex
+271020	Common	Common	Sorcerer	얼음 폭풍 VII	False		icon_skills.icestorm_tex
 280100	Common	Common	Sorcerer	암석화 I	False	On	icon_skills.stoneshape_tex
 280150	Common	Common	Sorcerer	암석화 I	False	Off	icon_skills.stoneshape_tex
 280200	Common	Common	Sorcerer	암석화 II	False	On	icon_skills.stoneshape_tex
@@ -5106,7 +5395,18 @@
 290200	Common	Common	Sorcerer	회오리 감옥 II	False		icon_skills.tornadoprison_tex
 290220	Common	Common	Sorcerer	회오리 감옥 II	False		icon_skills.tornadoprison_tex
 300100	Common	Common	Sorcerer	마력 폭발 I	False		icon_skills.manaburst_tex
-310100	Common	Common	Sorcerer	공간 왜곡 I	False		icon_skills.distortionfield_tex
+300200	Common	Common	Sorcerer	마력 폭발 II	False		icon_skills.manaburst_tex
+300300	Common	Common	Sorcerer	마력 폭발 III	False		icon_skills.manaburst_tex
+300400	Common	Common	Sorcerer	마력 폭발 IV	False		icon_skills.manaburst_tex
+300500	Common	Common	Sorcerer	마력 폭발 V	False		icon_skills.manaburst_tex
+300600	Common	Common	Sorcerer	마력 폭발 VI	False		icon_skills.manaburst_tex
+300700	Common	Common	Sorcerer	마력 폭발 VII	False		icon_skills.manaburst_tex
+300800	Common	Common	Sorcerer	마력 폭발 VIII	False		icon_skills.manaburst_tex
+300900	Common	Common	Sorcerer	마력 폭발 IX	False		icon_skills.manaburst_tex
+301000	Common	Common	Sorcerer	마력 폭발 I	False		icon_skills.manaburst_tex
+310100	Common	Common	Sorcerer	공간 왜곡 I	False	hit 1	icon_skills.distortionfield_tex
+310110	Common	Common	Sorcerer	공간 왜곡 I	False		icon_skills.distortionfield_tex
+310120	Common	Common	Sorcerer	공간 왜곡 I	False		icon_skills.distortionfield_tex
 320100	Common	Common	Sorcerer	운석 낙하 VII	False	MB	icon_skills.hellfire_tex
 320150	Common	Common	Sorcerer	운석 낙하 VII	False	MB FD	icon_skills.hellfire_tex
 330100	Common	Common	Sorcerer	폭렬구 I	False		icon_skills.blastball_tex
@@ -5153,6 +5453,883 @@
 411205	Common	Common	Sorcerer	뇌격 강타 XII	True		icon_skills.c5_lightningstruck
 411305	Common	Common	Sorcerer	뇌격 강타 XIII	True		icon_skills.c5_lightningstruck
 411405	Common	Common	Sorcerer	뇌격 강타 XIV	True		icon_skills.c5_lightningstruck
+10100	Common	Common	Valkyrie	연격참 I	False	hit 1	icon_skills.combo_tex
+10101	Common	Common	Valkyrie	연격참 I	False	hit 2	icon_skills.combo_tex
+10102	Common	Common	Valkyrie	연격참 I	False	hit 3	icon_skills.combo_tex
+10103	Common	Common	Valkyrie	연격참 I	False	hit 4	icon_skills.combo_tex
+10130	Common	Common	Valkyrie	연격참 I	True	hit 1	icon_skills.combo_tex
+10199	Common	Common	Valkyrie	연격참 I	False		icon_skills.combo_tex
+10200	Common	Common	Valkyrie	연격참 II	False	hit 1	icon_skills.combo_tex
+10201	Common	Common	Valkyrie	연격참 II	False	hit 2	icon_skills.combo_tex
+10202	Common	Common	Valkyrie	연격참 II	False	hit 3	icon_skills.combo_tex
+10203	Common	Common	Valkyrie	연격참 II	False	hit 4	icon_skills.combo_tex
+10230	Common	Common	Valkyrie	연격참 II	True	hit 1	icon_skills.combo_tex
+10299	Common	Common	Valkyrie	연격참 II	False		icon_skills.combo_tex
+10300	Common	Common	Valkyrie	연격참 III	False	hit 1	icon_skills.combo_tex
+10301	Common	Common	Valkyrie	연격참 III	False	hit 2	icon_skills.combo_tex
+10302	Common	Common	Valkyrie	연격참 III	False	hit 3	icon_skills.combo_tex
+10303	Common	Common	Valkyrie	연격참 III	False	hit 4	icon_skills.combo_tex
+10330	Common	Common	Valkyrie	연격참 III	True	hit 1	icon_skills.combo_tex
+10399	Common	Common	Valkyrie	연격참 III	False		icon_skills.combo_tex
+10400	Common	Common	Valkyrie	연격참 IV	False	hit 1	icon_skills.combo_tex
+10401	Common	Common	Valkyrie	연격참 IV	False	hit 2	icon_skills.combo_tex
+10402	Common	Common	Valkyrie	연격참 IV	False	hit 3	icon_skills.combo_tex
+10403	Common	Common	Valkyrie	연격참 IV	False	hit 4	icon_skills.combo_tex
+10430	Common	Common	Valkyrie	연격참 IV	True	hit 1	icon_skills.combo_tex
+10499	Common	Common	Valkyrie	연격참 IV	False		icon_skills.combo_tex
+10500	Common	Common	Valkyrie	연격참 V	False	hit 1	icon_skills.combo_tex
+10501	Common	Common	Valkyrie	연격참 V	False	hit 2	icon_skills.combo_tex
+10502	Common	Common	Valkyrie	연격참 V	False	hit 3	icon_skills.combo_tex
+10503	Common	Common	Valkyrie	연격참 V	False	hit 4	icon_skills.combo_tex
+10530	Common	Common	Valkyrie	연격참 V	True	hit 1	icon_skills.combo_tex
+10599	Common	Common	Valkyrie	연격참 V	False		icon_skills.combo_tex
+10600	Common	Common	Valkyrie	연격참 VI	False	hit 1	icon_skills.combo_tex
+10601	Common	Common	Valkyrie	연격참 VI	False	hit 2	icon_skills.combo_tex
+10602	Common	Common	Valkyrie	연격참 VI	False	hit 3	icon_skills.combo_tex
+10603	Common	Common	Valkyrie	연격참 VI	False	hit 4	icon_skills.combo_tex
+10630	Common	Common	Valkyrie	연격참 VI	True	hit 1	icon_skills.combo_tex
+10699	Common	Common	Valkyrie	연격참 VI	False		icon_skills.combo_tex
+10700	Common	Common	Valkyrie	연격참 VII	False	hit 1	icon_skills.combo_tex
+10701	Common	Common	Valkyrie	연격참 VII	False	hit 2	icon_skills.combo_tex
+10702	Common	Common	Valkyrie	연격참 VII	False	hit 3	icon_skills.combo_tex
+10703	Common	Common	Valkyrie	연격참 VII	False	hit 4	icon_skills.combo_tex
+10730	Common	Common	Valkyrie	연격참 VII	True	hit 1	icon_skills.combo_tex
+10799	Common	Common	Valkyrie	연격참 VII	False		icon_skills.combo_tex
+10800	Common	Common	Valkyrie	연격참 VIII	False	hit 1	icon_skills.combo_tex
+10801	Common	Common	Valkyrie	연격참 VIII	False	hit 2	icon_skills.combo_tex
+10802	Common	Common	Valkyrie	연격참 VIII	False	hit 3	icon_skills.combo_tex
+10803	Common	Common	Valkyrie	연격참 VIII	False	hit 4	icon_skills.combo_tex
+10830	Common	Common	Valkyrie	연격참 VIII	True	hit 1	icon_skills.combo_tex
+10899	Common	Common	Valkyrie	연격참 VIII	False		icon_skills.combo_tex
+10900	Common	Common	Valkyrie	연격참 IX	False	hit 1	icon_skills.combo_tex
+10901	Common	Common	Valkyrie	연격참 IX	False	hit 2	icon_skills.combo_tex
+10902	Common	Common	Valkyrie	연격참 IX	False	hit 3	icon_skills.combo_tex
+10903	Common	Common	Valkyrie	연격참 IX	False	hit 4	icon_skills.combo_tex
+10930	Common	Common	Valkyrie	연격참 IX	True	hit 1	icon_skills.combo_tex
+10999	Common	Common	Valkyrie	연격참 IX	False		icon_skills.combo_tex
+11000	Common	Common	Valkyrie	연격참 X	False	hit 1	icon_skills.combo_tex
+11001	Common	Common	Valkyrie	연격참 X	False	hit 2	icon_skills.combo_tex
+11002	Common	Common	Valkyrie	연격참 X	False	hit 3	icon_skills.combo_tex
+11003	Common	Common	Valkyrie	연격참 X	False	hit 4	icon_skills.combo_tex
+11030	Common	Common	Valkyrie	연격참 X	True	hit 1	icon_skills.combo_tex
+11099	Common	Common	Valkyrie	연격참 X	False		icon_skills.combo_tex
+11100	Common	Common	Valkyrie	연격참 XI	False	hit 1	icon_skills.combo_tex
+11101	Common	Common	Valkyrie	연격참 XI	False	hit 2	icon_skills.combo_tex
+11102	Common	Common	Valkyrie	연격참 XI	False	hit 3	icon_skills.combo_tex
+11103	Common	Common	Valkyrie	연격참 XI	False	hit 4	icon_skills.combo_tex
+11130	Common	Common	Valkyrie	연격참 XI	True	hit 1	icon_skills.combo_tex
+11199	Common	Common	Valkyrie	연격참 XI	False		icon_skills.combo_tex
+11200	Common	Common	Valkyrie	연격참 XII	False	hit 1	icon_skills.combo_tex
+11201	Common	Common	Valkyrie	연격참 XII	False	hit 2	icon_skills.combo_tex
+11202	Common	Common	Valkyrie	연격참 XII	False	hit 3	icon_skills.combo_tex
+11203	Common	Common	Valkyrie	연격참 XII	False	hit 4	icon_skills.combo_tex
+11230	Common	Common	Valkyrie	연격참 XII	True	hit 1	icon_skills.combo_tex
+11299	Common	Common	Valkyrie	연격참 XII	False		icon_skills.combo_tex
+15100	Common	Common	Valkyrie	연격참 I	False	hit 1	icon_skills.combo_tex
+15101	Common	Common	Valkyrie	연격참 I	False	hit 2	icon_skills.combo_tex
+15102	Common	Common	Valkyrie	연격참 I	False	hit 3	icon_skills.combo_tex
+15103	Common	Common	Valkyrie	연격참 I	False	hit 4	icon_skills.combo_tex
+15130	Common	Common	Valkyrie	연격참 I	True	hit 1	icon_skills.combo_tex
+15200	Common	Common	Valkyrie	연격참 II	False	hit 1	icon_skills.combo_tex
+15201	Common	Common	Valkyrie	연격참 II	False	hit 2	icon_skills.combo_tex
+15202	Common	Common	Valkyrie	연격참 II	False	hit 3	icon_skills.combo_tex
+15203	Common	Common	Valkyrie	연격참 II	False	hit 4	icon_skills.combo_tex
+15230	Common	Common	Valkyrie	연격참 II	True	hit 1	icon_skills.combo_tex
+15300	Common	Common	Valkyrie	연격참 III	False	hit 1	icon_skills.combo_tex
+15301	Common	Common	Valkyrie	연격참 III	False	hit 2	icon_skills.combo_tex
+15302	Common	Common	Valkyrie	연격참 III	False	hit 3	icon_skills.combo_tex
+15303	Common	Common	Valkyrie	연격참 III	False	hit 4	icon_skills.combo_tex
+15330	Common	Common	Valkyrie	연격참 III	True	hit 1	icon_skills.combo_tex
+15400	Common	Common	Valkyrie	연격참 IV	False	hit 1	icon_skills.combo_tex
+15401	Common	Common	Valkyrie	연격참 IV	False	hit 2	icon_skills.combo_tex
+15402	Common	Common	Valkyrie	연격참 IV	False	hit 3	icon_skills.combo_tex
+15403	Common	Common	Valkyrie	연격참 IV	False	hit 4	icon_skills.combo_tex
+15430	Common	Common	Valkyrie	연격참 IV	True	hit 1	icon_skills.combo_tex
+15500	Common	Common	Valkyrie	연격참 V	False	hit 1	icon_skills.combo_tex
+15501	Common	Common	Valkyrie	연격참 V	False	hit 2	icon_skills.combo_tex
+15502	Common	Common	Valkyrie	연격참 V	False	hit 3	icon_skills.combo_tex
+15503	Common	Common	Valkyrie	연격참 V	False	hit 4	icon_skills.combo_tex
+15530	Common	Common	Valkyrie	연격참 V	True	hit 1	icon_skills.combo_tex
+15600	Common	Common	Valkyrie	연격참 VI	False	hit 1	icon_skills.combo_tex
+15601	Common	Common	Valkyrie	연격참 VI	False	hit 2	icon_skills.combo_tex
+15602	Common	Common	Valkyrie	연격참 VI	False	hit 3	icon_skills.combo_tex
+15603	Common	Common	Valkyrie	연격참 VI	False	hit 4	icon_skills.combo_tex
+15630	Common	Common	Valkyrie	연격참 VI	True	hit 1	icon_skills.combo_tex
+15700	Common	Common	Valkyrie	연격참 VII	False	hit 1	icon_skills.combo_tex
+15701	Common	Common	Valkyrie	연격참 VII	False	hit 2	icon_skills.combo_tex
+15702	Common	Common	Valkyrie	연격참 VII	False	hit 3	icon_skills.combo_tex
+15703	Common	Common	Valkyrie	연격참 VII	False	hit 4	icon_skills.combo_tex
+15730	Common	Common	Valkyrie	연격참 VII	True	hit 1	icon_skills.combo_tex
+15800	Common	Common	Valkyrie	연격참 VIII	False	hit 1	icon_skills.combo_tex
+15801	Common	Common	Valkyrie	연격참 VIII	False	hit 2	icon_skills.combo_tex
+15802	Common	Common	Valkyrie	연격참 VIII	False	hit 3	icon_skills.combo_tex
+15803	Common	Common	Valkyrie	연격참 VIII	False	hit 4	icon_skills.combo_tex
+15830	Common	Common	Valkyrie	연격참 VIII	True	hit 1	icon_skills.combo_tex
+15900	Common	Common	Valkyrie	연격참 IX	False	hit 1	icon_skills.combo_tex
+15901	Common	Common	Valkyrie	연격참 IX	False	hit 2	icon_skills.combo_tex
+15902	Common	Common	Valkyrie	연격참 IX	False	hit 3	icon_skills.combo_tex
+15903	Common	Common	Valkyrie	연격참 IX	False	hit 4	icon_skills.combo_tex
+15930	Common	Common	Valkyrie	연격참 IX	True	hit 1	icon_skills.combo_tex
+16000	Common	Common	Valkyrie	연격참 X	False	hit 1	icon_skills.combo_tex
+16001	Common	Common	Valkyrie	연격참 X	False	hit 2	icon_skills.combo_tex
+16002	Common	Common	Valkyrie	연격참 X	False	hit 3	icon_skills.combo_tex
+16003	Common	Common	Valkyrie	연격참 X	False	hit 4	icon_skills.combo_tex
+16030	Common	Common	Valkyrie	연격참 X	True	hit 1	icon_skills.combo_tex
+16100	Common	Common	Valkyrie	연격참 XI	False	hit 1	icon_skills.combo_tex
+16101	Common	Common	Valkyrie	연격참 XI	False	hit 2	icon_skills.combo_tex
+16102	Common	Common	Valkyrie	연격참 XI	False	hit 3	icon_skills.combo_tex
+16103	Common	Common	Valkyrie	연격참 XI	False	hit 4	icon_skills.combo_tex
+16130	Common	Common	Valkyrie	연격참 XI	True	hit 1	icon_skills.combo_tex
+16200	Common	Common	Valkyrie	연격참 XII	False	hit 1	icon_skills.combo_tex
+16201	Common	Common	Valkyrie	연격참 XII	False	hit 2	icon_skills.combo_tex
+16202	Common	Common	Valkyrie	연격참 XII	False	hit 3	icon_skills.combo_tex
+16203	Common	Common	Valkyrie	연격참 XII	False	hit 4	icon_skills.combo_tex
+16230	Common	Common	Valkyrie	연격참 XII	True	hit 1	icon_skills.combo_tex
+20100	Common	Common	Valkyrie	혼격참 I	False		icon_skills.fatalshot_tex
+20130	Common	Common	Valkyrie	혼격참 I	True		icon_skills.fatalshot_tex
+20199	Common	Common	Valkyrie	혼격참 I	False		icon_skills.fatalshot_tex
+20200	Common	Common	Valkyrie	혼격참 II	False		icon_skills.fatalshot_tex
+20230	Common	Common	Valkyrie	혼격참 II	True		icon_skills.fatalshot_tex
+20299	Common	Common	Valkyrie	혼격참 II	False		icon_skills.fatalshot_tex
+20300	Common	Common	Valkyrie	혼격참 III	False		icon_skills.fatalshot_tex
+20330	Common	Common	Valkyrie	혼격참 III	True		icon_skills.fatalshot_tex
+20399	Common	Common	Valkyrie	혼격참 III	False		icon_skills.fatalshot_tex
+20400	Common	Common	Valkyrie	혼격참 IV	False		icon_skills.fatalshot_tex
+20430	Common	Common	Valkyrie	혼격참 IV	True		icon_skills.fatalshot_tex
+20499	Common	Common	Valkyrie	혼격참 IV	False		icon_skills.fatalshot_tex
+20500	Common	Common	Valkyrie	혼격참 V	False		icon_skills.fatalshot_tex
+20530	Common	Common	Valkyrie	혼격참 V	True		icon_skills.fatalshot_tex
+20599	Common	Common	Valkyrie	혼격참 V	False		icon_skills.fatalshot_tex
+20600	Common	Common	Valkyrie	혼격참 VI	False		icon_skills.fatalshot_tex
+20630	Common	Common	Valkyrie	혼격참 VI	True		icon_skills.fatalshot_tex
+20699	Common	Common	Valkyrie	혼격참 VI	False		icon_skills.fatalshot_tex
+20700	Common	Common	Valkyrie	혼격참 VII	False		icon_skills.fatalshot_tex
+20730	Common	Common	Valkyrie	혼격참 VII	True		icon_skills.fatalshot_tex
+20799	Common	Common	Valkyrie	혼격참 VII	False		icon_skills.fatalshot_tex
+25100	Common	Common	Valkyrie	혼격참 I	False		icon_skills.fatalshot_tex
+25130	Common	Common	Valkyrie	혼격참 I	True		icon_skills.fatalshot_tex
+25200	Common	Common	Valkyrie	혼격참 II	False		icon_skills.fatalshot_tex
+25230	Common	Common	Valkyrie	혼격참 II	True		icon_skills.fatalshot_tex
+25300	Common	Common	Valkyrie	혼격참 III	False		icon_skills.fatalshot_tex
+25330	Common	Common	Valkyrie	혼격참 III	True		icon_skills.fatalshot_tex
+25400	Common	Common	Valkyrie	혼격참 IV	False		icon_skills.fatalshot_tex
+25430	Common	Common	Valkyrie	혼격참 IV	True		icon_skills.fatalshot_tex
+25500	Common	Common	Valkyrie	혼격참 V	False		icon_skills.fatalshot_tex
+25530	Common	Common	Valkyrie	혼격참 V	True		icon_skills.fatalshot_tex
+25600	Common	Common	Valkyrie	혼격참 VI	False		icon_skills.fatalshot_tex
+25630	Common	Common	Valkyrie	혼격참 VI	True		icon_skills.fatalshot_tex
+25700	Common	Common	Valkyrie	혼격참 VII	False		icon_skills.fatalshot_tex
+25730	Common	Common	Valkyrie	혼격참 VII	True		icon_skills.fatalshot_tex
+30100	Common	Common	Valkyrie	월광폭 I	False		icon_skills.throwglave_tex
+30130	Common	Common	Valkyrie	월광폭 I	True		icon_skills.throwglave_tex
+30199	Common	Common	Valkyrie	월광폭 I	False		icon_skills.throwglave_tex
+30200	Common	Common	Valkyrie	월광폭 II	False		icon_skills.throwglave_tex
+30230	Common	Common	Valkyrie	월광폭 II	True		icon_skills.throwglave_tex
+30299	Common	Common	Valkyrie	월광폭 II	False		icon_skills.throwglave_tex
+30300	Common	Common	Valkyrie	월광폭 III	False		icon_skills.throwglave_tex
+30330	Common	Common	Valkyrie	월광폭 III	True		icon_skills.throwglave_tex
+30399	Common	Common	Valkyrie	월광폭 III	False		icon_skills.throwglave_tex
+30400	Common	Common	Valkyrie	월광폭 IV	False		icon_skills.throwglave_tex
+30430	Common	Common	Valkyrie	월광폭 IV	True		icon_skills.throwglave_tex
+30499	Common	Common	Valkyrie	월광폭 IV	False		icon_skills.throwglave_tex
+30500	Common	Common	Valkyrie	월광폭 V	False		icon_skills.throwglave_tex
+30530	Common	Common	Valkyrie	월광폭 V	True		icon_skills.throwglave_tex
+30599	Common	Common	Valkyrie	월광폭 V	False		icon_skills.throwglave_tex
+30600	Common	Common	Valkyrie	월광폭 VI	False		icon_skills.throwglave_tex
+30630	Common	Common	Valkyrie	월광폭 VI	True		icon_skills.throwglave_tex
+30699	Common	Common	Valkyrie	월광폭 VI	False		icon_skills.throwglave_tex
+30700	Common	Common	Valkyrie	월광폭 VII	False		icon_skills.throwglave_tex
+30730	Common	Common	Valkyrie	월광폭 VII	True		icon_skills.throwglave_tex
+30799	Common	Common	Valkyrie	월광폭 VII	False		icon_skills.throwglave_tex
+30800	Common	Common	Valkyrie	월광폭 VIII	False		icon_skills.throwglave_tex
+30830	Common	Common	Valkyrie	월광폭 VIII	True		icon_skills.throwglave_tex
+30899	Common	Common	Valkyrie	월광폭 VIII	False		icon_skills.throwglave_tex
+30900	Common	Common	Valkyrie	월광폭 IX	False		icon_skills.throwglave_tex
+30930	Common	Common	Valkyrie	월광폭 IX	True		icon_skills.throwglave_tex
+30999	Common	Common	Valkyrie	월광폭 IX	False		icon_skills.throwglave_tex
+35100	Common	Common	Valkyrie	월광폭 I	False		icon_skills.throwglave_tex
+35130	Common	Common	Valkyrie	월광폭 I	True		icon_skills.throwglave_tex
+35200	Common	Common	Valkyrie	월광폭 II	False		icon_skills.throwglave_tex
+35230	Common	Common	Valkyrie	월광폭 II	True		icon_skills.throwglave_tex
+35300	Common	Common	Valkyrie	월광폭 III	False		icon_skills.throwglave_tex
+35330	Common	Common	Valkyrie	월광폭 III	True		icon_skills.throwglave_tex
+35400	Common	Common	Valkyrie	월광폭 IV	False		icon_skills.throwglave_tex
+35430	Common	Common	Valkyrie	월광폭 IV	True		icon_skills.throwglave_tex
+35500	Common	Common	Valkyrie	월광폭 V	False		icon_skills.throwglave_tex
+35530	Common	Common	Valkyrie	월광폭 V	True		icon_skills.throwglave_tex
+35600	Common	Common	Valkyrie	월광폭 VI	False		icon_skills.throwglave_tex
+35630	Common	Common	Valkyrie	월광폭 VI	True		icon_skills.throwglave_tex
+35700	Common	Common	Valkyrie	월광폭 VII	False		icon_skills.throwglave_tex
+35730	Common	Common	Valkyrie	월광폭 VII	True		icon_skills.throwglave_tex
+35800	Common	Common	Valkyrie	월광폭 VIII	False		icon_skills.throwglave_tex
+35830	Common	Common	Valkyrie	월광폭 VIII	True		icon_skills.throwglave_tex
+35900	Common	Common	Valkyrie	월광폭 IX	False		icon_skills.throwglave_tex
+35930	Common	Common	Valkyrie	월광폭 IX	True		icon_skills.throwglave_tex
+40100	Common	Common	Valkyrie	월광 도약 I	False		icon_skills.dashcut_tex
+40110	Common	Common	Valkyrie	월광 도약 I	False		icon_skills.dashcut_tex
+40111	Common	Common	Valkyrie	월광 도약 I	False		icon_skills.dashcut_tex
+40199	Common	Common	Valkyrie	월광 도약 I	False		icon_skills.dashcut_tex
+40200	Common	Common	Valkyrie	월광 도약 II	False		icon_skills.dashcut_tex
+40210	Common	Common	Valkyrie	월광 도약 II	False		icon_skills.dashcut_tex
+40211	Common	Common	Valkyrie	월광 도약 II	False		icon_skills.dashcut_tex
+40299	Common	Common	Valkyrie	월광 도약 II	False		icon_skills.dashcut_tex
+40300	Common	Common	Valkyrie	월광 도약 III	False		icon_skills.dashcut_tex
+40310	Common	Common	Valkyrie	월광 도약 III	False		icon_skills.dashcut_tex
+40311	Common	Common	Valkyrie	월광 도약 III	False		icon_skills.dashcut_tex
+40399	Common	Common	Valkyrie	월광 도약 III	False		icon_skills.dashcut_tex
+40400	Common	Common	Valkyrie	월광 도약 IV	False		icon_skills.dashcut_tex
+40410	Common	Common	Valkyrie	월광 도약 IV	False		icon_skills.dashcut_tex
+40411	Common	Common	Valkyrie	월광 도약 IV	False		icon_skills.dashcut_tex
+40499	Common	Common	Valkyrie	월광 도약 IV	False		icon_skills.dashcut_tex
+40500	Common	Common	Valkyrie	월광 도약 V	False		icon_skills.dashcut_tex
+40510	Common	Common	Valkyrie	월광 도약 V	False		icon_skills.dashcut_tex
+40511	Common	Common	Valkyrie	월광 도약 V	False		icon_skills.dashcut_tex
+40599	Common	Common	Valkyrie	월광 도약 V	False		icon_skills.dashcut_tex
+40600	Common	Common	Valkyrie	월광 도약 VI	False		icon_skills.dashcut_tex
+40610	Common	Common	Valkyrie	월광 도약 VI	False		icon_skills.dashcut_tex
+40611	Common	Common	Valkyrie	월광 도약 VI	False		icon_skills.dashcut_tex
+40699	Common	Common	Valkyrie	월광 도약 VI	False		icon_skills.dashcut_tex
+40700	Common	Common	Valkyrie	월광 도약 VII	False		icon_skills.dashcut_tex
+40710	Common	Common	Valkyrie	월광 도약 VII	False		icon_skills.dashcut_tex
+40711	Common	Common	Valkyrie	월광 도약 VII	False		icon_skills.dashcut_tex
+40799	Common	Common	Valkyrie	월광 도약 VII	False		icon_skills.dashcut_tex
+40800	Common	Common	Valkyrie	월광 도약 VIII	False		icon_skills.dashcut_tex
+40810	Common	Common	Valkyrie	월광 도약 VIII	False		icon_skills.dashcut_tex
+40811	Common	Common	Valkyrie	월광 도약 VIII	False		icon_skills.dashcut_tex
+40899	Common	Common	Valkyrie	월광 도약 VIII	False		icon_skills.dashcut_tex
+40900	Common	Common	Valkyrie	월광 도약 IX	False		icon_skills.dashcut_tex
+40910	Common	Common	Valkyrie	월광 도약 IX	False		icon_skills.dashcut_tex
+40911	Common	Common	Valkyrie	월광 도약 IX	False		icon_skills.dashcut_tex
+40999	Common	Common	Valkyrie	월광 도약 IX	False		icon_skills.dashcut_tex
+41000	Common	Common	Valkyrie	월광 도약 X	False		icon_skills.dashcut_tex
+41010	Common	Common	Valkyrie	월광 도약 X	False		icon_skills.dashcut_tex
+41011	Common	Common	Valkyrie	월광 도약 X	False		icon_skills.dashcut_tex
+41099	Common	Common	Valkyrie	월광 도약 X	False		icon_skills.dashcut_tex
+45100	Common	Common	Valkyrie	월광 도약 I	False		icon_skills.dashcut_tex
+45110	Common	Common	Valkyrie	월광 도약 I	False		icon_skills.dashcut_tex
+45200	Common	Common	Valkyrie	월광 도약 II	False		icon_skills.dashcut_tex
+45210	Common	Common	Valkyrie	월광 도약 II	False		icon_skills.dashcut_tex
+45300	Common	Common	Valkyrie	월광 도약 III	False		icon_skills.dashcut_tex
+45310	Common	Common	Valkyrie	월광 도약 III	False		icon_skills.dashcut_tex
+45400	Common	Common	Valkyrie	월광 도약 IV	False		icon_skills.dashcut_tex
+45410	Common	Common	Valkyrie	월광 도약 IV	False		icon_skills.dashcut_tex
+45500	Common	Common	Valkyrie	월광 도약 V	False		icon_skills.dashcut_tex
+45510	Common	Common	Valkyrie	월광 도약 V	False		icon_skills.dashcut_tex
+45600	Common	Common	Valkyrie	월광 도약 VI	False		icon_skills.dashcut_tex
+45610	Common	Common	Valkyrie	월광 도약 VI	False		icon_skills.dashcut_tex
+45700	Common	Common	Valkyrie	월광 도약 VII	False		icon_skills.dashcut_tex
+45710	Common	Common	Valkyrie	월광 도약 VII	False		icon_skills.dashcut_tex
+45800	Common	Common	Valkyrie	월광 도약 VIII	False		icon_skills.dashcut_tex
+45810	Common	Common	Valkyrie	월광 도약 VIII	False		icon_skills.dashcut_tex
+45900	Common	Common	Valkyrie	월광 도약 IX	False		icon_skills.dashcut_tex
+45910	Common	Common	Valkyrie	월광 도약 IX	False		icon_skills.dashcut_tex
+46000	Common	Common	Valkyrie	월광 도약 X	False		icon_skills.dashcut_tex
+46010	Common	Common	Valkyrie	월광 도약 X	False		icon_skills.dashcut_tex
+50100	Common	Common	Valkyrie	선풍참 I	False		icon_skills.twister_tex
+50130	Common	Common	Valkyrie	선풍참 I	True		icon_skills.twister_tex
+50199	Common	Common	Valkyrie	선풍참 I	False		icon_skills.twister_tex
+50200	Common	Common	Valkyrie	선풍참 II	False		icon_skills.twister_tex
+50230	Common	Common	Valkyrie	선풍참 II	True		icon_skills.twister_tex
+50299	Common	Common	Valkyrie	선풍참 II	False		icon_skills.twister_tex
+50300	Common	Common	Valkyrie	선풍참 III	False		icon_skills.twister_tex
+50330	Common	Common	Valkyrie	선풍참 III	True		icon_skills.twister_tex
+50399	Common	Common	Valkyrie	선풍참 III	False		icon_skills.twister_tex
+50400	Common	Common	Valkyrie	선풍참 IV	False		icon_skills.twister_tex
+50430	Common	Common	Valkyrie	선풍참 IV	True		icon_skills.twister_tex
+50499	Common	Common	Valkyrie	선풍참 IV	False		icon_skills.twister_tex
+50500	Common	Common	Valkyrie	선풍참 V	False		icon_skills.twister_tex
+50530	Common	Common	Valkyrie	선풍참 V	True		icon_skills.twister_tex
+50599	Common	Common	Valkyrie	선풍참 V	False		icon_skills.twister_tex
+55100	Common	Common	Valkyrie	선풍참 I	False		icon_skills.twister_tex
+55130	Common	Common	Valkyrie	선풍참 I	True		icon_skills.twister_tex
+55200	Common	Common	Valkyrie	선풍참 II	False		icon_skills.twister_tex
+55230	Common	Common	Valkyrie	선풍참 II	True		icon_skills.twister_tex
+55300	Common	Common	Valkyrie	선풍참 III	False		icon_skills.twister_tex
+55330	Common	Common	Valkyrie	선풍참 III	True		icon_skills.twister_tex
+55400	Common	Common	Valkyrie	선풍참 IV	False		icon_skills.twister_tex
+55430	Common	Common	Valkyrie	선풍참 IV	True		icon_skills.twister_tex
+55500	Common	Common	Valkyrie	선풍참 V	False		icon_skills.twister_tex
+55530	Common	Common	Valkyrie	선풍참 V	True		icon_skills.twister_tex
+60100	Common	Common	Valkyrie	승격참 I	False		icon_skills.risingshot_tex
+60130	Common	Common	Valkyrie	승격참 I	True		icon_skills.risingshot_tex
+60199	Common	Common	Valkyrie	승격참 I	False		icon_skills.risingshot_tex
+60200	Common	Common	Valkyrie	승격참 II	False		icon_skills.risingshot_tex
+60230	Common	Common	Valkyrie	승격참 II	True		icon_skills.risingshot_tex
+60299	Common	Common	Valkyrie	승격참 II	False		icon_skills.risingshot_tex
+60300	Common	Common	Valkyrie	승격참 III	False		icon_skills.risingshot_tex
+60330	Common	Common	Valkyrie	승격참 III	True		icon_skills.risingshot_tex
+60399	Common	Common	Valkyrie	승격참 III	False		icon_skills.risingshot_tex
+60400	Common	Common	Valkyrie	승격참 IV	False		icon_skills.risingshot_tex
+60430	Common	Common	Valkyrie	승격참 IV	True		icon_skills.risingshot_tex
+60499	Common	Common	Valkyrie	승격참 IV	False		icon_skills.risingshot_tex
+60500	Common	Common	Valkyrie	승격참 V	False		icon_skills.risingshot_tex
+60530	Common	Common	Valkyrie	승격참 V	True		icon_skills.risingshot_tex
+60599	Common	Common	Valkyrie	승격참 V	False		icon_skills.risingshot_tex
+60600	Common	Common	Valkyrie	승격참 VI	False		icon_skills.risingshot_tex
+60630	Common	Common	Valkyrie	승격참 VI	True		icon_skills.risingshot_tex
+60699	Common	Common	Valkyrie	승격참 VI	False		icon_skills.risingshot_tex
+60700	Common	Common	Valkyrie	승격참 VII	False		icon_skills.risingshot_tex
+60730	Common	Common	Valkyrie	승격참 VII	True		icon_skills.risingshot_tex
+60799	Common	Common	Valkyrie	승격참 VII	False		icon_skills.risingshot_tex
+60800	Common	Common	Valkyrie	승격참 VIII	False		icon_skills.risingshot_tex
+60830	Common	Common	Valkyrie	승격참 VIII	True		icon_skills.risingshot_tex
+60899	Common	Common	Valkyrie	승격참 VIII	False		icon_skills.risingshot_tex
+60900	Common	Common	Valkyrie	승격참 IX	False		icon_skills.risingshot_tex
+60930	Common	Common	Valkyrie	승격참 IX	True		icon_skills.risingshot_tex
+60999	Common	Common	Valkyrie	승격참 IX	False		icon_skills.risingshot_tex
+61000	Common	Common	Valkyrie	승격참 X	False		icon_skills.risingshot_tex
+61030	Common	Common	Valkyrie	승격참 X	True		icon_skills.risingshot_tex
+61099	Common	Common	Valkyrie	승격참 X	False		icon_skills.risingshot_tex
+61100	Common	Common	Valkyrie	승격참 XI	False		icon_skills.risingshot_tex
+61130	Common	Common	Valkyrie	승격참 XI	True		icon_skills.risingshot_tex
+61199	Common	Common	Valkyrie	승격참 XI	False		icon_skills.risingshot_tex
+61200	Common	Common	Valkyrie	승격참 XII	False		icon_skills.risingshot_tex
+61230	Common	Common	Valkyrie	승격참 XII	True		icon_skills.risingshot_tex
+61299	Common	Common	Valkyrie	승격참 XII	False		icon_skills.risingshot_tex
+65100	Common	Common	Valkyrie	승격참 I	False		icon_skills.risingshot_tex
+65130	Common	Common	Valkyrie	승격참 I	True		icon_skills.risingshot_tex
+65200	Common	Common	Valkyrie	승격참 II	False		icon_skills.risingshot_tex
+65230	Common	Common	Valkyrie	승격참 II	True		icon_skills.risingshot_tex
+65300	Common	Common	Valkyrie	승격참 III	False		icon_skills.risingshot_tex
+65330	Common	Common	Valkyrie	승격참 III	True		icon_skills.risingshot_tex
+65400	Common	Common	Valkyrie	승격참 IV	False		icon_skills.risingshot_tex
+65430	Common	Common	Valkyrie	승격참 IV	True		icon_skills.risingshot_tex
+65500	Common	Common	Valkyrie	승격참 V	False		icon_skills.risingshot_tex
+65530	Common	Common	Valkyrie	승격참 V	True		icon_skills.risingshot_tex
+65600	Common	Common	Valkyrie	승격참 VI	False		icon_skills.risingshot_tex
+65630	Common	Common	Valkyrie	승격참 VI	True		icon_skills.risingshot_tex
+65700	Common	Common	Valkyrie	승격참 VII	False		icon_skills.risingshot_tex
+65730	Common	Common	Valkyrie	승격참 VII	True		icon_skills.risingshot_tex
+65800	Common	Common	Valkyrie	승격참 VIII	False		icon_skills.risingshot_tex
+65830	Common	Common	Valkyrie	승격참 VIII	True		icon_skills.risingshot_tex
+65900	Common	Common	Valkyrie	승격참 IX	False		icon_skills.risingshot_tex
+65930	Common	Common	Valkyrie	승격참 IX	True		icon_skills.risingshot_tex
+66000	Common	Common	Valkyrie	승격참 X	False		icon_skills.risingshot_tex
+66030	Common	Common	Valkyrie	승격참 X	True		icon_skills.risingshot_tex
+66100	Common	Common	Valkyrie	승격참 XI	False		icon_skills.risingshot_tex
+66130	Common	Common	Valkyrie	승격참 XI	True		icon_skills.risingshot_tex
+66200	Common	Common	Valkyrie	승격참 XII	False		icon_skills.risingshot_tex
+66230	Common	Common	Valkyrie	승격참 XII	True		icon_skills.risingshot_tex
+70100	Common	Common	Valkyrie	연화참 I	False	hit 1	icon_skills.helicoptercuts_tex
+70101	Common	Common	Valkyrie	연화참 I	False	hit 2	icon_skills.helicoptercuts_tex
+70102	Common	Common	Valkyrie	연화참 I	False	hit 3	icon_skills.helicoptercuts_tex
+70130	Common	Common	Valkyrie	연화참 I	True		icon_skills.helicoptercuts_tex
+70199	Common	Common	Valkyrie	연화참 I	False		icon_skills.helicoptercuts_tex
+70200	Common	Common	Valkyrie	연화참 II	False	hit 1	icon_skills.helicoptercuts_tex
+70201	Common	Common	Valkyrie	연화참 II	False	hit 2	icon_skills.helicoptercuts_tex
+70202	Common	Common	Valkyrie	연화참 II	False	hit 3	icon_skills.helicoptercuts_tex
+70230	Common	Common	Valkyrie	연화참 II	True		icon_skills.helicoptercuts_tex
+70299	Common	Common	Valkyrie	연화참 II	False		icon_skills.helicoptercuts_tex
+70300	Common	Common	Valkyrie	연화참 III	False	hit 1	icon_skills.helicoptercuts_tex
+70301	Common	Common	Valkyrie	연화참 III	False	hit 2	icon_skills.helicoptercuts_tex
+70302	Common	Common	Valkyrie	연화참 III	False	hit 3	icon_skills.helicoptercuts_tex
+70330	Common	Common	Valkyrie	연화참 III	True		icon_skills.helicoptercuts_tex
+70399	Common	Common	Valkyrie	연화참 III	False		icon_skills.helicoptercuts_tex
+70400	Common	Common	Valkyrie	연화참 IV	False	hit 1	icon_skills.helicoptercuts_tex
+70401	Common	Common	Valkyrie	연화참 IV	False	hit 2	icon_skills.helicoptercuts_tex
+70402	Common	Common	Valkyrie	연화참 IV	False	hit 3	icon_skills.helicoptercuts_tex
+70430	Common	Common	Valkyrie	연화참 IV	True		icon_skills.helicoptercuts_tex
+70499	Common	Common	Valkyrie	연화참 IV	False		icon_skills.helicoptercuts_tex
+70500	Common	Common	Valkyrie	연화참 V	False	hit 1	icon_skills.helicoptercuts_tex
+70501	Common	Common	Valkyrie	연화참 V	False	hit 2	icon_skills.helicoptercuts_tex
+70502	Common	Common	Valkyrie	연화참 V	False	hit 3	icon_skills.helicoptercuts_tex
+70530	Common	Common	Valkyrie	연화참 V	True		icon_skills.helicoptercuts_tex
+70599	Common	Common	Valkyrie	연화참 V	False		icon_skills.helicoptercuts_tex
+70600	Common	Common	Valkyrie	연화참 VI	False	hit 1	icon_skills.helicoptercuts_tex
+70601	Common	Common	Valkyrie	연화참 VI	False	hit 2	icon_skills.helicoptercuts_tex
+70602	Common	Common	Valkyrie	연화참 VI	False	hit 3	icon_skills.helicoptercuts_tex
+70630	Common	Common	Valkyrie	연화참 VI	True		icon_skills.helicoptercuts_tex
+70699	Common	Common	Valkyrie	연화참 VI	False		icon_skills.helicoptercuts_tex
+70700	Common	Common	Valkyrie	연화참 VII	False	hit 1	icon_skills.helicoptercuts_tex
+70701	Common	Common	Valkyrie	연화참 VII	False	hit 2	icon_skills.helicoptercuts_tex
+70702	Common	Common	Valkyrie	연화참 VII	False	hit 3	icon_skills.helicoptercuts_tex
+70730	Common	Common	Valkyrie	연화참 VII	True		icon_skills.helicoptercuts_tex
+70799	Common	Common	Valkyrie	연화참 VII	False		icon_skills.helicoptercuts_tex
+70800	Common	Common	Valkyrie	연화참 VIII	False	hit 1	icon_skills.helicoptercuts_tex
+70801	Common	Common	Valkyrie	연화참 VIII	False	hit 2	icon_skills.helicoptercuts_tex
+70802	Common	Common	Valkyrie	연화참 VIII	False	hit 3	icon_skills.helicoptercuts_tex
+70830	Common	Common	Valkyrie	연화참 VIII	True		icon_skills.helicoptercuts_tex
+70899	Common	Common	Valkyrie	연화참 VIII	False		icon_skills.helicoptercuts_tex
+70900	Common	Common	Valkyrie	연화참 IX	False	hit 1	icon_skills.helicoptercuts_tex
+70901	Common	Common	Valkyrie	연화참 IX	False	hit 2	icon_skills.helicoptercuts_tex
+70902	Common	Common	Valkyrie	연화참 IX	False	hit 3	icon_skills.helicoptercuts_tex
+70930	Common	Common	Valkyrie	연화참 IX	True		icon_skills.helicoptercuts_tex
+70999	Common	Common	Valkyrie	연화참 IX	False		icon_skills.helicoptercuts_tex
+75100	Common	Common	Valkyrie	연화참 I	False	hit 1	icon_skills.helicoptercuts_tex
+75101	Common	Common	Valkyrie	연화참 I	False	hit 2	icon_skills.helicoptercuts_tex
+75102	Common	Common	Valkyrie	연화참 I	False	hit 3	icon_skills.helicoptercuts_tex
+75130	Common	Common	Valkyrie	연화참 I	True		icon_skills.helicoptercuts_tex
+75200	Common	Common	Valkyrie	연화참 II	False	hit 1	icon_skills.helicoptercuts_tex
+75201	Common	Common	Valkyrie	연화참 II	False	hit 2	icon_skills.helicoptercuts_tex
+75202	Common	Common	Valkyrie	연화참 II	False	hit 3	icon_skills.helicoptercuts_tex
+75230	Common	Common	Valkyrie	연화참 II	True		icon_skills.helicoptercuts_tex
+75300	Common	Common	Valkyrie	연화참 III	False	hit 1	icon_skills.helicoptercuts_tex
+75301	Common	Common	Valkyrie	연화참 III	False	hit 2	icon_skills.helicoptercuts_tex
+75302	Common	Common	Valkyrie	연화참 III	False	hit 3	icon_skills.helicoptercuts_tex
+75330	Common	Common	Valkyrie	연화참 III	True		icon_skills.helicoptercuts_tex
+75400	Common	Common	Valkyrie	연화참 IV	False	hit 1	icon_skills.helicoptercuts_tex
+75401	Common	Common	Valkyrie	연화참 IV	False	hit 2	icon_skills.helicoptercuts_tex
+75402	Common	Common	Valkyrie	연화참 IV	False	hit 3	icon_skills.helicoptercuts_tex
+75430	Common	Common	Valkyrie	연화참 IV	True		icon_skills.helicoptercuts_tex
+75500	Common	Common	Valkyrie	연화참 V	False	hit 1	icon_skills.helicoptercuts_tex
+75501	Common	Common	Valkyrie	연화참 V	False	hit 2	icon_skills.helicoptercuts_tex
+75502	Common	Common	Valkyrie	연화참 V	False	hit 3	icon_skills.helicoptercuts_tex
+75530	Common	Common	Valkyrie	연화참 V	True		icon_skills.helicoptercuts_tex
+75600	Common	Common	Valkyrie	연화참 VI	False	hit 1	icon_skills.helicoptercuts_tex
+75601	Common	Common	Valkyrie	연화참 VI	False	hit 2	icon_skills.helicoptercuts_tex
+75602	Common	Common	Valkyrie	연화참 VI	False	hit 3	icon_skills.helicoptercuts_tex
+75630	Common	Common	Valkyrie	연화참 VI	True		icon_skills.helicoptercuts_tex
+75700	Common	Common	Valkyrie	연화참 VII	False	hit 1	icon_skills.helicoptercuts_tex
+75701	Common	Common	Valkyrie	연화참 VII	False	hit 2	icon_skills.helicoptercuts_tex
+75702	Common	Common	Valkyrie	연화참 VII	False	hit 3	icon_skills.helicoptercuts_tex
+75730	Common	Common	Valkyrie	연화참 VII	True		icon_skills.helicoptercuts_tex
+75800	Common	Common	Valkyrie	연화참 VIII	False	hit 1	icon_skills.helicoptercuts_tex
+75801	Common	Common	Valkyrie	연화참 VIII	False	hit 2	icon_skills.helicoptercuts_tex
+75802	Common	Common	Valkyrie	연화참 VIII	False	hit 3	icon_skills.helicoptercuts_tex
+75830	Common	Common	Valkyrie	연화참 VIII	True		icon_skills.helicoptercuts_tex
+75900	Common	Common	Valkyrie	연화참 IX	False	hit 1	icon_skills.helicoptercuts_tex
+75901	Common	Common	Valkyrie	연화참 IX	False	hit 2	icon_skills.helicoptercuts_tex
+75902	Common	Common	Valkyrie	연화참 IX	False	hit 3	icon_skills.helicoptercuts_tex
+75930	Common	Common	Valkyrie	연화참 IX	True		icon_skills.helicoptercuts_tex
+80100	Common	Common	Valkyrie	만월 I	False	hit 1	icon_skills.fullmoon_tex
+80101	Common	Common	Valkyrie	만월 I	False	hit 2	icon_skills.fullmoon_tex
+80130	Common	Common	Valkyrie	만월 I	True		icon_skills.fullmoon_tex
+80199	Common	Common	Valkyrie	만월 I	False		icon_skills.fullmoon_tex
+85100	Common	Common	Valkyrie	만월 I	False	hit 1	icon_skills.fullmoon_tex
+85101	Common	Common	Valkyrie	만월 I	False	hit 2	icon_skills.fullmoon_tex
+85130	Common	Common	Valkyrie	만월 I	True		icon_skills.fullmoon_tex
+90100	Common	Common	Valkyrie	지격참 I	False		icon_skills.cutting_tex
+90130	Common	Common	Valkyrie	지격참 I	True		icon_skills.cutting_tex
+90199	Common	Common	Valkyrie	지격참 I	False		icon_skills.cutting_tex
+90200	Common	Common	Valkyrie	지격참 II	False		icon_skills.cutting_tex
+90230	Common	Common	Valkyrie	지격참 II	True		icon_skills.cutting_tex
+90299	Common	Common	Valkyrie	지격참 II	False		icon_skills.cutting_tex
+90300	Common	Common	Valkyrie	지격참 III	False		icon_skills.cutting_tex
+90330	Common	Common	Valkyrie	지격참 III	True		icon_skills.cutting_tex
+90399	Common	Common	Valkyrie	지격참 III	False		icon_skills.cutting_tex
+90400	Common	Common	Valkyrie	지격참 IV	False		icon_skills.cutting_tex
+90430	Common	Common	Valkyrie	지격참 IV	True		icon_skills.cutting_tex
+90499	Common	Common	Valkyrie	지격참 IV	False		icon_skills.cutting_tex
+90500	Common	Common	Valkyrie	지격참 V	False		icon_skills.cutting_tex
+90530	Common	Common	Valkyrie	지격참 V	True		icon_skills.cutting_tex
+90599	Common	Common	Valkyrie	지격참 V	False		icon_skills.cutting_tex
+90600	Common	Common	Valkyrie	지격참 VI	False		icon_skills.cutting_tex
+90630	Common	Common	Valkyrie	지격참 VI	True		icon_skills.cutting_tex
+90699	Common	Common	Valkyrie	지격참 VI	False		icon_skills.cutting_tex
+90700	Common	Common	Valkyrie	지격참 VII	False		icon_skills.cutting_tex
+90730	Common	Common	Valkyrie	지격참 VII	True		icon_skills.cutting_tex
+90799	Common	Common	Valkyrie	지격참 VII	False		icon_skills.cutting_tex
+90800	Common	Common	Valkyrie	지격참 VIII	False		icon_skills.cutting_tex
+90830	Common	Common	Valkyrie	지격참 VIII	True		icon_skills.cutting_tex
+90899	Common	Common	Valkyrie	지격참 VIII	False		icon_skills.cutting_tex
+90900	Common	Common	Valkyrie	지격참 IX	False		icon_skills.cutting_tex
+90930	Common	Common	Valkyrie	지격참 IX	True		icon_skills.cutting_tex
+90999	Common	Common	Valkyrie	지격참 IX	False		icon_skills.cutting_tex
+91000	Common	Common	Valkyrie	지격참 X	False		icon_skills.cutting_tex
+91030	Common	Common	Valkyrie	지격참 X	True		icon_skills.cutting_tex
+91099	Common	Common	Valkyrie	지격참 X	False		icon_skills.cutting_tex
+91100	Common	Common	Valkyrie	지격참 XI	False		icon_skills.cutting_tex
+91130	Common	Common	Valkyrie	지격참 XI	True		icon_skills.cutting_tex
+91199	Common	Common	Valkyrie	지격참 XI	False		icon_skills.cutting_tex
+95100	Common	Common	Valkyrie	지격참 I	False		icon_skills.cutting_tex
+95130	Common	Common	Valkyrie	지격참 I	True		icon_skills.cutting_tex
+95200	Common	Common	Valkyrie	지격참 II	False		icon_skills.cutting_tex
+95230	Common	Common	Valkyrie	지격참 II	True		icon_skills.cutting_tex
+95300	Common	Common	Valkyrie	지격참 III	False		icon_skills.cutting_tex
+95330	Common	Common	Valkyrie	지격참 III	True		icon_skills.cutting_tex
+95400	Common	Common	Valkyrie	지격참 IV	False		icon_skills.cutting_tex
+95430	Common	Common	Valkyrie	지격참 IV	True		icon_skills.cutting_tex
+95500	Common	Common	Valkyrie	지격참 V	False		icon_skills.cutting_tex
+95530	Common	Common	Valkyrie	지격참 V	True		icon_skills.cutting_tex
+95600	Common	Common	Valkyrie	지격참 VI	False		icon_skills.cutting_tex
+95630	Common	Common	Valkyrie	지격참 VI	True		icon_skills.cutting_tex
+95700	Common	Common	Valkyrie	지격참 VII	False		icon_skills.cutting_tex
+95730	Common	Common	Valkyrie	지격참 VII	True		icon_skills.cutting_tex
+95800	Common	Common	Valkyrie	지격참 VIII	False		icon_skills.cutting_tex
+95830	Common	Common	Valkyrie	지격참 VIII	True		icon_skills.cutting_tex
+95900	Common	Common	Valkyrie	지격참 IX	False		icon_skills.cutting_tex
+95930	Common	Common	Valkyrie	지격참 IX	True		icon_skills.cutting_tex
+96000	Common	Common	Valkyrie	지격참 X	False		icon_skills.cutting_tex
+96030	Common	Common	Valkyrie	지격참 X	True		icon_skills.cutting_tex
+96100	Common	Common	Valkyrie	지격참 XI	False		icon_skills.cutting_tex
+96130	Common	Common	Valkyrie	지격참 XI	True		icon_skills.cutting_tex
+100100	Common	Common	Valkyrie	월파참 I	False		icon_skills.split_tex
+100120	Common	Common	Valkyrie	월파참 I	False		icon_skills.split_tex
+100130	Common	Common	Valkyrie	월파참 I	True		icon_skills.split_tex
+100199	Common	Common	Valkyrie	월파참 I	False		icon_skills.split_tex
+100200	Common	Common	Valkyrie	월파참 II	False		icon_skills.split_tex
+100220	Common	Common	Valkyrie	월파참 II	False		icon_skills.split_tex
+100230	Common	Common	Valkyrie	월파참 II	True		icon_skills.split_tex
+100299	Common	Common	Valkyrie	월파참 II	False		icon_skills.split_tex
+100300	Common	Common	Valkyrie	월파참 III	False		icon_skills.split_tex
+100320	Common	Common	Valkyrie	월파참 III	False		icon_skills.split_tex
+100330	Common	Common	Valkyrie	월파참 III	True		icon_skills.split_tex
+100399	Common	Common	Valkyrie	월파참 III	False		icon_skills.split_tex
+100400	Common	Common	Valkyrie	월파참 IV	False		icon_skills.split_tex
+100420	Common	Common	Valkyrie	월파참 IV	False		icon_skills.split_tex
+100430	Common	Common	Valkyrie	월파참 IV	True		icon_skills.split_tex
+100499	Common	Common	Valkyrie	월파참 IV	False		icon_skills.split_tex
+100500	Common	Common	Valkyrie	월파참 V	False		icon_skills.split_tex
+100520	Common	Common	Valkyrie	월파참 V	False		icon_skills.split_tex
+100530	Common	Common	Valkyrie	월파참 V	True		icon_skills.split_tex
+100599	Common	Common	Valkyrie	월파참 V	False		icon_skills.split_tex
+100600	Common	Common	Valkyrie	월파참 VI	False		icon_skills.split_tex
+100620	Common	Common	Valkyrie	월파참 VI	False		icon_skills.split_tex
+100630	Common	Common	Valkyrie	월파참 VI	True		icon_skills.split_tex
+100699	Common	Common	Valkyrie	월파참 VI	False		icon_skills.split_tex
+100700	Common	Common	Valkyrie	월파참 VII	False		icon_skills.split_tex
+100720	Common	Common	Valkyrie	월파참 VII	False		icon_skills.split_tex
+100730	Common	Common	Valkyrie	월파참 VII	True		icon_skills.split_tex
+100799	Common	Common	Valkyrie	월파참 VII	False		icon_skills.split_tex
+100800	Common	Common	Valkyrie	월파참 VIII	False		icon_skills.split_tex
+100820	Common	Common	Valkyrie	월파참 VIII	False		icon_skills.split_tex
+100830	Common	Common	Valkyrie	월파참 VIII	True		icon_skills.split_tex
+100899	Common	Common	Valkyrie	월파참 VIII	False		icon_skills.split_tex
+100900	Common	Common	Valkyrie	월파참 IX	False		icon_skills.split_tex
+100920	Common	Common	Valkyrie	월파참 IX	False		icon_skills.split_tex
+100930	Common	Common	Valkyrie	월파참 IX	True		icon_skills.split_tex
+100999	Common	Common	Valkyrie	월파참 IX	False		icon_skills.split_tex
+101000	Common	Common	Valkyrie	월파참 X	False		icon_skills.split_tex
+101020	Common	Common	Valkyrie	월파참 X	False		icon_skills.split_tex
+101030	Common	Common	Valkyrie	월파참 X	True		icon_skills.split_tex
+101099	Common	Common	Valkyrie	월파참 X	False		icon_skills.split_tex
+101100	Common	Common	Valkyrie	월파참 XI	False		icon_skills.split_tex
+101120	Common	Common	Valkyrie	월파참 XI	False		icon_skills.split_tex
+101130	Common	Common	Valkyrie	월파참 XI	True		icon_skills.split_tex
+101199	Common	Common	Valkyrie	월파참 XI	False		icon_skills.split_tex
+105100	Common	Common	Valkyrie	월파참 I	False		icon_skills.split_tex
+105120	Common	Common	Valkyrie	월파참 I	False		icon_skills.split_tex
+105130	Common	Common	Valkyrie	월파참 I	True		icon_skills.split_tex
+105200	Common	Common	Valkyrie	월파참 II	False		icon_skills.split_tex
+105220	Common	Common	Valkyrie	월파참 II	False		icon_skills.split_tex
+105230	Common	Common	Valkyrie	월파참 II	True		icon_skills.split_tex
+105300	Common	Common	Valkyrie	월파참 III	False		icon_skills.split_tex
+105320	Common	Common	Valkyrie	월파참 III	False		icon_skills.split_tex
+105330	Common	Common	Valkyrie	월파참 III	True		icon_skills.split_tex
+105400	Common	Common	Valkyrie	월파참 IV	False		icon_skills.split_tex
+105420	Common	Common	Valkyrie	월파참 IV	False		icon_skills.split_tex
+105430	Common	Common	Valkyrie	월파참 IV	True		icon_skills.split_tex
+105500	Common	Common	Valkyrie	월파참 V	False		icon_skills.split_tex
+105520	Common	Common	Valkyrie	월파참 V	False		icon_skills.split_tex
+105530	Common	Common	Valkyrie	월파참 V	True		icon_skills.split_tex
+105600	Common	Common	Valkyrie	월파참 VI	False		icon_skills.split_tex
+105620	Common	Common	Valkyrie	월파참 VI	False		icon_skills.split_tex
+105630	Common	Common	Valkyrie	월파참 VI	True		icon_skills.split_tex
+105700	Common	Common	Valkyrie	월파참 VII	False		icon_skills.split_tex
+105720	Common	Common	Valkyrie	월파참 VII	False		icon_skills.split_tex
+105730	Common	Common	Valkyrie	월파참 VII	True		icon_skills.split_tex
+105800	Common	Common	Valkyrie	월파참 VIII	False		icon_skills.split_tex
+105820	Common	Common	Valkyrie	월파참 VIII	False		icon_skills.split_tex
+105830	Common	Common	Valkyrie	월파참 VIII	True		icon_skills.split_tex
+105900	Common	Common	Valkyrie	월파참 IX	False		icon_skills.split_tex
+105920	Common	Common	Valkyrie	월파참 IX	False		icon_skills.split_tex
+105930	Common	Common	Valkyrie	월파참 IX	True		icon_skills.split_tex
+106000	Common	Common	Valkyrie	월파참 X	False		icon_skills.split_tex
+106020	Common	Common	Valkyrie	월파참 X	False		icon_skills.split_tex
+106030	Common	Common	Valkyrie	월파참 X	True		icon_skills.split_tex
+106100	Common	Common	Valkyrie	월파참 XI	False		icon_skills.split_tex
+106120	Common	Common	Valkyrie	월파참 XI	False		icon_skills.split_tex
+106130	Common	Common	Valkyrie	월파참 XI	True		icon_skills.split_tex
+110100	Common	Common	Valkyrie	신월 : 달빛의 공명 I	False	hit 1	icon_skills.crescentcut_tex
+110101	Common	Common	Valkyrie	신월 : 달빛의 공명 I	False	hit 2	icon_skills.crescentcut_tex
+110130	Common	Common	Valkyrie	신월 : 달빛의 공명 I	True	hit 1	icon_skills.crescentcut_tex
+110131	Common	Common	Valkyrie	신월 : 달빛의 공명 I	True	hit 2	icon_skills.crescentcut_tex
+110199	Common	Common	Valkyrie	신월 : 달빛의 공명 I	False		icon_skills.crescentcut_tex
+110200	Common	Common	Valkyrie	신월 : 달빛의 공명 II	False	hit 1	icon_skills.crescentcut_tex
+110201	Common	Common	Valkyrie	신월 : 달빛의 공명 II	False	hit 2	icon_skills.crescentcut_tex
+110230	Common	Common	Valkyrie	신월 : 달빛의 공명 II	True	hit 1	icon_skills.crescentcut_tex
+110231	Common	Common	Valkyrie	신월 : 달빛의 공명 II	True	hit 2	icon_skills.crescentcut_tex
+110299	Common	Common	Valkyrie	신월 : 달빛의 공명 II	False		icon_skills.crescentcut_tex
+110300	Common	Common	Valkyrie	신월 : 달빛의 공명 III	False	hit 1	icon_skills.crescentcut_tex
+110301	Common	Common	Valkyrie	신월 : 달빛의 공명 III	False	hit 2	icon_skills.crescentcut_tex
+110330	Common	Common	Valkyrie	신월 : 달빛의 공명 III	True	hit 1	icon_skills.crescentcut_tex
+110331	Common	Common	Valkyrie	신월 : 달빛의 공명 III	True	hit 2	icon_skills.crescentcut_tex
+110399	Common	Common	Valkyrie	신월 : 달빛의 공명 III	False		icon_skills.crescentcut_tex
+110400	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	False	hit 1	icon_skills.crescentcut_tex
+110401	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	False	hit 2	icon_skills.crescentcut_tex
+110430	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	True	hit 1	icon_skills.crescentcut_tex
+110431	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	True	hit 2	icon_skills.crescentcut_tex
+110499	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	False		icon_skills.crescentcut_tex
+115100	Common	Common	Valkyrie	신월 : 달빛의 공명 I	False	hit 1	icon_skills.crescentcut_tex
+115101	Common	Common	Valkyrie	신월 : 달빛의 공명 I	False	hit 2	icon_skills.crescentcut_tex
+115130	Common	Common	Valkyrie	신월 : 달빛의 공명 I	True	hit 1	icon_skills.crescentcut_tex
+115131	Common	Common	Valkyrie	신월 : 달빛의 공명 I	True	hit 2	icon_skills.crescentcut_tex
+115200	Common	Common	Valkyrie	신월 : 달빛의 공명 II	False	hit 1	icon_skills.crescentcut_tex
+115201	Common	Common	Valkyrie	신월 : 달빛의 공명 II	False	hit 2	icon_skills.crescentcut_tex
+115230	Common	Common	Valkyrie	신월 : 달빛의 공명 II	True	hit 1	icon_skills.crescentcut_tex
+115231	Common	Common	Valkyrie	신월 : 달빛의 공명 II	True	hit 2	icon_skills.crescentcut_tex
+115300	Common	Common	Valkyrie	신월 : 달빛의 공명 III	False	hit 1	icon_skills.crescentcut_tex
+115301	Common	Common	Valkyrie	신월 : 달빛의 공명 III	False	hit 2	icon_skills.crescentcut_tex
+115330	Common	Common	Valkyrie	신월 : 달빛의 공명 III	True	hit 1	icon_skills.crescentcut_tex
+115331	Common	Common	Valkyrie	신월 : 달빛의 공명 III	True	hit 2	icon_skills.crescentcut_tex
+115400	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	False	hit 1	icon_skills.crescentcut_tex
+115401	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	False	hit 2	icon_skills.crescentcut_tex
+115430	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	True	hit 1	icon_skills.crescentcut_tex
+115431	Common	Common	Valkyrie	신월 : 달빛의 공명 IV	True	hit 2	icon_skills.crescentcut_tex
+120100	Common	Common	Valkyrie	적월 I	False		icon_skills.redmoon_tex
+120130	Common	Common	Valkyrie	적월 I	True		icon_skills.redmoon_tex
+120199	Common	Common	Valkyrie	적월 I	False		icon_skills.redmoon_tex
+130100	Common	Common	Valkyrie	파열참 I	False		icon_skills.brust_tex
+130130	Common	Common	Valkyrie	파열참 I	True		icon_skills.brust_tex
+130199	Common	Common	Valkyrie	파열참 I	False		icon_skills.brust_tex
+130200	Common	Common	Valkyrie	파열참 II	False		icon_skills.brust_tex
+130230	Common	Common	Valkyrie	파열참 II	True		icon_skills.brust_tex
+130299	Common	Common	Valkyrie	파열참 II	False		icon_skills.brust_tex
+130300	Common	Common	Valkyrie	파열참 III	False		icon_skills.brust_tex
+130330	Common	Common	Valkyrie	파열참 III	True		icon_skills.brust_tex
+130399	Common	Common	Valkyrie	파열참 III	False		icon_skills.brust_tex
+130400	Common	Common	Valkyrie	파열참 IV	False		icon_skills.brust_tex
+130430	Common	Common	Valkyrie	파열참 IV	True		icon_skills.brust_tex
+130499	Common	Common	Valkyrie	파열참 IV	False		icon_skills.brust_tex
+130500	Common	Common	Valkyrie	파열참 V	False		icon_skills.brust_tex
+130530	Common	Common	Valkyrie	파열참 V	True		icon_skills.brust_tex
+130599	Common	Common	Valkyrie	파열참 V	False		icon_skills.brust_tex
+130600	Common	Common	Valkyrie	파열참 VI	False		icon_skills.brust_tex
+130630	Common	Common	Valkyrie	파열참 VI	True		icon_skills.brust_tex
+130699	Common	Common	Valkyrie	파열참 VI	False		icon_skills.brust_tex
+130700	Common	Common	Valkyrie	파열참 VII	False		icon_skills.brust_tex
+130730	Common	Common	Valkyrie	파열참 VII	True		icon_skills.brust_tex
+130799	Common	Common	Valkyrie	파열참 VII	False		icon_skills.brust_tex
+130800	Common	Common	Valkyrie	파열참 VIII	False		icon_skills.brust_tex
+130830	Common	Common	Valkyrie	파열참 VIII	True		icon_skills.brust_tex
+130899	Common	Common	Valkyrie	파열참 VIII	False		icon_skills.brust_tex
+130900	Common	Common	Valkyrie	파열참 IX	False		icon_skills.brust_tex
+130930	Common	Common	Valkyrie	파열참 IX	True		icon_skills.brust_tex
+130999	Common	Common	Valkyrie	파열참 IX	False		icon_skills.brust_tex
+131000	Common	Common	Valkyrie	파열참 X	False		icon_skills.brust_tex
+131030	Common	Common	Valkyrie	파열참 X	True		icon_skills.brust_tex
+131099	Common	Common	Valkyrie	파열참 X	False		icon_skills.brust_tex
+131100	Common	Common	Valkyrie	파열참 XI	False		icon_skills.brust_tex
+131130	Common	Common	Valkyrie	파열참 XI	True		icon_skills.brust_tex
+131199	Common	Common	Valkyrie	파열참 XI	False		icon_skills.brust_tex
+135100	Common	Common	Valkyrie	파열참 I	False		icon_skills.brust_tex
+135130	Common	Common	Valkyrie	파열참 I	True		icon_skills.brust_tex
+135200	Common	Common	Valkyrie	파열참 II	False		icon_skills.brust_tex
+135230	Common	Common	Valkyrie	파열참 II	True		icon_skills.brust_tex
+135300	Common	Common	Valkyrie	파열참 III	False		icon_skills.brust_tex
+135330	Common	Common	Valkyrie	파열참 III	True		icon_skills.brust_tex
+135400	Common	Common	Valkyrie	파열참 IV	False		icon_skills.brust_tex
+135430	Common	Common	Valkyrie	파열참 IV	True		icon_skills.brust_tex
+135500	Common	Common	Valkyrie	파열참 V	False		icon_skills.brust_tex
+135530	Common	Common	Valkyrie	파열참 V	True		icon_skills.brust_tex
+135600	Common	Common	Valkyrie	파열참 VI	False		icon_skills.brust_tex
+135630	Common	Common	Valkyrie	파열참 VI	True		icon_skills.brust_tex
+135700	Common	Common	Valkyrie	파열참 VII	False		icon_skills.brust_tex
+135730	Common	Common	Valkyrie	파열참 VII	True		icon_skills.brust_tex
+135800	Common	Common	Valkyrie	파열참 VIII	False		icon_skills.brust_tex
+135830	Common	Common	Valkyrie	파열참 VIII	True		icon_skills.brust_tex
+135900	Common	Common	Valkyrie	파열참 IX	False		icon_skills.brust_tex
+135930	Common	Common	Valkyrie	파열참 IX	True		icon_skills.brust_tex
+136000	Common	Common	Valkyrie	파열참 X	False		icon_skills.brust_tex
+136030	Common	Common	Valkyrie	파열참 X	True		icon_skills.brust_tex
+136100	Common	Common	Valkyrie	파열참 XI	False		icon_skills.brust_tex
+136130	Common	Common	Valkyrie	파열참 XI	True		icon_skills.brust_tex
+140100	Common	Common	Valkyrie	회피 I	False		icon_skills.moonshadow_tex
+140101	Common	Common	Valkyrie	회피 I	False	hit 2	icon_skills.moonshadow_tex
+140199	Common	Common	Valkyrie	회피 I	False		icon_skills.moonshadow_tex
+150100	Common	Common	Valkyrie	풍참 I	False		icon_skills.crossway_tex
+150130	Common	Common	Valkyrie	풍참 I	True		icon_skills.crossway_tex
+150199	Common	Common	Valkyrie	풍참 I	False		icon_skills.crossway_tex
+150200	Common	Common	Valkyrie	풍참 II	False		icon_skills.crossway_tex
+150230	Common	Common	Valkyrie	풍참 II	True		icon_skills.crossway_tex
+150299	Common	Common	Valkyrie	풍참 II	False		icon_skills.crossway_tex
+150300	Common	Common	Valkyrie	풍참 III	False		icon_skills.crossway_tex
+150330	Common	Common	Valkyrie	풍참 III	True		icon_skills.crossway_tex
+150399	Common	Common	Valkyrie	풍참 III	False		icon_skills.crossway_tex
+150400	Common	Common	Valkyrie	풍참 IV	False		icon_skills.crossway_tex
+150430	Common	Common	Valkyrie	풍참 IV	True		icon_skills.crossway_tex
+150499	Common	Common	Valkyrie	풍참 IV	False		icon_skills.crossway_tex
+150500	Common	Common	Valkyrie	풍참 V	False		icon_skills.crossway_tex
+150530	Common	Common	Valkyrie	풍참 V	True		icon_skills.crossway_tex
+150599	Common	Common	Valkyrie	풍참 V	False		icon_skills.crossway_tex
+150600	Common	Common	Valkyrie	풍참 VI	False		icon_skills.crossway_tex
+150630	Common	Common	Valkyrie	풍참 VI	True		icon_skills.crossway_tex
+150699	Common	Common	Valkyrie	풍참 VI	False		icon_skills.crossway_tex
+150700	Common	Common	Valkyrie	풍참 VII	False		icon_skills.crossway_tex
+150730	Common	Common	Valkyrie	풍참 VII	True		icon_skills.crossway_tex
+150799	Common	Common	Valkyrie	풍참 VII	False		icon_skills.crossway_tex
+150800	Common	Common	Valkyrie	풍참 VIII	False		icon_skills.crossway_tex
+150830	Common	Common	Valkyrie	풍참 VIII	True		icon_skills.crossway_tex
+150899	Common	Common	Valkyrie	풍참 VIII	False		icon_skills.crossway_tex
+150900	Common	Common	Valkyrie	풍참 IX	False		icon_skills.crossway_tex
+150930	Common	Common	Valkyrie	풍참 IX	True		icon_skills.crossway_tex
+150999	Common	Common	Valkyrie	풍참 IX	False		icon_skills.crossway_tex
+151000	Common	Common	Valkyrie	풍참 X	False		icon_skills.crossway_tex
+151030	Common	Common	Valkyrie	풍참 X	True		icon_skills.crossway_tex
+151099	Common	Common	Valkyrie	풍참 X	False		icon_skills.crossway_tex
+151100	Common	Common	Valkyrie	풍참 XI	False		icon_skills.crossway_tex
+151130	Common	Common	Valkyrie	풍참 XI	True		icon_skills.crossway_tex
+151199	Common	Common	Valkyrie	풍참 XI	False		icon_skills.crossway_tex
+155100	Common	Common	Valkyrie	풍참 I	False		icon_skills.crossway_tex
+155130	Common	Common	Valkyrie	풍참 I	True		icon_skills.crossway_tex
+155200	Common	Common	Valkyrie	풍참 II	False		icon_skills.crossway_tex
+155230	Common	Common	Valkyrie	풍참 II	True		icon_skills.crossway_tex
+155300	Common	Common	Valkyrie	풍참 III	False		icon_skills.crossway_tex
+155330	Common	Common	Valkyrie	풍참 III	True		icon_skills.crossway_tex
+155400	Common	Common	Valkyrie	풍참 IV	False		icon_skills.crossway_tex
+155430	Common	Common	Valkyrie	풍참 IV	True		icon_skills.crossway_tex
+155500	Common	Common	Valkyrie	풍참 V	False		icon_skills.crossway_tex
+155530	Common	Common	Valkyrie	풍참 V	True		icon_skills.crossway_tex
+155600	Common	Common	Valkyrie	풍참 VI	False		icon_skills.crossway_tex
+155630	Common	Common	Valkyrie	풍참 VI	True		icon_skills.crossway_tex
+155700	Common	Common	Valkyrie	풍참 VII	False		icon_skills.crossway_tex
+155730	Common	Common	Valkyrie	풍참 VII	True		icon_skills.crossway_tex
+155800	Common	Common	Valkyrie	풍참 VIII	False		icon_skills.crossway_tex
+155830	Common	Common	Valkyrie	풍참 VIII	True		icon_skills.crossway_tex
+155900	Common	Common	Valkyrie	풍참 IX	False		icon_skills.crossway_tex
+155930	Common	Common	Valkyrie	풍참 IX	True		icon_skills.crossway_tex
+156000	Common	Common	Valkyrie	풍참 X	False		icon_skills.crossway_tex
+156030	Common	Common	Valkyrie	풍참 X	True		icon_skills.crossway_tex
+156100	Common	Common	Valkyrie	풍참 XI	False		icon_skills.crossway_tex
+156130	Common	Common	Valkyrie	풍참 XI	True		icon_skills.crossway_tex
+160100	Common	Common	Valkyrie	달빛의 공명 I	False		icon_skills.moonlightdash_tex
+160120	Common	Common	Valkyrie	달빛의 공명 I	False		icon_skills.moonlightdash_tex
+160130	Common	Common	Valkyrie	달빛의 공명 I	True		icon_skills.moonlightdash_tex
+160199	Common	Common	Valkyrie	달빛의 공명 I	False		icon_skills.moonlightdash_tex
+160200	Common	Common	Valkyrie	달빛의 공명 II	False		icon_skills.moonlightdash_tex
+160220	Common	Common	Valkyrie	달빛의 공명 II	False		icon_skills.moonlightdash_tex
+160230	Common	Common	Valkyrie	달빛의 공명 II	True		icon_skills.moonlightdash_tex
+160299	Common	Common	Valkyrie	달빛의 공명 II	False		icon_skills.moonlightdash_tex
+160300	Common	Common	Valkyrie	달빛의 공명 III	False		icon_skills.moonlightdash_tex
+160320	Common	Common	Valkyrie	달빛의 공명 III	False		icon_skills.moonlightdash_tex
+160330	Common	Common	Valkyrie	달빛의 공명 III	True		icon_skills.moonlightdash_tex
+160399	Common	Common	Valkyrie	달빛의 공명 III	False		icon_skills.moonlightdash_tex
+160400	Common	Common	Valkyrie	달빛의 공명 IV	False		icon_skills.moonlightdash_tex
+160420	Common	Common	Valkyrie	달빛의 공명 IV	False		icon_skills.moonlightdash_tex
+160430	Common	Common	Valkyrie	달빛의 공명 IV	True		icon_skills.moonlightdash_tex
+160499	Common	Common	Valkyrie	달빛의 공명 IV	False		icon_skills.moonlightdash_tex
+160500	Common	Common	Valkyrie	달빛의 공명 V	False		icon_skills.moonlightdash_tex
+160520	Common	Common	Valkyrie	달빛의 공명 V	False		icon_skills.moonlightdash_tex
+160530	Common	Common	Valkyrie	달빛의 공명 V	True		icon_skills.moonlightdash_tex
+160599	Common	Common	Valkyrie	달빛의 공명 V	False		icon_skills.moonlightdash_tex
+160600	Common	Common	Valkyrie	달빛의 공명 VI	False		icon_skills.moonlightdash_tex
+160620	Common	Common	Valkyrie	달빛의 공명 VI	False		icon_skills.moonlightdash_tex
+160630	Common	Common	Valkyrie	달빛의 공명 VI	True		icon_skills.moonlightdash_tex
+160699	Common	Common	Valkyrie	달빛의 공명 VI	False		icon_skills.moonlightdash_tex
+160700	Common	Common	Valkyrie	달빛의 공명 VII	False		icon_skills.moonlightdash_tex
+160720	Common	Common	Valkyrie	달빛의 공명 VII	False		icon_skills.moonlightdash_tex
+160730	Common	Common	Valkyrie	달빛의 공명 VII	True		icon_skills.moonlightdash_tex
+160799	Common	Common	Valkyrie	달빛의 공명 VII	False		icon_skills.moonlightdash_tex
+160800	Common	Common	Valkyrie	달빛의 공명 VIII	False		icon_skills.moonlightdash_tex
+160820	Common	Common	Valkyrie	달빛의 공명 VIII	False		icon_skills.moonlightdash_tex
+160830	Common	Common	Valkyrie	달빛의 공명 VIII	True		icon_skills.moonlightdash_tex
+160899	Common	Common	Valkyrie	달빛의 공명 VIII	False		icon_skills.moonlightdash_tex
+160900	Common	Common	Valkyrie	달빛의 공명 IX	False		icon_skills.moonlightdash_tex
+160920	Common	Common	Valkyrie	달빛의 공명 IX	False		icon_skills.moonlightdash_tex
+160930	Common	Common	Valkyrie	달빛의 공명 IX	True		icon_skills.moonlightdash_tex
+160999	Common	Common	Valkyrie	달빛의 공명 IX	False		icon_skills.moonlightdash_tex
+161000	Common	Common	Valkyrie	달빛의 공명 X	False		icon_skills.moonlightdash_tex
+161020	Common	Common	Valkyrie	달빛의 공명 X	False		icon_skills.moonlightdash_tex
+161030	Common	Common	Valkyrie	달빛의 공명 X	True		icon_skills.moonlightdash_tex
+161099	Common	Common	Valkyrie	달빛의 공명 X	False		icon_skills.moonlightdash_tex
+161100	Common	Common	Valkyrie	달빛의 공명 XI	False		icon_skills.moonlightdash_tex
+161120	Common	Common	Valkyrie	달빛의 공명 XI	False		icon_skills.moonlightdash_tex
+161130	Common	Common	Valkyrie	달빛의 공명 XI	True		icon_skills.moonlightdash_tex
+161199	Common	Common	Valkyrie	달빛의 공명 XI	False		icon_skills.moonlightdash_tex
+161200	Common	Common	Valkyrie	달빛의 공명 XII	False		icon_skills.moonlightdash_tex
+161220	Common	Common	Valkyrie	달빛의 공명 XII	False		icon_skills.moonlightdash_tex
+161230	Common	Common	Valkyrie	달빛의 공명 XII	True		icon_skills.moonlightdash_tex
+161299	Common	Common	Valkyrie	달빛의 공명 XII	False		icon_skills.moonlightdash_tex
+165100	Common	Common	Valkyrie	달빛의 공명 I	False		icon_skills.moonlightdash_tex
+165120	Common	Common	Valkyrie	달빛의 공명 I	False		icon_skills.moonlightdash_tex
+165130	Common	Common	Valkyrie	달빛의 공명 I	True		icon_skills.moonlightdash_tex
+165200	Common	Common	Valkyrie	달빛의 공명 II	False		icon_skills.moonlightdash_tex
+165220	Common	Common	Valkyrie	달빛의 공명 II	False		icon_skills.moonlightdash_tex
+165230	Common	Common	Valkyrie	달빛의 공명 II	True		icon_skills.moonlightdash_tex
+165300	Common	Common	Valkyrie	달빛의 공명 III	False		icon_skills.moonlightdash_tex
+165320	Common	Common	Valkyrie	달빛의 공명 III	False		icon_skills.moonlightdash_tex
+165330	Common	Common	Valkyrie	달빛의 공명 III	True		icon_skills.moonlightdash_tex
+165400	Common	Common	Valkyrie	달빛의 공명 IV	False		icon_skills.moonlightdash_tex
+165420	Common	Common	Valkyrie	달빛의 공명 IV	False		icon_skills.moonlightdash_tex
+165430	Common	Common	Valkyrie	달빛의 공명 IV	True		icon_skills.moonlightdash_tex
+165500	Common	Common	Valkyrie	달빛의 공명 V	False		icon_skills.moonlightdash_tex
+165520	Common	Common	Valkyrie	달빛의 공명 V	False		icon_skills.moonlightdash_tex
+165530	Common	Common	Valkyrie	달빛의 공명 V	True		icon_skills.moonlightdash_tex
+165600	Common	Common	Valkyrie	달빛의 공명 VI	False		icon_skills.moonlightdash_tex
+165620	Common	Common	Valkyrie	달빛의 공명 VI	False		icon_skills.moonlightdash_tex
+165630	Common	Common	Valkyrie	달빛의 공명 VI	True		icon_skills.moonlightdash_tex
+165700	Common	Common	Valkyrie	달빛의 공명 VII	False		icon_skills.moonlightdash_tex
+165720	Common	Common	Valkyrie	달빛의 공명 VII	False		icon_skills.moonlightdash_tex
+165730	Common	Common	Valkyrie	달빛의 공명 VII	True		icon_skills.moonlightdash_tex
+165800	Common	Common	Valkyrie	달빛의 공명 VIII	False		icon_skills.moonlightdash_tex
+165820	Common	Common	Valkyrie	달빛의 공명 VIII	False		icon_skills.moonlightdash_tex
+165830	Common	Common	Valkyrie	달빛의 공명 VIII	True		icon_skills.moonlightdash_tex
+165900	Common	Common	Valkyrie	달빛의 공명 IX	False		icon_skills.moonlightdash_tex
+165920	Common	Common	Valkyrie	달빛의 공명 IX	False		icon_skills.moonlightdash_tex
+165930	Common	Common	Valkyrie	달빛의 공명 IX	True		icon_skills.moonlightdash_tex
+166000	Common	Common	Valkyrie	달빛의 공명 X	False		icon_skills.moonlightdash_tex
+166020	Common	Common	Valkyrie	달빛의 공명 X	False		icon_skills.moonlightdash_tex
+166030	Common	Common	Valkyrie	달빛의 공명 X	True		icon_skills.moonlightdash_tex
+166100	Common	Common	Valkyrie	달빛의 공명 XI	False		icon_skills.moonlightdash_tex
+166120	Common	Common	Valkyrie	달빛의 공명 XI	False		icon_skills.moonlightdash_tex
+166130	Common	Common	Valkyrie	달빛의 공명 XI	True		icon_skills.moonlightdash_tex
+166200	Common	Common	Valkyrie	달빛의 공명 XII	False		icon_skills.moonlightdash_tex
+166220	Common	Common	Valkyrie	달빛의 공명 XII	False		icon_skills.moonlightdash_tex
+166230	Common	Common	Valkyrie	달빛의 공명 XII	True		icon_skills.moonlightdash_tex
+170100	Common	Common	Valkyrie	달빛의 가호 I	False		icon_skills.moongracebuff_tex
+170199	Common	Common	Valkyrie	달빛의 가호 I	False		icon_skills.moongracebuff_tex
+180100	Common	Common	Valkyrie	기상 공격 I	False		icon_skills.risingattack_tex
+180199	Common	Common	Valkyrie	기상 공격 I	False		icon_skills.risingattack_tex
+180200	Common	Common	Valkyrie	기상 공격 II	False		icon_skills.risingattack_tex
+180299	Common	Common	Valkyrie	기상 공격 II	False		icon_skills.risingattack_tex
+180300	Common	Common	Valkyrie	기상 공격 III	False		icon_skills.risingattack_tex
+180399	Common	Common	Valkyrie	기상 공격 III	False		icon_skills.risingattack_tex
+180400	Common	Common	Valkyrie	기상 공격 IV	False		icon_skills.risingattack_tex
+180499	Common	Common	Valkyrie	기상 공격 IV	False		icon_skills.risingattack_tex
+180500	Common	Common	Valkyrie	기상 공격 V	False		icon_skills.risingattack_tex
+180599	Common	Common	Valkyrie	기상 공격 V	False		icon_skills.risingattack_tex
+180600	Common	Common	Valkyrie	기상 공격 VI	False		icon_skills.risingattack_tex
+180699	Common	Common	Valkyrie	기상 공격 VI	False		icon_skills.risingattack_tex
+180700	Common	Common	Valkyrie	기상 공격 VII	False		icon_skills.risingattack_tex
+180799	Common	Common	Valkyrie	기상 공격 VII	False		icon_skills.risingattack_tex
+180800	Common	Common	Valkyrie	기상 공격 VIII	False		icon_skills.risingattack_tex
+180899	Common	Common	Valkyrie	기상 공격 VIII	False		icon_skills.risingattack_tex
+180900	Common	Common	Valkyrie	기상 공격 IX	False		icon_skills.risingattack_tex
+180999	Common	Common	Valkyrie	기상 공격 IX	False		icon_skills.risingattack_tex
+181000	Common	Common	Valkyrie	기상 공격 X	False		icon_skills.risingattack_tex
+181099	Common	Common	Valkyrie	기상 공격 X	False		icon_skills.risingattack_tex
+185100	Common	Common	Valkyrie	기상 공격 I	False		icon_skills.risingattack_tex
+185200	Common	Common	Valkyrie	기상 공격 II	False		icon_skills.risingattack_tex
+185300	Common	Common	Valkyrie	기상 공격 III	False		icon_skills.risingattack_tex
+185400	Common	Common	Valkyrie	기상 공격 IV	False		icon_skills.risingattack_tex
+185500	Common	Common	Valkyrie	기상 공격 V	False		icon_skills.risingattack_tex
+185600	Common	Common	Valkyrie	기상 공격 VI	False		icon_skills.risingattack_tex
+185700	Common	Common	Valkyrie	기상 공격 VII	False		icon_skills.risingattack_tex
+185800	Common	Common	Valkyrie	기상 공격 VIII	False		icon_skills.risingattack_tex
+185900	Common	Common	Valkyrie	기상 공격 IX	False		icon_skills.risingattack_tex
+186000	Common	Common	Valkyrie	기상 공격 X	False		icon_skills.risingattack_tex
+190100	Common	Common	Valkyrie	진월명 I	False		icon_skills.moonlight_tex
+190130	Common	Common	Valkyrie	진월명 I	True		icon_skills.moonlight_tex
+190199	Common	Common	Valkyrie	진월명 I	False		icon_skills.moonlight_tex
+200100	Common	Common	Valkyrie	월광연 I	False		icon_skills.mooncatch_tex
+200199	Common	Common	Valkyrie	월광연 I	False		icon_skills.mooncatch_tex
+200200	Common	Common	Valkyrie	월광연 II	False		icon_skills.mooncatch_tex
+200299	Common	Common	Valkyrie	월광연 II	False		icon_skills.mooncatch_tex
+200300	Common	Common	Valkyrie	월광연 III	False		icon_skills.mooncatch_tex
+200399	Common	Common	Valkyrie	월광연 III	False		icon_skills.mooncatch_tex
+200400	Common	Common	Valkyrie	월광연 IV	False		icon_skills.mooncatch_tex
+200499	Common	Common	Valkyrie	월광연 IV	False		icon_skills.mooncatch_tex
+200500	Common	Common	Valkyrie	월광연 V	False		icon_skills.mooncatch_tex
+200599	Common	Common	Valkyrie	월광연 V	False		icon_skills.mooncatch_tex
+200600	Common	Common	Valkyrie	월광연 VI	False		icon_skills.mooncatch_tex
+200699	Common	Common	Valkyrie	월광연 VI	False		icon_skills.mooncatch_tex
+200700	Common	Common	Valkyrie	월광연 VII	False		icon_skills.mooncatch_tex
+200799	Common	Common	Valkyrie	월광연 VII	False		icon_skills.mooncatch_tex
+200800	Common	Common	Valkyrie	월광연 VIII	False		icon_skills.mooncatch_tex
+200899	Common	Common	Valkyrie	월광연 VIII	False		icon_skills.mooncatch_tex
+205100	Common	Common	Valkyrie	월광연 I	False		icon_skills.mooncatch_tex
+205200	Common	Common	Valkyrie	월광연 II	False		icon_skills.mooncatch_tex
+205300	Common	Common	Valkyrie	월광연 III	False		icon_skills.mooncatch_tex
+205400	Common	Common	Valkyrie	월광연 IV	False		icon_skills.mooncatch_tex
+205500	Common	Common	Valkyrie	월광연 V	False		icon_skills.mooncatch_tex
+205600	Common	Common	Valkyrie	월광연 VI	False		icon_skills.mooncatch_tex
+205700	Common	Common	Valkyrie	월광연 VII	False		icon_skills.mooncatch_tex
+205800	Common	Common	Valkyrie	월광연 VIII	False		icon_skills.mooncatch_tex
+210100	Common	Common	Valkyrie	달빛의 인력 I	False		icon_skills.moongravity_tex
+210120	Common	Common	Valkyrie	달빛의 인력 I	False		icon_skills.moongravity_tex
+210199	Common	Common	Valkyrie	달빛의 인력 I	False		icon_skills.moongravity_tex
+215100	Common	Common	Valkyrie	달빛의 인력 I	False		icon_skills.moongravity_tex
+215120	Common	Common	Valkyrie	달빛의 인력 I	False		icon_skills.moongravity_tex
 10100	Common	Common	Warrior	연속 공격 I	False	hit 1	icon_skills.comboattack_tex
 10101	Common	Common	Warrior	연속 공격 I	False	hit 2	icon_skills.comboattack_tex
 10102	Common	Common	Warrior	연속 공격 I	False	hit 3	icon_skills.comboattack_tex
@@ -5422,12 +6599,19 @@
 210200	Common	Common	Warrior	강격 베기 II	False		icon_skills.hardslash_tex
 210300	Common	Common	Warrior	강격 베기 III	False		icon_skills.hardslash_tex
 210400	Common	Common	Warrior	강격 베기 IV	False		icon_skills.hardslash_tex
+210500	Common	Common	Warrior	강격 베기 V	False		icon_skills.hardslash_tex
 220100	Common	Common	Warrior	뒤잡기 I	False		icon_skills.backattack_tex
 220200	Common	Common	Warrior	뒤잡기 II	False		icon_skills.backattack_tex
 220300	Common	Common	Warrior	뒤잡기 III	False		icon_skills.backattack_tex
 220400	Common	Common	Warrior	뒤잡기 IV	False		icon_skills.backattack_tex
 230100	Common	Common	Warrior	반격 뒤돌리기 I	False		icon_skills.reversalturningattack_tex
 230200	Common	Common	Warrior	반격 뒤돌리기 II	False		icon_skills.reversalturningattack_tex
+230300	Common	Common	Warrior	반격 뒤돌리기 III	False		icon_skills.reversalturningattack_tex
+230400	Common	Common	Warrior	반격 뒤돌리기 IV	False		icon_skills.reversalturningattack_tex
+230500	Common	Common	Warrior	반격 뒤돌리기 V	False		icon_skills.reversalturningattack_tex
+230600	Common	Common	Warrior	반격 뒤돌리기 VI	False		icon_skills.reversalturningattack_tex
+230700	Common	Common	Warrior	반격 뒤돌리기 II	False		icon_skills.reversalturningattack_tex
+230800	Common	Common	Warrior	반격 뒤돌리기 II	False		icon_skills.reversalturningattack_tex
 240100	Common	Common	Warrior	그림자 분신 I	False		icon_skills.decoy_tex
 240200	Common	Common	Warrior	그림자 분신 II	False		icon_skills.decoy_tex
 240300	Common	Common	Warrior	그림자 분신 III	False		icon_skills.decoy_tex
@@ -5503,6 +6687,16 @@
 300430	Common	Common	Warrior	질풍 가르기 IV	True		icon_skills.raker_tex
 300500	Common	Common	Warrior	질풍 가르기 V	False		icon_skills.raker_tex
 300530	Common	Common	Warrior	질풍 가르기 V	True		icon_skills.raker_tex
+300600	Common	Common	Warrior	질풍 가르기 VI	False		icon_skills.raker_tex
+300630	Common	Common	Warrior	질풍 가르기 V	True		icon_skills.raker_tex
+300700	Common	Common	Warrior	질풍 가르기 VII	False		icon_skills.raker_tex
+300730	Common	Common	Warrior	질풍 가르기 V	True		icon_skills.raker_tex
+300800	Common	Common	Warrior	질풍 가르기 VIII	False		icon_skills.raker_tex
+300830	Common	Common	Warrior	질풍 가르기 V	True		icon_skills.raker_tex
+300900	Common	Common	Warrior	질풍 가르기 IX	False		icon_skills.raker_tex
+300930	Common	Common	Warrior	질풍 가르기 V	True		icon_skills.raker_tex
+301000	Common	Common	Warrior	질풍 가르기 V	False		icon_skills.raker_tex
+301030	Common	Common	Warrior	질풍 가르기 V	True		icon_skills.raker_tex
 310100	Common	Common	Warrior	파열 I	False		icon_skills.rupture_tex
 310130	Common	Common	Warrior	파열 I	True		icon_skills.rupture_tex
 310200	Common	Common	Warrior	파열 II	False		icon_skills.rupture_tex
@@ -6869,18 +8063,18 @@
 8881001	Common	Common	Common	집결			
 8881002	Common	Common	Common	결전			
 8881003	Common	Common	Common	난공불락			
-9010100	Popori	Common	Common	벨리카의 부름			icon_skills.returnofvelica_tex
-9010100	Human	Common	Common	벨리카의 부름			icon_skills.returnofvelica_tex
 9010100	Aman	Common	Common	카이아도르의 부름			icon_skills.returnofkaiator_tex
-9010100	Castanic	Common	Common	카이아도르의 부름			icon_skills.returnofkaiator_tex
 9010100	Baraka	Common	Common	코어의 부름			icon_skills.returnofcore_tex
+9010100	Castanic	Common	Common	카이아도르의 부름			icon_skills.returnofkaiator_tex
 9010100	Highelf	Common	Common	코어의 부름			icon_skills.returnofcore_tex
+9010100	Human	Common	Common	벨리카의 부름			icon_skills.returnofvelica_tex
+9010100	Popori	Common	Common	벨리카의 부름			icon_skills.returnofvelica_tex
 9020100	Aman	Common	Common	역전의 투사			icon_skills.expertfighter_tex
 9020100	Baraka	Common	Common	자연 동화			icon_skills.earthmeld_tex
 9020100	Castanic	Common	Common	문장 각성			icon_skills.markoflok_tex
+9020100	Highelf	Common	Common	코어 사용			icon_skills.activatelink_tex
 9020100	Human	Common	Common	결투의 달인			icon_skills.duelmastery_tex
 9020100	Popori	Common	Common	자연의 친구			icon_skills.naturesfriend_tex
-9020100	Highelf	Common	Common	코어 사용			icon_skills.activatelink_tex
 9030100	Popori	Common	Common	여행의 즐거움			icon_skills.journeyman_tex
 9876543	Common	Common	Common	영주 깃발			
 10220004	Common	Common	Common	균열의 기운			
@@ -6996,14 +8190,14 @@
 12200006	Common	Common	Common	레드 드래곤(레어) 소환			
 12200007	Common	Common	Common	유령 드래곤(레어) 소환			
 12200008	Common	Common	Common	다이아몬드 드래곤(레어) 소환			
-12200009	Common	Common	Common	강철 드래곤 소환 (7일)			
-12200010	Common	Common	Common	레드 드래곤 소환 (7일)			
-12200011	Common	Common	Common	유령 드래곤 소환 (7일)			
-12200012	Common	Common	Common	다이아몬드 드래곤 소환 (7일)			
-12200013	Common	Common	Common	강철 드래곤(레어) 소환 (7일)			
-12200014	Common	Common	Common	레드 드래곤(레어) 소환 (7일)			
-12200015	Common	Common	Common	유령 드래곤(레어) 소환 (7일)			
-12200016	Common	Common	Common	다이아몬드 드래곤(레어) 소환 (7일)			
+12200009	Common	Common	Common	강철 드래곤 소환(기간제)			
+12200010	Common	Common	Common	레드 드래곤 소환(기간제)			
+12200011	Common	Common	Common	유령 드래곤 소환(기간제)			
+12200012	Common	Common	Common	다이아몬드 드래곤 소환(기간제)			
+12200013	Common	Common	Common	강철 드래곤(레어) 소환(기간제)			
+12200014	Common	Common	Common	레드 드래곤(레어) 소환(기간제)			
+12200015	Common	Common	Common	유령 드래곤(레어) 소환(기간제)			
+12200016	Common	Common	Common	다이아몬드 드래곤(레어) 소환(기간제)			
 12200017	Common	Common	Common	강철 드래곤 소환(비전투)			
 12200018	Common	Common	Common	레드 드래곤 소환(비전투)			
 12200019	Common	Common	Common	유령 드래곤 소환(비전투)			
@@ -7022,6 +8216,46 @@
 12200032	Common	Common	Common	다이아몬드 드래곤(레어) 소환(비전투)			
 12200033	Common	Common	Common	(TEST) 메카닉 A			
 12200034	Common	Common	Common	(TEST) 메카닉 B			
+12200035	Common	Common	Common	본드래곤[반] 소환			
+12200036	Common	Common	Common	본드래곤[반] 소환 [레어]			
+12200037	Common	Common	Common	본드래곤[반] 소환 [기간제]			
+12200038	Common	Common	Common	본드래곤[반] 소환 [레어][기간제]			
+12200039	Common	Common	Common	본드래곤[반] 소환 			
+12200040	Common	Common	Common	본드래곤[반] 소환 [레어]			
+12200041	Common	Common	Common	본드래곤[반] 소환 [기간제]			
+12200042	Common	Common	Common	본드래곤[반] 소환 [레어][기간제]			
+12200043	Common	Common	Common	본드래곤[흑] 소환			
+12200044	Common	Common	Common	본드래곤[흑] 소환 [레어]			
+12200045	Common	Common	Common	본드래곤[흑] 소환 [기간제]			
+12200046	Common	Common	Common	본드래곤[흑] 소환 [레어][기간제]			
+12200047	Common	Common	Common	본드래곤[흑] 소환 			
+12200048	Common	Common	Common	본드래곤[흑] 소환 [레어]			
+12200049	Common	Common	Common	본드래곤[흑] 소환 [기간제]			
+12200050	Common	Common	Common	본드래곤[흑] 소환 [레어][기간제]			
+12200051	Common	Common	Common	본드래곤[금] 소환			
+12200052	Common	Common	Common	본드래곤[금] 소환 [레어]			
+12200053	Common	Common	Common	본드래곤[금] 소환 [기간제]			
+12200054	Common	Common	Common	본드래곤[금] 소환 [레어][기간제]			
+12200055	Common	Common	Common	본드래곤[금] 소환 			
+12200056	Common	Common	Common	본드래곤[금] 소환 [레어]			
+12200057	Common	Common	Common	본드래곤[금] 소환 [기간제]			
+12200058	Common	Common	Common	본드래곤[금] 소환 [레어][기간제]			
+12200059	Common	Common	Common	본드래곤[청염] 소환			
+12200060	Common	Common	Common	본드래곤[청염] 소환 [레어]			
+12200061	Common	Common	Common	본드래곤[청염] 소환 [기간제]			
+12200062	Common	Common	Common	본드래곤[청염] 소환 [레어][기간제]			
+12200063	Common	Common	Common	본드래곤[청염] 소환 			
+12200064	Common	Common	Common	본드래곤[청염] 소환 [레어]			
+12200065	Common	Common	Common	본드래곤[청염] 소환 [기간제]			
+12200066	Common	Common	Common	본드래곤[청염] 소환 [레어][기간제]			
+12200067	Common	Common	Common	본드래곤[화염] 소환			
+12200068	Common	Common	Common	본드래곤[화염] 소환 [레어]			
+12200069	Common	Common	Common	본드래곤[화염] 소환 [기간제]			
+12200070	Common	Common	Common	본드래곤[화염] 소환 [레어][기간제]			
+12200071	Common	Common	Common	본드래곤[화염] 소환 			
+12200072	Common	Common	Common	본드래곤[화염] 소환 [레어]			
+12200073	Common	Common	Common	본드래곤[화염] 소환 [기간제]			
+12200074	Common	Common	Common	본드래곤[화염] 소환 [레어][기간제]			
 12300000	Common	Common	Common	돈줍는 황금도니 소환			
 12300001	Common	Common	Common	황금신체비율 캔디 (7일)			
 12300002	Common	Common	Common	발랄한 토토 소환			
@@ -7171,6 +8405,32 @@
 12600133	Common	Common	Common	(염색가능) 쉐도우 헌터 의복함 [남자]			
 12600134	Common	Common	Common	(염색가능) 유니크: 쉐도우 헌터 의복함 [여자]			
 12600135	Common	Common	Common	(염색가능) 쉐도우 헌터 의복함 [여자]			
+12600136	Common	Common	Common	[이벤트] 겨울 한복: 설화 상자 (14일)			
+12600137	Common	Common	Common	릴리스의 장비 세트 상자			
+12600138	Common	Common	Common	[이벤트] 전설 각인서 상자			
+12600139	Common	Common	Common	[이벤트] 특별한 동물의상 : 무지개곰 상자			
+12600140	Common	Common	Common	[이벤트] 특별한 동물의상 : 무지개양 상자			
+12600141	Common	Common	Common	[이벤트] 동물의상 : 체셔 고양이 상자			
+12600142	Common	Common	Common	[이벤트] 동물의상 : 핑크양 상자			
+12600143	Common	Common	Common	[이벤트] 동물의상 : 흰양 상자			
+12600144	Common	Common	Common	[이벤트] 동물의상 : 검은양 상자			
+12600145	Common	Common	Common	[이벤트] 동물의상 : 핑크곰 상자			
+12600146	Common	Common	Common	[이벤트] 동물의상 : 너구리 상자			
+12600147	Common	Common	Common	[이벤트] 동물의상 : 오리 상자			
+12600148	Common	Common	Common	[이벤트] 동물의상 : 판다 상자			
+12600149	Common	Common	Common	[이벤트] 동물의상 : 곰 상자			
+12600150	Common	Common	Common	[이벤트] 동물의상 : 고양이 상자			
+12600151	Common	Common	Common	[이벤트] 동물의상 : 토끼 상자			
+12600152	Common	Common	Common	[이벤트] 동물의상 : 돼지 상자			
+12600153	Common	Common	Common	[이벤트] 동물의상 : 펭귄 상자			
+12600154	Common	Common	Common	[이벤트] 동물의상 : 강아지 상자			
+12600155	Common	Common	Common	월광의 암살 무기상자 (1일)			
+12600156	Common	Common	Common	월광 그림자 의복 상자 (1일)			
+12600157	Common	Common	Common	유르제의 하얀색 간호복 상자 (1일)			
+12600158	Common	Common	Common	엣지있는 캐쥬얼 세트 (1일)			
+12600159	Common	Common	Common	마린룩 세트 (1일)			
+12600160	Common	Common	Common	[이벤트] '철기장 : 냉혈' 무기 상자			
+12600161	Common	Common	Common	[이벤트] Fun 무기상자			
 13000000	Common	Common	Common	백곰 소환			
 13000001	Common	Common	Common	불곰 소환			
 13000002	Common	Common	Common	판다 소환			
@@ -7435,6 +8695,23 @@
 13600178	Common	Common	Common	닌자도구 보물상자			
 13600179	Common	Common	Common	벚꽃 길리두 펫 소환			
 13600180	Common	Common	Common	포포리메달 꾸러미(20장)			
+13600181	Common	Common	Common	레벨업 선물 박스			
+13600182	Common	Common	Common	레벨업 선물 박스（Lv20）			
+13600183	Common	Common	Common	레벨업 선물 박스（Lv40）			
+13600184	Common	Common	Common	레벨업 선물 박스（Lv60）			
+13600185	Common	Common	Common	레벨업 선물 박스（Lv65）			
+13600186	Common	Common	Common	아르보레아 영웅담(11/11)			
+13600187	Common	Common	Common	지원박스(월광)			
+13600188	Common	Common	Common	지원박스(일반)			
+13600189	Common	Common	Common	스타트 업 박스			
+13600190	Common	Common	Common	베르노의 팔 방어구 상자			
+13600191	Common	Common	Common	베르노의 다리 방어구 상자			
+13600192	Common	Common	Common	아바타 박스（웨딩 드레스/웨딩 예복）			
+13600193	Common	Common	Common	6월 박스1			
+13600194	Common	Common	Common	6월 박스2			
+13600195	Common	Common	Common	6월 박스3			
+13600196	Common	Common	Common	6월 박스4			
+13600197	Common	Common	Common	6월 박스5			
 14000001	Common	Common	Common	청록의 기린 소환			
 14000002	Common	Common	Common	청록의 기린 소환			
 14000003	Common	Common	Common	청록의 기린 소환			
@@ -8365,6 +9642,14 @@
 14100623	Common	Common	Common	레드 드래곤(레어) 소환 (기간제, 비전투)			
 14100624	Common	Common	Common	유령 드래곤(레어) 소환 (기간제, 비전투)			
 14100625	Common	Common	Common	다이아몬드 드래곤(레어) 소환 (기간제, 비전투)			
+14100626	Common	Common	Common	이동수단 스포츠카C(일본5주년)  !			
+14100627	Common	Common	Common	이동수단 스포츠카C(일본5주년)  !			
+14100628	Common	Common	Common	혼령이 깃든 늑대 소환			
+14100629	Common	Common	Common	혼령이 깃든 기린 소환			
+14100630	Common	Common	Common	혼령이 깃든 오오카미 소환			
+14100631	Common	Common	Common	혼령이 깃든 늑대 소환			
+14100632	Common	Common	Common	혼령이 깃든 기린 소환			
+14100633	Common	Common	Common	혼령이 깃든 오오카미 소환			
 14300001	Common	Common	Common	부활절 달걀 바구니			
 14300002	Common	Common	Common	돈줍는 황금도니 소환			
 14300003	Common	Common	Common	돈줍는 황금도니 소환			
@@ -8774,13 +10059,13 @@
 14600392	Common	Common	Common	예비 아이템 컨버젼 0613-20			
 14600393	Common	Common	Common	예비 아이템 컨버젼 0613-21			
 14600394	Common	Common	Common	예비 아이템 컨버젼 0613-22			
-14600395	Common	Common	Common	예비 아이템 컨버젼 0613-23			
-14600396	Common	Common	Common	예비 아이템 컨버젼 0613-24			
-14600397	Common	Common	Common	예비 아이템 컨버젼 0613-25			
+14600395	Common	Common	Common	Glacial Dragon Weapon Skin Smart Box			
+14600396	Common	Common	Common	Obsidian Dragon Weapon Skin Smart Box			
+14600397	Common	Common	Common	Volcanic Dragon Weapon Skin Smart Box			
 14600398	Common	Common	Common	예비 아이템 컨버젼 0613-26			
-14600399	Common	Common	Common	예비 아이템 컨버젼 0613-27			
-14600400	Common	Common	Common	예비 아이템 컨버젼 0613-28			
-14600401	Common	Common	Common	예비 아이템 컨버젼 0613-29			
+14600399	Common	Common	Common	Ironward Armor Smart Box			
+14600400	Common	Common	Common	Dawn's Guard Armor Smart Box			
+14600401	Common	Common	Common	Night Watch Armor Smart Box			
 14600402	Common	Common	Common	예비 아이템 컨버젼 0613-30			
 14600403	Common	Common	Common	예비 아이템 컨버젼 0613-31			
 14600404	Common	Common	Common	예비 아이템 컨버젼 0613-32			
@@ -8848,6 +10133,21 @@
 14600466	Common	Common	Common	Smart Box: Ribbon Sailor Look			
 14600467	Common	Common	Common	Smart Box: Ivory Cardigan School Uniform			
 14600468	Common	Common	Common	Smart Box: Charcoal Gray Cardigan School Uniform			
+14600469	Common	Common	Common	Reservation Reward Box			
+14600470	Common	Common	Common	Level 15 Reward Box			
+14600471	Common	Common	Common	Level 20 Box			
+14600472	Common	Common	Common	Level 40 Box			
+14600473	Common	Common	Common	Level 60 Box			
+14600474	Common	Common	Common	Level 65 Box			
+14600475	Common	Common	Common	Crystal of Daydreams [4]			
+14600476	Common	Common	Common	Smart Box: Dyeable SWAT Team Uniform			
+14600477	Common	Common	Common	[Event] Gift of the Stars #1			
+14600478	Common	Common	Common	[Event] Reward Box #2			
+14600479	Common	Common	Common	[Event] Reward Box #3			
+14600480	Common	Common	Common	[Event] Reward Box #4			
+14600481	Common	Common	Common	[Event] Reward Box #5			
+14600482	Common	Common	Common	[Event] Reward Box #6			
+14600483	Common	Common	Common	Club Reward Box			
 15200004	Common	Common	Common	독약			
 15210001	Common	Common	Common	전투 흑마 소환			
 15210002	Common	Common	Common	전투 사자 소환			
@@ -8951,6 +10251,7 @@
 15300121	Common	Common	Common	불곰 소환 (3일)			
 15300122	Common	Common	Common	판다 소환 (3일)			
 15300123	Common	Common	Common	폭군 판다(레어) 소환(100일)			
+15300124	Common	Common	Common	황금돼지 소환			
 15500001	Common	Common	Common	창고지기 포포 소환			
 15500002	Common	Common	Common	싸리싸리킹 소환			
 15600000	Common	Common	Common	아케이드 블록 무기 상자			
@@ -9769,46 +11070,48 @@
 19000086	Common	Common	Common	아바타 박스（광선무기 붉은 빛）			
 19000087	Common	Common	Common	아바타 박스（광선무기 무지개 빛）			
 19000088	Common	Common	Common	아바타 박스（광선무기 검붉은 빛）			
-19000089	Common	Common	Common	스마트 더미10			
-19000090	Common	Common	Common	스마트 더미9			
-19000091	Common	Common	Common	스마트 더미8			
-19000092	Common	Common	Common	스마트 더미7			
-19000093	Common	Common	Common	스마트 더미6			
-19000094	Common	Common	Common	스마트 더미5			
-19000095	Common	Common	Common	스마트 더미4			
-19000096	Common	Common	Common	스마트 더미3			
-19000097	Common	Common	Common	스마트 더미2			
-19000098	Common	Common	Common	스마트 더미1			
-19000099	Common	Common	Common	스마트 더미1			
-19000100	Common	Common	Common	스마트 더미2			
-19000101	Common	Common	Common	스마트 더미3			
-19000102	Common	Common	Common	스마트 더미4			
-19000103	Common	Common	Common	스마트 더미5			
-19000104	Common	Common	Common	스마트 더미6			
+19000089	Common	Common	Common	Cold War Bomber Box			
+19000090	Common	Common	Common	Arctic Bomber Box			
+19000091	Common	Common	Common	Personalized Gym Uniform Gift Box			
+19000092	Common	Common	Common	Chromaplasm Weapon Skin Gift Box			
+19000093	Common	Common	Common	Party Dress Smart Box			
+19000094	Common	Common	Common	Cocktail Dress Smart Box			
+19000095	Common	Common	Common	Disco Dress Smart Box			
+19000096	Common	Common	Common	Glacial Dragon Armor Smart Box			
+19000097	Common	Common	Common	Volcanic Dragon Armor Smart Box			
+19000098	Common	Common	Common	Obsidian Dragon Armor Smart Box			
+19000099	Common	Common	Common	51클럽원피스 상자			
+19000100	Common	Common	Common	51클럽원피스 상자 (14일)			
+19000101	Common	Common	Common	51클럽원피스_레어 상자			
+19000102	Common	Common	Common	51클럽원피스_레어 상자 (14일)			
+19000103	Common	Common	Common	51클럽원피스_C_염색 상자			
+19000104	Common	Common	Common	51클럽원피스_C_염색 상자 (14일)			
 19000105	Common	Common	Common	스마트 더미7			
 19000106	Common	Common	Common	스마트 더미8			
 19000107	Common	Common	Common	스마트 더미9			
 19000108	Common	Common	Common	스마트 더미10			
-19000109	Common	Common	Common	스마트 더미1			
-19000110	Common	Common	Common	스마트 더미2			
-19000111	Common	Common	Common	스마트 더미3			
-19000112	Common	Common	Common	스마트 더미4			
-19000113	Common	Common	Common	스마트 더미5			
-19000114	Common	Common	Common	스마트 더미6			
-19000115	Common	Common	Common	스마트 더미7			
-19000116	Common	Common	Common	스마트 더미8			
-19000117	Common	Common	Common	스마트 더미9			
+19000109	Common	Common	Common	51클럽원피스 상자			
+19000110	Common	Common	Common	51클럽원피스 상자 (7일)			
+19000111	Common	Common	Common	51클럽원피스 상자 (30일)			
+19000112	Common	Common	Common	51클럽원피스_레어 상자			
+19000113	Common	Common	Common	51클럽원피스_레어 상자 (7일)			
+19000114	Common	Common	Common	51클럽원피스_레어 상자 (30일)			
+19000115	Common	Common	Common	51클럽원피스_C_염색 상자			
+19000116	Common	Common	Common	51클럽원피스_C_염색 상자 (7일)			
+19000117	Common	Common	Common	51클럽원피스_C_염색 상자 (30일)			
 19000118	Common	Common	Common	스마트 더미10			
 19000119	Common	Common	Common	카우걸 상자			
 19000120	Common	Common	Common	[유니크]카우걸 상자			
 19000121	Common	Common	Common	레슬러 상자			
 19000122	Common	Common	Common	[유니크]레슬러 상자			
-19000123	Common	Common	Common	[대만]예비 스마트박스7			
-19000124	Common	Common	Common	[대만]예비 스마트박스6			
-19000125	Common	Common	Common	[대만]예비 스마트박스5			
-19000126	Common	Common	Common	[대만]예비 스마트박스4			
-19000127	Common	Common	Common	[대만]예비 스마트박스3			
-19000128	Common	Common	Common	[대만]예비 스마트박스2			
+19000123	Common	Common	Common	겨울파카 의상 상자(여)[염색]			
+19000124	Common	Common	Common	겨울파카(여)[일반]			
+19000125	Common	Common	Common	겨울파카 의상 상자(남)[염색]			
+19000126	Common	Common	Common	겨울파카(남)[일반]			
+19000127	Common	Common	Common	푸른용의 기운이 서린 갑주 상자			
+19000128	Common	Common	Common	검은용의 기운이 서린 갑주 상자			
+19000129	Common	Common	Common	남성 전용 가죽자켓 의상 상자			
+19000130	Common	Common	Common	귀기 서린 무기 스킨 스마트 상자 (영구제)			
 19000131	Common	Common	Common	아바타박스 더미10			
 19000132	Common	Common	Common	아바타박스 더미9			
 19000133	Common	Common	Common	아바타박스 더미8			
@@ -9819,10 +11122,166 @@
 19000138	Common	Common	Common	아바타박스 더미3			
 19000139	Common	Common	Common	아바타박스 더미2			
 19000140	Common	Common	Common	아바타박스 더미1			
+19000141	Common	Common	Common	49겨울파카 상자			
+19000142	Common	Common	Common	49겨울파카 상자 (14일)			
+19000143	Common	Common	Common	염색 49겨울파카 상자			
+19000144	Common	Common	Common	염색 49겨울파카 상자 (14일)			
+19000145	Common	Common	Common	49겨울 파카 상자			
+19000146	Common	Common	Common	49겨울 파카 상자 (7일)			
+19000147	Common	Common	Common	49겨울 파카 상자 (30일)			
+19000148	Common	Common	Common	염색 49겨울 파카 상자			
+19000149	Common	Common	Common	염색 49겨울 파카 상자 (7일)			
+19000150	Common	Common	Common	염색 49겨울 파카 상자 (30일)			
 19000151	Common	Common	Common	Smart Box: Pirate Costume			
 19000152	Common	Common	Common	Smart Box: Festive Santa Costume			
 19000153	Common	Common	Common	Smart Box: Snowsuit			
 19000154	Common	Common	Common	Smart Box: Purple Spectral Weapon Skin			
+19000155	Common	Common	Common	남성 전용 가죽자켓(염색) 의상 상자			
+19000156	Common	Common	Common	여성 전용 가죽자켓 의상 상자			
+19000157	Common	Common	Common	여성 전용 가죽자켓(염색) 의상 상자			
+19000158	Common	Common	Common	수호 컬렉션 의상 상자			
+19000159	Common	Common	Common	화룡의 기운이 서린 갑주 상자 [30일]			
+19000160	Common	Common	Common	화룡의 기운이 서린 갑주 상자 [7일]			
+19000161	Common	Common	Common	화룡의 기운이 서린 갑주 상자			
+19000162	Common	Common	Common	검은 용의 기운이 서린 갑주 상자 [30일]			
+19000163	Common	Common	Common	검은 용의 기운이 서린 갑주 상자 [7일]			
+19000164	Common	Common	Common	검은 용의 기운이 서린 갑주 상자			
+19000165	Common	Common	Common	푸른 용의 기운이 서린 갑주 상자 [30일]			
+19000166	Common	Common	Common	푸른 용의 기운이 서린 갑주 상자 [7일]			
+19000167	Common	Common	Common	푸른 용의 기운이 서린 갑주 상자			
+19000168	Common	Common	Common	검은 용의 기운이 서린 무기상자 [30일]			
+19000169	Common	Common	Common	검은 용의 기운이 서린 무기상자 [7일]			
+19000170	Common	Common	Common	검은 용의 기운이 서린 무기상자			
+19000171	Common	Common	Common	푸른 용의 기운이 서린 무기상자 [30일]			
+19000172	Common	Common	Common	푸른 용의 기운이 서린 무기상자 [7일]			
+19000173	Common	Common	Common	푸른 용의 기운이 서린 무기상자			
+19000174	Common	Common	Common	화룡의 기운이 서린 무기상자 [30일]			
+19000175	Common	Common	Common	화룡의 기운이 서린 무기상자 [7일]			
+19000176	Common	Common	Common	화룡의 기운이 서린 무기상자			
+19000177	Common	Common	Common	푸른 용의 기운이 서린 갑주 상자			
+19000178	Common	Common	Common	푸른 용의 기운이 서린 갑주 상자 (14일)			
+19000179	Common	Common	Common	검은 용의 기운이 서린 갑주 상자			
+19000180	Common	Common	Common	검은 용의 기운이 서린 갑주 상자 (14일)			
+19000181	Common	Common	Common	화룡의 기운이 서린 갑주 상자			
+19000182	Common	Common	Common	화룡의 기운이 서린 갑주 상자 (14일)			
+19000183	Common	Common	Common	푸른 용의 기운이 서린 무기 스킨 스마트 상자 (영구제)			
+19000184	Common	Common	Common	푸른 용의 기운이 서린 무기 스킨 스마트 상자 (14일)			
+19000185	Common	Common	Common	검은 용의 기운이 서린 무기 스킨 스마트 상자 (영구제)			
+19000186	Common	Common	Common	검은 용의 기운이 서린 무기 스킨 스마트 상자 (14일)			
+19000187	Common	Common	Common	화룡의 기운이 서린 무기 스킨 스마트 상자 (영구제)			
+19000188	Common	Common	Common	화룡의 기운이 서린 무기 스킨 스마트 상자 (14일)			
+19000189	Common	Common	Common	화룡의 기운이 서린 무기 상자			
+19000190	Common	Common	Common	검은 용의 기운이 서린 무기 상자			
+19000191	Common	Common	Common	푸른 용의 기운이 서린 무기 상자			
+19000192	Common	Common	Common	아바타 박스（일반 화이트）			
+19000193	Common	Common	Common	아바타 박스（일반 블랙）			
+19000194	Common	Common	Common	아바타 박스（레어 블랙）			
+19000195	Common	Common	Common	아바타 박스（일반 화이트）II			
+19000196	Common	Common	Common	아바타 박스（일반 블랙）II			
+19000197	Common	Common	Common	아바타 박스（레어 블랙）II			
+19000198	Common	Common	Common	화룡의 기운이 서린 갑주 상자			
+19000199	Common	Common	Common	(레어)드래곤 무기 상자			
+19000200	Common	Common	Common	(일반)드래곤 무기 상자			
+19000201	Common	Common	Common	(블랙레어)드래곤 무기 상자			
+19000202	Common	Common	Common	화룡의 기운이 서린 갑주 상자			
+19000203	Common	Common	Common	검은 용의 기운이 서린 갑주 상자			
+19000204	Common	Common	Common	푸른 용의 기운이 서린 갑주 상자			
+19000205	Common	Common	Common	은색 클럽원피스 의상 상자			
+19000206	Common	Common	Common	금색 클럽원피스 의상 상자			
+19000207	Common	Common	Common	퍼 숄더 클럽원피스 의상 상자			
+19000208	Common	Common	Common	예비 스마트 박스11			
+19000209	Common	Common	Common	예비 스마트 박스10			
+19000210	Common	Common	Common	예비 스마트 박스9			
+19000211	Common	Common	Common	예비 스마트 박스8			
+19000212	Common	Common	Common	예비 스마트 박스7			
+19000213	Common	Common	Common	예비 스마트 박스6			
+19000214	Common	Common	Common	예비 스마트 박스5			
+19000215	Common	Common	Common	예비 스마트 박스4			
+19000216	Common	Common	Common	예비 스마트 박스3			
+19000217	Common	Common	Common	예비 스마트 박스2			
+19000218	Common	Common	Common	Tailor Maid Smart Box			
+19000219	Common	Common	Common	Maid to Order Smart Box			
+19000220	Common	Common	Common	Servant's Bow Smart Box			
+19000221	Common	Common	Common	Ultraplasm Smart Box			
+19000222	Common	Common	Common	Dummy Smart Box16			
+19000223	Common	Common	Common	Dummy Smart Box15			
+19000224	Common	Common	Common	Dummy Smart Box14			
+19000225	Common	Common	Common	Dummy Smart Box13			
+19000226	Common	Common	Common	Dummy Smart Box12			
+19000227	Common	Common	Common	Dummy Smart Box11			
+19000228	Common	Common	Common	Dummy Smart Box30			
+19000229	Common	Common	Common	Dummy Smart Box29			
+19000230	Common	Common	Common	Dummy Smart Box28			
+19000231	Common	Common	Common	Dummy Smart Box27			
+19000232	Common	Common	Common	Dummy Smart Box26			
+19000233	Common	Common	Common	Dummy Smart Box25			
+19000234	Common	Common	Common	Dummy Smart Box24			
+19000235	Common	Common	Common	Dummy Smart Box23			
+19000236	Common	Common	Common	Dummy Smart Box22			
+19000237	Common	Common	Common	Dummy Smart Box21			
+19000238	Common	Common	Common	탈것 박스（서리고룡）			
+19000239	Common	Common	Common	[염색]매혹적인 클럽의상 상자[여성전용]			
+19000240	Common	Common	Common	[레어]매혹적인 클럽의상 상자[여성전용]			
+19000241	Common	Common	Common	매혹적인 클럽의상 상자[여성전용]			
+19000242	Common	Common	Common	2017 메이드복 의상 상자			
+19000243	Common	Common	Common	2017 메이드복 레어 의상 상자			
+19000244	Common	Common	Common	2017 메이드복 전용 '소셜교본: 공손한 인사' 상자			
+19000245	Common	Common	Common	2017 메이드복 전용 '소셜교본: 공손한 인사' 상자			
+19000246	Common	Common	Common	2017 메이드복 레어 의상 상자 [30일]			
+19000247	Common	Common	Common	2017 메이드복 레어 의상 상자 [7일]			
+19000248	Common	Common	Common	2017 메이드복 레어 의상 상자			
+19000249	Common	Common	Common	2017 메이드복 의상 상자 [30일]			
+19000250	Common	Common	Common	2017 메이드복 의상 상자 [7일]			
+19000251	Common	Common	Common	2017 메이드복 의상 상자			
+19000252	Common	Common	Common	로열 나이츠 아머 박스			
+19000253	Common	Common	Common	블랙 나이츠 아머 박스			
+19000254	Common	Common	Common	아이언 나이츠 아머 박스			
+19000255	Common	Common	Common	중세 기사 B 상자			
+19000256	Common	Common	Common	중세기사C 상자			
+19000257	Common	Common	Common	2017 메이드복 전용 '소셜교본: 공손한 인사' 상자			
+19000258	Common	Common	Common	2017 메이드복 레어 의상 상자(14일)			
+19000259	Common	Common	Common	2017 메이드복 레어 의상 상자			
+19000260	Common	Common	Common	2017 메이드복 의상 상자(14일)			
+19000261	Common	Common	Common	2017 메이드복 의상 상자			
+19000262	Common	Common	Common	중세기사 A 상자			
+19000263	Common	Common	Common	2017메이드복			
+19000264	Common	Common	Common	[염색]2017메이드복			
+19000265	Common	Common	Common	예비 스마트 박스6			
+19000266	Common	Common	Common	예비 스마트 박스5			
+19000267	Common	Common	Common	예비 스마트 박스4			
+19000268	Common	Common	Common	예비 스마트 박스3			
+19000269	Common	Common	Common	예비 스마트 박스2			
+19000270	Common	Common	Common	중세기사 B 박스 [30일]			
+19000271	Common	Common	Common	중세기사 B 박스 [7일]			
+19000272	Common	Common	Common	중세기사 B 박스			
+19000273	Common	Common	Common	중세기사 A 박스 [30일]			
+19000274	Common	Common	Common	중세기사 A 박스 [7일]			
+19000275	Common	Common	Common	중세기사 A 박스			
+19000276	Common	Common	Common	중세기사 C 박스 [14일]			
+19000277	Common	Common	Common	중세기사 C 박스			
+19000278	Common	Common	Common	중세기사 B 박스 [14일]			
+19000279	Common	Common	Common	중세기사 B 박스			
+19000280	Common	Common	Common	중세기사 A 박스 [14일]			
+19000281	Common	Common	Common	중세기사 A 박스			
+19000282	Common	Common	Common	중세기사 C 박스 [30일]			
+19000283	Common	Common	Common	중세기사 C 박스 [7일]			
+19000284	Common	Common	Common	중세기사 C 박스			
+19000285	Common	Common	Common	유니크: 2017 웨딩 예복함			
+19000286	Common	Common	Common	2017 웨딩 예복함			
+19000287	Common	Common	Common	Wedding Dress Costume box			
+19000288	Common	Common	Common	Dyeable Wedding Dress Costume box			
+19000289	Common	Common	Common	2017 웨딩 예복함			
+19000290	Common	Common	Common	2017 웨딩 예복함 [7일]			
+19000291	Common	Common	Common	2017 웨딩 예복함 [30일]			
+19000292	Common	Common	Common	유니크: 2017 웨딩 예복함			
+19000293	Common	Common	Common	유니크: 2017 웨딩 예복함 [7일]			
+19000294	Common	Common	Common	유니크: 2017 웨딩 예복함 [30일]			
+19000295	Common	Common	Common	2017 웨딩 예복함			
+19000296	Common	Common	Common	2017 웨딩 예복함 [14일]			
+19000297	Common	Common	Common	유니크: 2017 웨딩 예복함			
+19000298	Common	Common	Common	유니크: 2017 웨딩 예복함 [14일]			
+19000299	Common	Common	Common	2017 웨딩 드레스			
+19000300	Common	Common	Common	[염색[]2017웨딩드레스			
 23000000	Common	Common	Common	이동수단 스포츠카C(일본5주년)  !			
 23000001	Common	Common	Common	이동수단 스포츠카C(일본5주년)  !			
 23000002	Common	Common	Common	이동수단 스포츠카C(일본5주년)  !			
@@ -9904,6 +11363,102 @@
 23000078	Common	Common	Common	스킬교본: 갤럭시[블랙] 소환(30일)			
 23000079	Common	Common	Common	스킬교본: 갤럭시[블랙] 소환(30일)			
 23000080	Common	Common	Common	스킬교본: 갤럭시[블랙] 소환(30일)			
+23000081	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000082	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000083	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000084	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000085	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000086	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000087	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000088	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000089	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000090	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000091	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000092	Common	Common	Common	이동수단 본 드래곤 A (날탈) 280 !			
+23000093	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000094	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000095	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000096	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000097	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000098	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000099	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000100	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000101	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000102	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000103	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000104	Common	Common	Common	이동수단 본 드래곤 B (날탈) 290 !			
+23000105	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000106	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000107	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000108	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000109	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000110	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000111	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000112	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000113	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000114	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000115	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000116	Common	Common	Common	이동수단 본 드래곤 C (날탈) 290 !			
+23000117	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000118	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000119	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000120	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000121	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000122	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000123	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000124	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000125	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000126	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000127	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000128	Common	Common	Common	이동수단 본 드래곤 D (날탈) 290 !			
+23000129	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000130	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000131	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000132	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000133	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000134	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000135	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000136	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000137	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000138	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000139	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000140	Common	Common	Common	이동수단 본 드래곤 E (날탈) 290 !			
+23000141	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000142	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000143	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000144	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000145	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000146	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000147	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000148	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000149	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000150	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000151	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000152	Common	Common	Common	이동수단 오오카미 핑크 280 !			
+23000153	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000154	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000155	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000156	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000157	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000158	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000159	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000160	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000161	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000162	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000163	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000164	Common	Common	Common	이동수단 달 토끼 A(날탈) 280  !			
+23000165	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000166	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000167	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000168	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000169	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000170	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000171	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000172	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000173	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000174	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000175	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
+23000176	Common	Common	Common	이동수단 달 토끼 B(날탈) 280  !			
 60010100	Common	Common	Common	지속성 회복 물약			
 60020100	Common	Common	Common	신성한 보호의 물약			
 60020206	Common	Common	Common	남자다워지는 물약			
@@ -9986,7 +11541,7 @@
 60130177	Common	Common	Common	이동 주문서: 고대의 지하수로			
 60130178	Common	Common	Common	이동 주문서: 마법사의 요새			
 60130179	Common	Common	Common	이동 주문서: 거인의 숲 입구			
-60130180	Common	Common	Common	이동 주문서: 포악한 퀴르갈의 동굴/어둠의 동굴			
+60130180	Common	Common	Common	이동 주문서: 어둠의 동굴			
 60130181	Common	Common	Common	이동 주문서: 카슈바르 협곡			
 60130182	Common	Common	Common	이동 주문서: 라칸의 제단			
 60130183	Common	Common	Common	이동 주문서: 길리안의 숲			
@@ -10028,6 +11583,9 @@
 60130220	Common	Common	Common	이동 주문서: 릴리스의 성, 라켈리스의 폐허			
 60130221	Common	Common	Common	이동 주문서: 라켈리스의 폐허			
 60130222	Common	Common	Common	이동 주문서: 뒤틀린 라칸의 제단			
+60130223	Common	Common	Common	이동 주문서: 벨리카 지하 관문, 벨릭의 신전			
+60130224	Common	Common	Common	이동 주문서: 데모로스의 룰렛			
+60130225	Common	Common	Common	마을 이동 주문서: 산 알레마 마을			
 60131100	Common	Common	Common	고대의 연합보급품: 인던초기화 주문서			
 60131110	Common	Common	Common	연합 보급품: 완전한 크리스탈 보호 주문서			
 60131120	Common	Common	Common	제작 속도 증가 주문서			
@@ -10043,7 +11601,7 @@
 60160111	Common	Common	Common	쾌속의 모닥불			
 60160112	Common	Common	Common	지속의 모닥불			
 60193023	Common	Common	Common	엘리누의 금빛 선물 상자			
-60193024	Common	Common	Common	엘리누의 금빛 선물 상자			
+60193024	Common	Common	Common	Anniversary Gift			
 60193025	Common	Common	Common	미니게임 스킬 테스트용			
 60193026	Common	Common	Common	도깨비 불 : 우쭈쭈			
 60193027	Common	Common	Common	도깨비 불 : 두둥			
@@ -10471,6 +12029,7 @@
 60400112	Common	Common	Common	폭탄 XIII			
 60400113	Common	Common	Common	폭탄 XIV			
 60400200	Common	Common	Common	테스트 용 폭탄			
+60400201	Common	Common	Common	DPS측정용 폭탄			
 60401100	Common	Common	Common	미니 폭죽			
 60401201	Common	Common	Common	폭죽 세트			
 60401300	Common	Common	Common	스마일 폭죽			
@@ -11059,6 +12618,31 @@
 61100921	Common	Common	Common	정제된 녹테늄 강화탄 [희귀]			
 61100922	Common	Common	Common	정제된 녹테늄 강화탄 [전설]			
 61100929	Common	Common	Common	정제된 녹테늄 강화탄 200929 비교테스트용			
+61121294	Common	Common	Common	압도적인 승리자의 액세서리 도안 상자			
+61121295	Common	Common	Common	벨데그의 무기 상자			
+61121296	Common	Common	Common	벨데그의 갑옷 상자			
+61121297	Common	Common	Common	철기장의 무기 : 냉혈 상자			
+61121298	Common	Common	Common	철기장의 갑옷 : 냉혈 상자			
+61121299	Common	Common	Common	철기장의 장갑 : 냉혈 상자			
+61121300	Common	Common	Common	철기장의 신발 : 냉혈 상자			
+61121301	Common	Common	Common	라켈리스의 액세서리 세트 상자			
+61121302	Common	Common	Common	라켈리스의 반지 상자			
+61121303	Common	Common	Common	라켈리스의 귀걸이 상자			
+61121304	Common	Common	Common	초월한 라켈리스의 반지 상자			
+61121305	Common	Common	Common	초월한 라켈리스의 귀걸이 상자			
+61121306	Common	Common	Common	라켈리스의 목걸이 상자			
+61121307	Common	Common	Common	전사 꿈나무 승리 기념품 상자			
+61121308	Common	Common	Common	성장하는 전사 승리 기념품 상자			
+61121309	Common	Common	Common	대혼전 승리 기념품 상자			
+61121310	Common	Common	Common	투지의 전장 승리 기념품 상자			
+61121311	Common	Common	Common	포화의 전장 승리 기념품 상자			
+61121312	Common	Common	Common	명예의 전장 승리 기념품 상자			
+61121313	Common	Common	Common	릴리스의 장갑 상자			
+61121314	Common	Common	Common	릴리스의 신발 상자			
+61121315	Common	Common	Common	베르고스 전투 주머니 (하급)			
+61121316	Common	Common	Common	베르고스 전투 주머니 (중급)			
+61121317	Common	Common	Common	베르고스 전투 주머니 (상급)			
+61121318	Common	Common	Common	베르고스 전투 주머니 (최상급)			
 61180100	Common	Common	Common	회복의 정기 구슬 I			
 61180200	Common	Common	Common	회복의 정기 구슬 II			
 61180300	Common	Common	Common	회복의 정기 구슬 III			
@@ -11179,6 +12763,7 @@
 61900105	Common	Common	Common	특성 고속 성장 100 (1시간)			
 61900106	Common	Common	Common	고속성장 500 (3시간)			
 61900111	Common	Common	Common	천등 소환			
+61900112	Common	Common	Common	반짝 반짝 미러볼			
 61901000	Common	Common	Common	신중한 한방			
 61901030	Common	Common	Common	고약한 눈뭉치 폭탄			
 61901100	Common	Common	Common	눈싸움 전용 체력 회복 물약			
@@ -11615,8 +13200,28 @@
 61903441	Common	Common	Common	65레벨 달성 기념 우정의 선물			
 61903442	Common	Common	Common	친구 65레벨 달성 기념 우정의 선물			
 61903443	Common	Common	Common	발키온 정찰대 강화 상자			
+61903444	Common	Common	Common	크리스탈 보급 상자 III			
+61903445	Common	Common	Common	파괴자의 크리스탈 보급 상자 III			
+61903446	Common	Common	Common	수호자의 크리스탈 보급 상자 III			
+61903447	Common	Common	Common	심판자의 크리스탈 보급상자 III			
+61903448	Common	Common	Common	치유사의 크리스탈 보급 상자 III			
+61903449	Common	Common	Common	크리스탈 보급 상자 IV			
+61903450	Common	Common	Common	파괴자의 크리스탈 보급 상자 IV			
+61903451	Common	Common	Common	수호자의 크리스탈 보급 상자 IV			
+61903452	Common	Common	Common	심판자의 크리스탈 보급 상자 IV			
+61903453	Common	Common	Common	치유사의 크리스탈 보급 상자 IV			
+61903454	Common	Common	Common	크리스탈 보급 상자 V			
+61903455	Common	Common	Common	파괴자의 크리스탈 보급 상자 V			
+61903456	Common	Common	Common	수호자의 크리스탈 보급 상자 V			
 61903457	Common	Common	Common	릴리스의 무기 상자			
 61903458	Common	Common	Common	릴리스의 갑옷 상자			
+61903459	Common	Common	Common	크리스탈 보급 상자 VI			
+61903460	Common	Common	Common	파괴자의 크리스탈 보급 상자 VI			
+61903461	Common	Common	Common	수호자의 크리스탈 보급 상자 VI			
+61903462	Common	Common	Common	심판자의 크리스탈 보급 상자 VI			
+61903463	Common	Common	Common	치유사의 크리스탈 보급 상자 VI			
+61903464	Common	Common	Common	심판자의 크리스탈 보급 상자 V			
+61903465	Common	Common	Common	치유사의 크리스탈 보급 상자 V			
 61903500	Common	Common	Common	시공의 반지 상자			
 61903501	Common	Common	Common	시공의 귀걸이 상자			
 61903502	Common	Common	Common	일그러진 시공의 반지 상자			
@@ -11653,6 +13258,29 @@
 61905011	Common	Common	Common	펫바실리스크			
 61905012	Common	Common	Common	재간둥이 루이 소환			
 61905013	Common	Common	Common	수집꾼 몽실 소환			
+61905014	Common	Common	Common	수집꾼 쿠링 소환(기간제)			
+61905015	Common	Common	Common	[이벤트] 루키나의 자신만만 초콜렛			
+61905016	Common	Common	Common	[이벤트] 라무스의 똑똑한 초콜렛			
+61905017	Common	Common	Common	[이벤트] 로스의 사과장인 초콜렛			
+61905018	Common	Common	Common	15-Day Care and Use of Your Pet Argette			
+61905022	Common	Common	Common	Книга питомца: Драконетта			
+61905023	Common	Common	Common	Книга питомца: Конфетка			
+61905024	Common	Common	Common	Книга питомца: Адамс			
+61905025	Common	Common	Common	Книга питомца: Банзай			
+61905026	Common	Common	Common	Книга питомца: Рейни			
+61905027	Common	Common	Common	Книга питомца: Расти			
+61905028	Common	Common	Common	Книга питомца: Пинки			
+61905029	Common	Common	Common	Книга питомца: Зеро			
+61905030	Common	Common	Common	Книга питомца: Мисс Катоник			
+61905910	Common	Common	Common	월광무사의 문장 봉인함			
+61905911	Common	Common	Common	명예로운 월광무사의 문장 봉인함			
+61905912	Common	Common	Common	월광무사의 문장 봉인함 I			
+61905913	Common	Common	Common	월광무사의 문장 봉인함 II			
+61905914	Common	Common	Common	[Lv.58~60] 월광무사 지원 장비			
+61905915	Common	Common	Common	[Lv.61~62] 월광무사 지원 장비			
+61905916	Common	Common	Common	[Lv.63~64] 월광무사 지원 장비			
+61905917	Common	Common	Common	[Lv.65] 월광무사 지원 장비			
+61905918	Common	Common	Common	희귀 문장 봉인함 : 월광무사			
 61906001	Common	Common	Common	수집꾼 쿠링 소환(30일_7일)			
 61906003	Common	Common	Common	다혈질 타미 소환(30일_7일)			
 61906004	Common	Common	Common	무쇠머리 범피 소환(30일_7일)			
@@ -11780,6 +13408,10 @@
 63005606	Common	Common	Common	인던초기화: 라켈리스의 폐허			
 63005607	Common	Common	Common	인던초기화: 초월한 라켈리스의 폐허			
 63005608	Common	Common	Common	인던초기화: 뒤틀린 라칸의 제단			
+63005609	Common	Common	Common	하급 던전 초기화 주문서			
+63005610	Common	Common	Common	중급 던전 초기화 주문서			
+63005611	Common	Common	Common	상급 던전 초기화 주문서			
+63005612	Common	Common	Common	최상급 던전 초기화 주문서			
 64000600	Common	Common	Common	하급 투명화 물약			
 64000700	Common	Common	Common	고급 투명화 물약			
 64000800	Common	Common	Common	투명화 해제 와드			

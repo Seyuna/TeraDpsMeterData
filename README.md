@@ -13,13 +13,13 @@ https://github.com/gothos-folly/TeraDataTools
 
 Decrypted Database repository:
 ----------------------
-https://cloud.neowutran.ovh/index.php/s/oBn8azZp83tujjY
+https://neowutran.ovh/files-storage/TeraDB/
 
 File formats:
 ----------------------
 HotDot*.tsv:
 
-AbnormalId	AbnormalType	HPChange	MPChange	Method	Time	Tick	Amount	Name	Itemid	ItemName	Tooltip	IconName
+AbnormalId	AbnormalType	AbnormalClass	IsBuff	Method	Time	Tick	Amount	Name	Itemid	ItemName	Tooltip	IconName
 
 
 skills*.tsv:
@@ -29,8 +29,9 @@ SkillId	Race	Gender	Class	SkillName	Chained	SkillDetailedInfo IconName
 
 pet-skills*.tsv:
 
-SummonName	SkillId	SkillName
+HuntingZoneId	TemplateId	SummonName	SkillId	SkillName	IconName
 
+note that game send pet skills id as (HuntingZoneId<<16 + SkillId)
 
 glyph*.tsv
 
