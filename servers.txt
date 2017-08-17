@@ -1,4 +1,4 @@
-79.110.94.211 EU 26 Killian
+﻿79.110.94.211 EU 26 Killian
 79.110.94.212 EU 27 Mystel
 79.110.94.213 EU 28 Yurian
 79.110.94.214 EU 29 Seren
